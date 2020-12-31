@@ -1,6 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>友链墙</title>
+    <url>/2018/03/11/friendly-link/</url>
+    <content><![CDATA[<p><strong>这是一个友链申请帖以及友链列表。</strong></p>
+<p>如果您有自己的网站，又想增加流量的话，您可以试试申请友链哦。</p>
+<a id="more"></a>
+<h2><span id="fidel-的邻居们">Fidel 的邻居们</span></h2><!-- MUDI -->
+<!-- 使用 iframe 硬核实现 -->
+<iframe src="/links/" width="100%" frameborder="0" onload="this.height=this.contentWindow.document.body.scrollHeight + 15"></iframe>
+
+<p><del>（我终于会用MUDI卡片做友链了！）</del></p>
+<h3><span id="已经无法访问的链接">已经无法访问的链接</span></h3><p>维护一个个人博客并不是一件容易的事情。以下链接已无法访问。</p>
+<ul>
+<li><a href="https://www.anodelic.cn">Funcraft&#39;s blog</a></li>
+</ul>
+<p><strong>如果您的链接已更改或被我错误地移动到了该列表中，请在下方留言通知我。</strong></p>
+<h2><span id="友链申请">友链申请</span></h2><p>友链要求：</p>
+<ul>
+<li>您自己拥有一个<strong>独立博客</strong>。</li>
+<li>有<strong>一定的质量</strong>。</li>
+<li>访问速度不要太慢。（只要没被墙掉或者慢到让我以为被墙掉了就行）</li>
+<li><strong>尊重版权，尊重原创</strong>。</li>
+</ul>
+<p>一般来说，<strong>使用建站工具搭建的网站我是不会接受的</strong>，除非你做得特别漂亮（如果您用建站工具做出了高端大气上档次的 Blog……大佬啊！快来加友链呀）。</p>
+<p>申请友链只需要在下面留言<strong>您的链接和网站名（注意记得填写邮箱，不然就收不到回复通知啦）</strong>即可。如果我回复了您的留言，通常您就能收到本站的邮件通知。</p>
+<h2><span id="关于-fidel39s-lab-的友链信息">关于 Fidel&#39;s Lab 的友链信息</span></h2><blockquote>
+<p><strong>Title: Fidel&#39;s Lab</strong></p>
+<p>Subtitle: 不乱于心，不困于情。不畏将来，不念过往。</p>
+<p><strong>Link: <a href="https://fidel.js.org">https://fidel.js.org</a></strong></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>三星NOTE4刷港版手记</title>
     <url>/2018/04/30/samsung-TGY/</url>
     <content><![CDATA[<blockquote>
@@ -55,6 +90,52 @@
       </tags>
   </entry>
   <entry>
+    <title>Hello, Rain City!</title>
+    <url>/2018/04/30/hello-raincity/</url>
+    <content><![CDATA[<p>Rain City终于搭建完成啦！</p>
+<a id="more"></a>
+<blockquote>
+<p>“不是在之前就已经搭建好了吗？”<br>嗯……<a href="https://fidel.js.org/2018/03/11/about/">这个blog的第一篇文章</a>在写的时候Rain City还没完全建好，当时Fork了别人的Blog之后还在继续优化细节。<del>不要问我为什么那么早写……</del></p>
+</blockquote>
+<p>话说回来，写这篇文章的时候刚好是5月11日，距第一篇文章【关于Rain City】开始动笔刚好整整2个月。</p>
+<p>也就是说，经历了整整2个月，Rain City从建站开始，至此终于搭建完毕。</p>
+<p>在这个重要的日子，截几张图片作为纪念：</p>
+<p><img src="https://s1.ax1x.com/2018/05/11/CBFe3Q.png" alt="Rain City主页，截取于2018年5月11日"></p>
+<p><del>不要问我为什么背景是白的，貌似是截的时候还没加载好</del></p>
+<p><img src="https://s1.ax1x.com/2018/05/11/CBFKun.png" alt="Rain City主页，截取于2018年5月11日"></p>
+<h2><span id="一些也许久远的事情">一些也许久远的事情</span></h2><p>令我产生建这个博客的念头是LittleQiu的博客<a href="https://www.littleqiu.net">DreamCity</a>。关于怎么知道DreamCity的，记得是在去年我还运营着一个Minecraft服务器的时候。当时在NextCraft的交流群里有人发了一张“请填入网址：www.<strong>_</strong>.com”的表情，然后LittleQiu就回复了他的博客网址，于是我就第一次接触到了他的博客。</p>
+<p>其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型Minecraft服务器作为官网。可惜，网易给Minecraft的生态链带来极大的破坏。2017年7月，在这个历来玩家活跃的夏天，Minecraft在经历了一个春天的沉寂之后，在Minecraft私服界的急切期盼下，却再也没有重新醒来。</p>
+<p>我一手建立起的梦境现实世界，终于没能撑过2017年的夏天。</p>
+<p>2018年1月，<a href="https://i.anodelic.com/">Nextcraft业务关停。</a></p>
+<p><img src="https://s1.ax1x.com/2018/05/11/CBkTdx.png" alt="Nextcraft业务关停"></p>
+<blockquote>
+<p>夜幕降临，黑夜会将我们吞没。<strong>等到太阳再次升起的时刻，我们还会再次相遇。</strong></p>
+<p>——Angelic47</p>
+</blockquote>
+<p>2018年4月25日，Atlantis Cloud业务关停，售前群被解散。</p>
+<p><img src="https://s1.ax1x.com/2018/05/11/CBkLWD.png" alt="Atlantis Cloud售前群解散"></p>
+<p>再没有了我曾经熟悉的Minecraft，只剩这个博客，成为我们共同联络的桥梁。</p>
+<blockquote>
+<p>就算世界终结，也无所谓。</p>
+<p><strong>愿你有一天，能与你最重要的人重逢。</strong></p>
+</blockquote>
+<p>这是LittleQiu的DreamCity的标题。</p>
+<p>希望，读到这一段的你，也一样。</p>
+<h2><span id="关于这个博客的搭建">关于这个博客的搭建</span></h2><p>这个博客主题forked from <a href="https://github.com/xudailong/xudailong.github.io">xudailongxudailong.github.io</a> forked from <a href="https://github.com/Gaohaoyang/gaohaoyang.github.io">Gaohaoyang/gaohaoyang.github.io</a> ，仿照<a href="https://www.littleqiu.net">DreamCity</a>的<a href="https://github.com/vtrois/kratos">KRATOS</a>主题Copy了个Banner和右栏的个人介绍，同时对于一些小细节进行了改动。</p>
+<p>目前写博客用的是<a href="https://stackedit.io/">StackEdit</a>，目前我找到的唯一一个可以直接上传至github的在线markdown编辑器。目前与Dropbox和Google硬盘关联作为储存，电脑与手机同步写文章。</p>
+<p><img src="https://s1.ax1x.com/2018/05/11/CBAN01.png" alt="StackEdit，截取于写这篇文章的时候"></p>
+<p>目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我<del>一时脑抽</del>忘记加了，在评论提醒我一声吧。</p>
+<p>另外打算再增加一个类似“看板”与“想法”之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是“控制台”页面，把关于这个博客后台工作的链接整合在一起，看起来也更“有范”。</p>
+<p>最后，已经申请了DreamCity的友链，有时间的话再提交到百度和Google上面。</p>
+<hr>
+<h3><span id="2018-5-18">2018-5-18：</span></h3><p>目前发现一个很尴尬的问题：因为StackEdit有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章……目前解决方法是写文章时先把VPN断开，变成离线模式，写完后再开VPN同步到Github上</p>
+<p>目前正在寻找更好的解决办法……也欢迎各位知道解决办法的大佬分享一下。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hexo，走起！</title>
     <url>/2018/08/13/hello-hexo/</url>
     <content><![CDATA[<p>Rain City 又搬家啦！</p>
@@ -101,52 +182,6 @@
 <p>右边的站内搜索功能使用了<a href="https://www.npmjs.com/package/hexo-generator-search">hexo-generator-search</a>和<a href="https://github.com/barretlee/hexo-search-plugin-snippets">hexo-search-plugin-snippets</a>插件，但是不知道为什么没有效果，后面会继续研究一下。也请各位大佬指点一下，不尽感谢。</p>
 <p>除此之外，右侧的 sidebar 和音乐播放器也正在移植，其他的小细节也会持续优化。感谢关注 Rain City！</p>
 <p><img src="https://s1.ax1x.com/2018/08/13/PgUBCV.png" alt="赞赏一下呗～"></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello, Rain City!</title>
-    <url>/2018/04/30/hello-raincity/</url>
-    <content><![CDATA[<p>Rain City终于搭建完成啦！</p>
-<a id="more"></a>
-<blockquote>
-<p>“不是在之前就已经搭建好了吗？”<br>嗯……<a href="https://fidel.js.org/2018/03/11/about/">这个blog的第一篇文章</a>在写的时候Rain City还没完全建好，当时Fork了别人的Blog之后还在继续优化细节。<del>不要问我为什么那么早写……</del></p>
-</blockquote>
-<p>话说回来，写这篇文章的时候刚好是5月11日，距第一篇文章【关于Rain City】开始动笔刚好整整2个月。</p>
-<p>也就是说，经历了整整2个月，Rain City从建站开始，至此终于搭建完毕。</p>
-<p>在这个重要的日子，截几张图片作为纪念：</p>
-<p><img src="https://s1.ax1x.com/2018/05/11/CBFe3Q.png" alt="Rain City主页，截取于2018年5月11日"></p>
-<p><del>不要问我为什么背景是白的，貌似是截的时候还没加载好</del></p>
-<p><img src="https://s1.ax1x.com/2018/05/11/CBFKun.png" alt="Rain City主页，截取于2018年5月11日"></p>
-<h2><span id="一些也许久远的事情">一些也许久远的事情</span></h2><p>令我产生建这个博客的念头是LittleQiu的博客<a href="https://www.littleqiu.net">DreamCity</a>。关于怎么知道DreamCity的，记得是在去年我还运营着一个Minecraft服务器的时候。当时在NextCraft的交流群里有人发了一张“请填入网址：www.<strong>_</strong>.com”的表情，然后LittleQiu就回复了他的博客网址，于是我就第一次接触到了他的博客。</p>
-<p>其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型Minecraft服务器作为官网。可惜，网易给Minecraft的生态链带来极大的破坏。2017年7月，在这个历来玩家活跃的夏天，Minecraft在经历了一个春天的沉寂之后，在Minecraft私服界的急切期盼下，却再也没有重新醒来。</p>
-<p>我一手建立起的梦境现实世界，终于没能撑过2017年的夏天。</p>
-<p>2018年1月，<a href="https://i.anodelic.com/">Nextcraft业务关停。</a></p>
-<p><img src="https://s1.ax1x.com/2018/05/11/CBkTdx.png" alt="Nextcraft业务关停"></p>
-<blockquote>
-<p>夜幕降临，黑夜会将我们吞没。<strong>等到太阳再次升起的时刻，我们还会再次相遇。</strong></p>
-<p>——Angelic47</p>
-</blockquote>
-<p>2018年4月25日，Atlantis Cloud业务关停，售前群被解散。</p>
-<p><img src="https://s1.ax1x.com/2018/05/11/CBkLWD.png" alt="Atlantis Cloud售前群解散"></p>
-<p>再没有了我曾经熟悉的Minecraft，只剩这个博客，成为我们共同联络的桥梁。</p>
-<blockquote>
-<p>就算世界终结，也无所谓。</p>
-<p><strong>愿你有一天，能与你最重要的人重逢。</strong></p>
-</blockquote>
-<p>这是LittleQiu的DreamCity的标题。</p>
-<p>希望，读到这一段的你，也一样。</p>
-<h2><span id="关于这个博客的搭建">关于这个博客的搭建</span></h2><p>这个博客主题forked from <a href="https://github.com/xudailong/xudailong.github.io">xudailongxudailong.github.io</a> forked from <a href="https://github.com/Gaohaoyang/gaohaoyang.github.io">Gaohaoyang/gaohaoyang.github.io</a> ，仿照<a href="https://www.littleqiu.net">DreamCity</a>的<a href="https://github.com/vtrois/kratos">KRATOS</a>主题Copy了个Banner和右栏的个人介绍，同时对于一些小细节进行了改动。</p>
-<p>目前写博客用的是<a href="https://stackedit.io/">StackEdit</a>，目前我找到的唯一一个可以直接上传至github的在线markdown编辑器。目前与Dropbox和Google硬盘关联作为储存，电脑与手机同步写文章。</p>
-<p><img src="https://s1.ax1x.com/2018/05/11/CBAN01.png" alt="StackEdit，截取于写这篇文章的时候"></p>
-<p>目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我<del>一时脑抽</del>忘记加了，在评论提醒我一声吧。</p>
-<p>另外打算再增加一个类似“看板”与“想法”之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是“控制台”页面，把关于这个博客后台工作的链接整合在一起，看起来也更“有范”。</p>
-<p>最后，已经申请了DreamCity的友链，有时间的话再提交到百度和Google上面。</p>
-<hr>
-<h3><span id="2018-5-18">2018-5-18：</span></h3><p>目前发现一个很尴尬的问题：因为StackEdit有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章……目前解决方法是写文章时先把VPN断开，变成离线模式，写完后再开VPN同步到Github上</p>
-<p>目前正在寻找更好的解决办法……也欢迎各位知道解决办法的大佬分享一下。</p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -211,41 +246,6 @@
 ]]></content>
       <tags>
         <tag>技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>友链墙</title>
-    <url>/2018/03/11/friendly-link/</url>
-    <content><![CDATA[<p><strong>这是一个友链申请帖以及友链列表。</strong></p>
-<p>如果您有自己的网站，又想增加流量的话，您可以试试申请友链哦。</p>
-<a id="more"></a>
-<h2><span id="fidel-的邻居们">Fidel 的邻居们</span></h2><!-- MUDI -->
-<!-- 使用 iframe 硬核实现 -->
-<iframe src="/links/" width="100%" frameborder="0" onload="this.height=this.contentWindow.document.body.scrollHeight + 15"></iframe>
-
-<p><del>（我终于会用MUDI卡片做友链了！）</del></p>
-<h3><span id="已经无法访问的链接">已经无法访问的链接</span></h3><p>维护一个个人博客并不是一件容易的事情。以下链接已无法访问。</p>
-<ul>
-<li><a href="https://www.anodelic.cn">Funcraft&#39;s blog</a></li>
-</ul>
-<p><strong>如果您的链接已更改或被我错误地移动到了该列表中，请在下方留言通知我。</strong></p>
-<h2><span id="友链申请">友链申请</span></h2><p>友链要求：</p>
-<ul>
-<li>您自己拥有一个<strong>独立博客</strong>。</li>
-<li>有<strong>一定的质量</strong>。</li>
-<li>访问速度不要太慢。（只要没被墙掉或者慢到让我以为被墙掉了就行）</li>
-<li><strong>尊重版权，尊重原创</strong>。</li>
-</ul>
-<p>一般来说，<strong>使用建站工具搭建的网站我是不会接受的</strong>，除非你做得特别漂亮（如果您用建站工具做出了高端大气上档次的 Blog……大佬啊！快来加友链呀）。</p>
-<p>申请友链只需要在下面留言<strong>您的链接和网站名（注意记得填写邮箱，不然就收不到回复通知啦）</strong>即可。如果我回复了您的留言，通常您就能收到本站的邮件通知。</p>
-<h2><span id="关于-fidel39s-lab-的友链信息">关于 Fidel&#39;s Lab 的友链信息</span></h2><blockquote>
-<p><strong>Title: Fidel&#39;s Lab</strong></p>
-<p>Subtitle: 不乱于心，不困于情。不畏将来，不念过往。</p>
-<p><strong>Link: <a href="https://fidel.js.org">https://fidel.js.org</a></strong></p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>公告</tag>
       </tags>
   </entry>
   <entry>
@@ -381,72 +381,6 @@
       </tags>
   </entry>
   <entry>
-    <title>非 正 常 代 码</title>
-    <url>/2020/01/16/unusual-code/</url>
-    <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
-<p>考完试了，是时候来放(gao)松(dian)一(shi)下(qing)了</p>
-<p>进入学校的洛谷奥赛团，发现布置了一道新题目：<a href="https://www.luogu.com.cn/problemnew/show/P1996"><strong>P1996</strong> 约瑟夫问题</a></p>
-<blockquote>
-<p>n个人(n&lt;=100)围成一圈,从第一个人开始报数,数到m的人出列,再由下一个人重新从1开始报数,数到m的人再出圈,……依次类推,直到所有的人都出圈,请输出依次出圈人的编号.</p>
-</blockquote>
-<p>要求用链表做，但我也可以搞点事情嘛~</p>
-<a id="more"></a>
-<p>十分钟后敲出一份 AC 代码：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n, m, i, count, jump;</span><br><span class="line"><span class="keyword">bool</span> a[<span class="number">100</span>];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function">	<span class="title">scanf</span><span class="params">(<span class="string">&quot;%d%d&quot;</span>, &amp;n, &amp;m)</span></span>;</span><br><span class="line">	<span class="built_in">memset</span>(a, <span class="literal">false</span>, <span class="keyword">sizeof</span>(a));</span><br><span class="line"></span><br><span class="line">	count = <span class="number">0</span>;</span><br><span class="line">	i = <span class="number">-1</span>;</span><br><span class="line">	jump = <span class="number">0</span>;</span><br><span class="line">	<span class="keyword">while</span> (count &lt; n)&#123;</span><br><span class="line">		i++;</span><br><span class="line">		i %= n;</span><br><span class="line">		<span class="keyword">if</span> (!a[i])</span><br><span class="line">			jump++;</span><br><span class="line">		<span class="keyword">if</span> (jump == m)&#123;</span><br><span class="line">			<span class="built_in">printf</span>(<span class="string">&quot;%d &quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">			a[i] = <span class="literal">true</span>;</span><br><span class="line">			count++;</span><br><span class="line">			jump = <span class="number">0</span>;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p><strong>不断地循环，用一个<code>bool</code>数组标记出列。</strong></p>
-<p>AC 是 AC 了，但是……中规中矩，<del>不符合我们搞事情的风格呀</del></p>
-<p>我们来<strong>稍微简化一下</strong>&lt;_&lt;</p>
-<blockquote>
-<p><del>简化亿下</del></p>
-</blockquote>
-<p>首先，最关键的就是中间这段 <strong>while 循环</strong>了，所以我们先从这里入手。</p>
-<h3><span id="step-1">Step 1</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">i++;</span><br><span class="line">i %= n;</span><br></pre></td></tr></table></figure>
-<p>开始先是指针<code>i</code><strong>累加</strong>，然后用一个<strong>求余</strong>处理溢出。</p>
-<p>合并一下，变成：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++i %= n;</span><br></pre></td></tr></table></figure>
-<h3><span id="step-2">Step 2</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (!a[i])</span><br><span class="line">	jump++;</span><br></pre></td></tr></table></figure>
-<p>这里需要动点脑筋，我们知道<code>a[i]</code>是<code>bool</code>型数组，所以就有<code>True</code>和<code>False</code>两种情况，<strong>作加法运算时转成<code>int</code>就是<code>1</code>和<code>0</code></strong>。我们只需要让<code>jump</code>累加上<code>a[i]</code>的<strong>取反值</strong>就好了。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">jump += !a[i];</span><br></pre></td></tr></table></figure>
-<h3><span id="step-3">Step 3</span></h3><p>现在 Step 1 和 Step 2 的 4 行代码已经<strong>缩成了 2 行</strong>。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++i %= n;</span><br><span class="line">jump += !a[i];</span><br></pre></td></tr></table></figure>
-<p>但是这还不够，我们可以再合并一下：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">jump += !a[++i %= n];</span><br></pre></td></tr></table></figure>
-<h3><span id="step-4">Step 4</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (jump == m)&#123;</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%d &quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">	a[i] = <span class="literal">true</span>;</span><br><span class="line">	count++;</span><br><span class="line">	jump = <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
-<p>接下来是一段 <strong>if 逻辑</strong>，我们这里需要用<strong>三元操作符</strong>来代替。</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">条件 ? 条件为True时执行的代码 : 条件为False时执行的代码</span><br></pre></td></tr></table></figure>
-<p>我们把三元操作符塞进<strong><code>printf</code>函数</strong>里面：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>(jump == m ? <span class="string">&quot;%d&quot;</span> : <span class="string">&quot;&quot;</span> , i+<span class="number">1</span>);</span><br></pre></td></tr></table></figure>
-<p>但是剩下的三行赋值怎么办？</p>
-<p>这里我们就需要用到一个很巧妙的工具了：<strong>与运算符<code>&amp;&amp;</code></strong></p>
-<p>我们都知道，与运算符正常的打开方式是这样子的：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">条件<span class="number">1</span> &amp;&amp; 条件<span class="number">2</span></span><br></pre></td></tr></table></figure>
-<p>只有两个条件全为<code>True</code>，整个表达式才为<code>True</code>。<strong>如果条件 1 为 <code>True</code>，则不会判断条件 2。</strong></p>
-<p>我们稍微思考一下，<strong>如果条件 2 恒为 <code>True</code>，那么整个表达式的值完全取决于条件 1。</strong>而 <strong><code>&amp;&amp;</code>运算符两边是可以塞下一个赋值表达式的！</strong></p>
-<p>这样，<strong>我们就可以把剩下的三条赋值表达式全部用连续的<code>&amp;&amp;</code>运算符塞进一个括号里面去！</strong></p>
-<p>赋值表达式本身的值等于最终被赋值的值，我们只需要<strong>通过取反运算符<code>!</code>或者直接<code>+1</code>让表达式的值恒为<code>True</code></strong>就好了。</p>
-<p>所以就变成了这样：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>)</span><br></pre></td></tr></table></figure>
-<p>与上面的<code>printf</code>函数合并一下，变成：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>((jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>) ? <span class="string">&quot;%d &quot;</span> : <span class="string">&quot;&quot;</span>, i+<span class="number">1</span>);</span><br></pre></td></tr></table></figure>
-<p>Perfect!</p>
-<h3><span id="step-5">Step 5</span></h3><p>最后我们只需要将代码整理一下即可。</p>
-<p>貌似改动的时候出了点小 bug，<code>i</code>不能初始化为<code>-1</code>，要初始化为<code>0</code>。我也不知道是什么原因。但也好，这就更简单了。</p>
-<p><strong>所有的变量和数组都定义为全局变量，直接默认初始化为<code>0</code>，这样把初始化的赋值和<code>memset</code>都省了。</strong></p>
-<p>整理一下，大功告成：</p>
-<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="keyword">int</span> n, m, i, count, jump;</span><br><span class="line"><span class="keyword">bool</span> a[<span class="number">100</span>];</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>, &amp;n, &amp;m);</span><br><span class="line">	<span class="keyword">while</span> (count &lt; n) <span class="built_in">printf</span>((jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>) ? <span class="string">&quot;%d &quot;</span> : <span class="string">&quot;&quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
-<h2><span id="尾声">尾声</span></h2><p>还是没有大佬们厉害。</p>
-<p><img src="https://s2.ax1x.com/2020/01/17/1Sin4H.jpg" alt></p>
-<blockquote>
-<p> <strong>题目背景</strong></p>
-<p> 约瑟夫是一个无聊的人！！</p>
-</blockquote>
-<p><strong>我也像是个无聊的人&lt;_&lt;</strong></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>About Fidel&#39;s Lab</title>
     <url>/2020/04/05/new-about/</url>
     <content><![CDATA[<blockquote>
@@ -571,6 +505,72 @@
 <a id="more"></a>
 <p><img src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt></p>
 <p>顺便介绍一下 Vdrias World! 服务器：<a href="https://www.mashirl.cn/2020/02/27/vdrias-world-minecraft-server/">Vdrias World! 一个Minecraft服务器</a></p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>非 正 常 代 码</title>
+    <url>/2020/01/16/unusual-code/</url>
+    <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
+<p>考完试了，是时候来放(gao)松(dian)一(shi)下(qing)了</p>
+<p>进入学校的洛谷奥赛团，发现布置了一道新题目：<a href="https://www.luogu.com.cn/problemnew/show/P1996"><strong>P1996</strong> 约瑟夫问题</a></p>
+<blockquote>
+<p>n个人(n&lt;=100)围成一圈,从第一个人开始报数,数到m的人出列,再由下一个人重新从1开始报数,数到m的人再出圈,……依次类推,直到所有的人都出圈,请输出依次出圈人的编号.</p>
+</blockquote>
+<p>要求用链表做，但我也可以搞点事情嘛~</p>
+<a id="more"></a>
+<p>十分钟后敲出一份 AC 代码：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstring&gt;</span></span></span><br><span class="line"></span><br><span class="line"><span class="keyword">int</span> n, m, i, count, jump;</span><br><span class="line"><span class="keyword">bool</span> a[<span class="number">100</span>];</span><br><span class="line"></span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function">	<span class="title">scanf</span><span class="params">(<span class="string">&quot;%d%d&quot;</span>, &amp;n, &amp;m)</span></span>;</span><br><span class="line">	<span class="built_in">memset</span>(a, <span class="literal">false</span>, <span class="keyword">sizeof</span>(a));</span><br><span class="line"></span><br><span class="line">	count = <span class="number">0</span>;</span><br><span class="line">	i = <span class="number">-1</span>;</span><br><span class="line">	jump = <span class="number">0</span>;</span><br><span class="line">	<span class="keyword">while</span> (count &lt; n)&#123;</span><br><span class="line">		i++;</span><br><span class="line">		i %= n;</span><br><span class="line">		<span class="keyword">if</span> (!a[i])</span><br><span class="line">			jump++;</span><br><span class="line">		<span class="keyword">if</span> (jump == m)&#123;</span><br><span class="line">			<span class="built_in">printf</span>(<span class="string">&quot;%d &quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">			a[i] = <span class="literal">true</span>;</span><br><span class="line">			count++;</span><br><span class="line">			jump = <span class="number">0</span>;</span><br><span class="line">		&#125;</span><br><span class="line">	&#125;</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p><strong>不断地循环，用一个<code>bool</code>数组标记出列。</strong></p>
+<p>AC 是 AC 了，但是……中规中矩，<del>不符合我们搞事情的风格呀</del></p>
+<p>我们来<strong>稍微简化一下</strong>&lt;_&lt;</p>
+<blockquote>
+<p><del>简化亿下</del></p>
+</blockquote>
+<p>首先，最关键的就是中间这段 <strong>while 循环</strong>了，所以我们先从这里入手。</p>
+<h3><span id="step-1">Step 1</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">i++;</span><br><span class="line">i %= n;</span><br></pre></td></tr></table></figure>
+<p>开始先是指针<code>i</code><strong>累加</strong>，然后用一个<strong>求余</strong>处理溢出。</p>
+<p>合并一下，变成：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++i %= n;</span><br></pre></td></tr></table></figure>
+<h3><span id="step-2">Step 2</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (!a[i])</span><br><span class="line">	jump++;</span><br></pre></td></tr></table></figure>
+<p>这里需要动点脑筋，我们知道<code>a[i]</code>是<code>bool</code>型数组，所以就有<code>True</code>和<code>False</code>两种情况，<strong>作加法运算时转成<code>int</code>就是<code>1</code>和<code>0</code></strong>。我们只需要让<code>jump</code>累加上<code>a[i]</code>的<strong>取反值</strong>就好了。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">jump += !a[i];</span><br></pre></td></tr></table></figure>
+<h3><span id="step-3">Step 3</span></h3><p>现在 Step 1 和 Step 2 的 4 行代码已经<strong>缩成了 2 行</strong>。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">++i %= n;</span><br><span class="line">jump += !a[i];</span><br></pre></td></tr></table></figure>
+<p>但是这还不够，我们可以再合并一下：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">jump += !a[++i %= n];</span><br></pre></td></tr></table></figure>
+<h3><span id="step-4">Step 4</span></h3><figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="keyword">if</span> (jump == m)&#123;</span><br><span class="line">	<span class="built_in">printf</span>(<span class="string">&quot;%d &quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">	a[i] = <span class="literal">true</span>;</span><br><span class="line">	count++;</span><br><span class="line">	jump = <span class="number">0</span>;</span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure>
+<p>接下来是一段 <strong>if 逻辑</strong>，我们这里需要用<strong>三元操作符</strong>来代替。</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">条件 ? 条件为True时执行的代码 : 条件为False时执行的代码</span><br></pre></td></tr></table></figure>
+<p>我们把三元操作符塞进<strong><code>printf</code>函数</strong>里面：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>(jump == m ? <span class="string">&quot;%d&quot;</span> : <span class="string">&quot;&quot;</span> , i+<span class="number">1</span>);</span><br></pre></td></tr></table></figure>
+<p>但是剩下的三行赋值怎么办？</p>
+<p>这里我们就需要用到一个很巧妙的工具了：<strong>与运算符<code>&amp;&amp;</code></strong></p>
+<p>我们都知道，与运算符正常的打开方式是这样子的：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">条件<span class="number">1</span> &amp;&amp; 条件<span class="number">2</span></span><br></pre></td></tr></table></figure>
+<p>只有两个条件全为<code>True</code>，整个表达式才为<code>True</code>。<strong>如果条件 1 为 <code>True</code>，则不会判断条件 2。</strong></p>
+<p>我们稍微思考一下，<strong>如果条件 2 恒为 <code>True</code>，那么整个表达式的值完全取决于条件 1。</strong>而 <strong><code>&amp;&amp;</code>运算符两边是可以塞下一个赋值表达式的！</strong></p>
+<p>这样，<strong>我们就可以把剩下的三条赋值表达式全部用连续的<code>&amp;&amp;</code>运算符塞进一个括号里面去！</strong></p>
+<p>赋值表达式本身的值等于最终被赋值的值，我们只需要<strong>通过取反运算符<code>!</code>或者直接<code>+1</code>让表达式的值恒为<code>True</code></strong>就好了。</p>
+<p>所以就变成了这样：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line">(jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>)</span><br></pre></td></tr></table></figure>
+<p>与上面的<code>printf</code>函数合并一下，变成：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="built_in">printf</span>((jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>) ? <span class="string">&quot;%d &quot;</span> : <span class="string">&quot;&quot;</span>, i+<span class="number">1</span>);</span><br></pre></td></tr></table></figure>
+<p>Perfect!</p>
+<h3><span id="step-5">Step 5</span></h3><p>最后我们只需要将代码整理一下即可。</p>
+<p>貌似改动的时候出了点小 bug，<code>i</code>不能初始化为<code>-1</code>，要初始化为<code>0</code>。我也不知道是什么原因。但也好，这就更简单了。</p>
+<p><strong>所有的变量和数组都定义为全局变量，直接默认初始化为<code>0</code>，这样把初始化的赋值和<code>memset</code>都省了。</strong></p>
+<p>整理一下，大功告成：</p>
+<figure class="highlight c++"><table><tr><td class="code"><pre><span class="line"><span class="meta">#<span class="meta-keyword">include</span><span class="meta-string">&lt;cstdio&gt;</span></span></span><br><span class="line"><span class="keyword">int</span> n, m, i, count, jump;</span><br><span class="line"><span class="keyword">bool</span> a[<span class="number">100</span>];</span><br><span class="line"><span class="function"><span class="keyword">int</span> <span class="title">main</span><span class="params">()</span></span></span><br><span class="line"><span class="function"></span>&#123;</span><br><span class="line">	<span class="built_in">scanf</span>(<span class="string">&quot;%d%d&quot;</span>, &amp;n, &amp;m);</span><br><span class="line">	<span class="keyword">while</span> (count &lt; n) <span class="built_in">printf</span>((jump += !a[++i %= n]) == m &amp;&amp; (a[i] = <span class="literal">true</span>) &amp;&amp; (count++)+<span class="number">1</span> &amp;&amp; !(jump = <span class="number">0</span>) ? <span class="string">&quot;%d &quot;</span> : <span class="string">&quot;&quot;</span>, i+<span class="number">1</span>);</span><br><span class="line">	<span class="keyword">return</span> <span class="number">0</span>;</span><br></pre></td></tr></table></figure>
+<h2><span id="尾声">尾声</span></h2><p>还是没有大佬们厉害。</p>
+<p><img src="https://s2.ax1x.com/2020/01/17/1Sin4H.jpg" alt></p>
+<blockquote>
+<p> <strong>题目背景</strong></p>
+<p> 约瑟夫是一个无聊的人！！</p>
+</blockquote>
+<p><strong>我也像是个无聊的人&lt;_&lt;</strong></p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
