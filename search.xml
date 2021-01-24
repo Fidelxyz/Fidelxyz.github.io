@@ -1,6 +1,68 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>三星NOTE4刷港版手记</title>
+    <url>/2018/04/30/samsung-TGY/</url>
+    <content><![CDATA[<blockquote>
+<p>关于 ROM 免费获取服务，请参见文末。</p>
+</blockquote>
+<p>之前在知乎上看到一个提问<a href="https://www.zhihu.com/question/36413593"><strong>【使用全套谷歌服务是种什么样的体验？- 知乎】</strong></a>，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（<span class="exturl" data-url="aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==">【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】</span>，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。</p>
+<p><a id="more"></a></p>
+<blockquote>
+<p>三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）</p>
+</blockquote>
+<p>还好，对于一个善于钻研各种设备的我来说，<s>应该不算太难…… 吧。</s></p>
+<p><img data-src="https://s1.ax1x.com/2018/04/30/CG6Gn0.png" alt="仿佛刷了个假的系统"></p>
+<p>然而一上来居然刷错系统了…… 刷了个貌似是三星 S 系列的曲面屏手机的系统，并且貌似捆绑了很多国产软件。（看见那恶心的 360 浏览器没！）不过界面够漂亮，还据说挺省电。</p>
+<p>另外这波卡刷还让我见识了三星牛逼的 Recovery 界面，其实就是用 Teamwin 定制的。（由于事发匆忙，并没有来得及拍照）</p>
+<h2><span id="开始刷机"> 开始刷机</span></h2>
+<p>经过一番小意外，总算可以进入正题了。</p>
+<p>在<span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ=="> ROM 中国</span>找了一个刷机包，下载。这里推荐用更加方便的一体包。（话说还要买邀请码的哦，13 块一个账号，购买后无限下载，不过丰富并且高质量的 ROM 资源绝对值了。<strong>如果有需要免费提供 ROM 下载链接的请转到文末</strong>）</p>
+<p>顺便下载<span class="exturl" data-url="aHR0cDovL3d3dy5jbnJvbXMuY29tL2Rvd25sb2FkLW9kaW4uaHRtbA=="> Odin3</span>，三星的驱动也在链接里有。</p>
+<p>这里的连接需要注意：三星的挖煤模式跟其他手机不一样，Recovery 和 Download 模式是分开的，<strong>用【音量上】+【电源键】+【HOME 键】进入 Recovery 的图形界面以后需要点击右下角的【重启】，选择【Download 模式】才能与 Odin 连接。</strong></p>
+<p>顺便说一句，** 如果卡在 teamwin 的加载界面的话，不要慌张，等个三四分钟，这段时间挺长的并且不会有任何提示。** 如果实在加载不出来，拔电池再来一遍。</p>
+<p>接下来的流程就跟网上说的一样了，解压压缩包放入 Odin 的 AP 文件位中，连接手机，Start。然后再等个四五分钟就行。</p>
+<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3GeH.png" alt="Odin"></p>
+<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3Jwd.png" alt="Odin"></p>
+<p>刷机完后手机会自动重启，进入新系统。我刷机的时候前两次都是卡在 “SAMSUNG” 的加载界面，如果出现这种情况的话拔电池重启，如果还是不行，** 用【音量上】+【电源键】+【HOME 键】进入 Recovery，这时候注意，刷机后的 Recovery 界面会有所改变，不再是 Teamwin 的图形界面，而是像普通手机的命令行系统。用音量键选择 Power Off，正常进入系统。** 出现 “SAMSUNG” 的界面等多三四分钟即可，这段时间也会比较长。如果再次卡住，则按照上面的办法再来一遍。</p>
+<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg6YD.png" alt="设置界面"></p>
+<p>成功启动系统后，就会进入设置界面了。需要注意，因为我刷的是港版系统，所以会有一个 Google 检查网络的过程，但是因为 GFW 的封锁在国内是无法访问 Google 的服务器的。于是就会卡在 “正在检查网络连接” 这一步。</p>
+<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgrTK.png" alt="正在检查网络连接"></p>
+<p>按照百度到的方法，可以用连了 VPN 的电脑共享 WiFi 给手机，但是我试了试不太行，于是干脆关机，把 SIM 卡拔掉，重新开机，把 WiFi 关掉，完美跳过网络检查。<strong>但据说这方法只有在之前没装过 Google 框架的手机上才行，就算用这样的方法通过后再恢复出厂设置，就不能用这样的方法了。</strong></p>
+<p>设置时要登录 Google 或者三星账号的全部跳过，设置完后第一件事就是<strong>赶紧装 VPN</strong>，万一哪天又来个网络验证，……</p>
+<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgcfe.png" alt="设置界面"></p>
+<p>至此，刷机完美完成。顺便附上几张截图：</p>
+<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg2SH.png" alt="Google全套服务"><br>
+<img data-src="https://s1.ax1x.com/2018/04/30/CGgRld.png" alt="主屏幕截图"><br>
+<img data-src="https://s1.ax1x.com/2018/04/30/CGgyFO.png" alt="Google Play"></p>
+<h2><span id="关于-vpn"> 关于 VPN</span></h2>
+<p>目前我正在使用 SSR 连接 VPN，服务器在这里找：<span class="exturl" data-url="aHR0cDovLzUyc3NyLmNu">52ssr.cn</span></p>
+<p>SSR 下载点这里：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3NoYWRvd3NvY2tzcnIvc2hhZG93c29ja3NyLWFuZHJvaWQvcmVsZWFzZXM=">https://github.com/shadowsocksrr/shadowsocksr-android/releases</span></p>
+<blockquote>
+<p>PS：52ssr.cn 已失效，详见文末。</p>
+</blockquote>
+<h2><span id="rom-免费提供"> ROM 免费提供</span></h2>
+<p>如果有需要 ROM 的用户，<strong>请在<span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ=="> ROM 中国</span>找到您的手机型号适用的 ROM，并将文章链接通过下面评论的方式留言，并填写您的邮箱地址</strong>，我会尽快将下载链接回复给您，您的邮箱也会收到通知邮件。</p>
+<hr>
+<h3><span id="2018-05-26"> 2018-05-26:</span></h3>
+<p>昨天发现 52ssr.cn 登录不上了。</p>
+<p>一个新的 ssr 提供网站：<span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span>。</p>
+<hr>
+<h3><span id="some-days-later"> Some days later:</span></h3>
+<p>貌似 <span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 也连不上了。</p>
+<p>再推荐一个：<span class="exturl" data-url="aHR0cDovL3Bvcm8uaWN1Lw==">Poro</span></p>
+<p>（Poro 貌似是有 alibaba 撑着？！细思极恐）</p>
+<hr>
+<h3><span id="2019-4-13"> 2019-4-13:</span></h3>
+<p>最近 Poro 也不好使了。</p>
+<p><span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 回归？</p>
+]]></content>
+      <tags>
+        <tag>技术</tag>
+        <tag>周边服务</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Hello, Rain City!</title>
     <url>/2018/04/30/hello-raincity/</url>
     <content><![CDATA[<p>Rain City 终于搭建完成啦！</p>
@@ -106,131 +168,6 @@
 ]]></content>
       <tags>
         <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>三星NOTE4刷港版手记</title>
-    <url>/2018/04/30/samsung-TGY/</url>
-    <content><![CDATA[<blockquote>
-<p>关于 ROM 免费获取服务，请参见文末。</p>
-</blockquote>
-<p>之前在知乎上看到一个提问<a href="https://www.zhihu.com/question/36413593"><strong>【使用全套谷歌服务是种什么样的体验？- 知乎】</strong></a>，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（<span class="exturl" data-url="aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==">【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】</span>，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。</p>
-<p><a id="more"></a></p>
-<blockquote>
-<p>三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）</p>
-</blockquote>
-<p>还好，对于一个善于钻研各种设备的我来说，<s>应该不算太难…… 吧。</s></p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CG6Gn0.png" alt="仿佛刷了个假的系统"></p>
-<p>然而一上来居然刷错系统了…… 刷了个貌似是三星 S 系列的曲面屏手机的系统，并且貌似捆绑了很多国产软件。（看见那恶心的 360 浏览器没！）不过界面够漂亮，还据说挺省电。</p>
-<p>另外这波卡刷还让我见识了三星牛逼的 Recovery 界面，其实就是用 Teamwin 定制的。（由于事发匆忙，并没有来得及拍照）</p>
-<h2><span id="开始刷机"> 开始刷机</span></h2>
-<p>经过一番小意外，总算可以进入正题了。</p>
-<p>在<span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ=="> ROM 中国</span>找了一个刷机包，下载。这里推荐用更加方便的一体包。（话说还要买邀请码的哦，13 块一个账号，购买后无限下载，不过丰富并且高质量的 ROM 资源绝对值了。<strong>如果有需要免费提供 ROM 下载链接的请转到文末</strong>）</p>
-<p>顺便下载<span class="exturl" data-url="aHR0cDovL3d3dy5jbnJvbXMuY29tL2Rvd25sb2FkLW9kaW4uaHRtbA=="> Odin3</span>，三星的驱动也在链接里有。</p>
-<p>这里的连接需要注意：三星的挖煤模式跟其他手机不一样，Recovery 和 Download 模式是分开的，<strong>用【音量上】+【电源键】+【HOME 键】进入 Recovery 的图形界面以后需要点击右下角的【重启】，选择【Download 模式】才能与 Odin 连接。</strong></p>
-<p>顺便说一句，** 如果卡在 teamwin 的加载界面的话，不要慌张，等个三四分钟，这段时间挺长的并且不会有任何提示。** 如果实在加载不出来，拔电池再来一遍。</p>
-<p>接下来的流程就跟网上说的一样了，解压压缩包放入 Odin 的 AP 文件位中，连接手机，Start。然后再等个四五分钟就行。</p>
-<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3GeH.png" alt="Odin"></p>
-<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3Jwd.png" alt="Odin"></p>
-<p>刷机完后手机会自动重启，进入新系统。我刷机的时候前两次都是卡在 “SAMSUNG” 的加载界面，如果出现这种情况的话拔电池重启，如果还是不行，** 用【音量上】+【电源键】+【HOME 键】进入 Recovery，这时候注意，刷机后的 Recovery 界面会有所改变，不再是 Teamwin 的图形界面，而是像普通手机的命令行系统。用音量键选择 Power Off，正常进入系统。** 出现 “SAMSUNG” 的界面等多三四分钟即可，这段时间也会比较长。如果再次卡住，则按照上面的办法再来一遍。</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg6YD.png" alt="设置界面"></p>
-<p>成功启动系统后，就会进入设置界面了。需要注意，因为我刷的是港版系统，所以会有一个 Google 检查网络的过程，但是因为 GFW 的封锁在国内是无法访问 Google 的服务器的。于是就会卡在 “正在检查网络连接” 这一步。</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgrTK.png" alt="正在检查网络连接"></p>
-<p>按照百度到的方法，可以用连了 VPN 的电脑共享 WiFi 给手机，但是我试了试不太行，于是干脆关机，把 SIM 卡拔掉，重新开机，把 WiFi 关掉，完美跳过网络检查。<strong>但据说这方法只有在之前没装过 Google 框架的手机上才行，就算用这样的方法通过后再恢复出厂设置，就不能用这样的方法了。</strong></p>
-<p>设置时要登录 Google 或者三星账号的全部跳过，设置完后第一件事就是<strong>赶紧装 VPN</strong>，万一哪天又来个网络验证，……</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgcfe.png" alt="设置界面"></p>
-<p>至此，刷机完美完成。顺便附上几张截图：</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg2SH.png" alt="Google全套服务"><br>
-<img data-src="https://s1.ax1x.com/2018/04/30/CGgRld.png" alt="主屏幕截图"><br>
-<img data-src="https://s1.ax1x.com/2018/04/30/CGgyFO.png" alt="Google Play"></p>
-<h2><span id="关于-vpn"> 关于 VPN</span></h2>
-<p>目前我正在使用 SSR 连接 VPN，服务器在这里找：<span class="exturl" data-url="aHR0cDovLzUyc3NyLmNu">52ssr.cn</span></p>
-<p>SSR 下载点这里：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3NoYWRvd3NvY2tzcnIvc2hhZG93c29ja3NyLWFuZHJvaWQvcmVsZWFzZXM=">https://github.com/shadowsocksrr/shadowsocksr-android/releases</span></p>
-<blockquote>
-<p>PS：52ssr.cn 已失效，详见文末。</p>
-</blockquote>
-<h2><span id="rom-免费提供"> ROM 免费提供</span></h2>
-<p>如果有需要 ROM 的用户，<strong>请在<span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ=="> ROM 中国</span>找到您的手机型号适用的 ROM，并将文章链接通过下面评论的方式留言，并填写您的邮箱地址</strong>，我会尽快将下载链接回复给您，您的邮箱也会收到通知邮件。</p>
-<hr>
-<h3><span id="2018-05-26"> 2018-05-26:</span></h3>
-<p>昨天发现 52ssr.cn 登录不上了。</p>
-<p>一个新的 ssr 提供网站：<span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span>。</p>
-<hr>
-<h3><span id="some-days-later"> Some days later:</span></h3>
-<p>貌似 <span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 也连不上了。</p>
-<p>再推荐一个：<span class="exturl" data-url="aHR0cDovL3Bvcm8uaWN1Lw==">Poro</span></p>
-<p>（Poro 貌似是有 alibaba 撑着？！细思极恐）</p>
-<hr>
-<h3><span id="2019-4-13"> 2019-4-13:</span></h3>
-<p>最近 Poro 也不好使了。</p>
-<p><span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 回归？</p>
-]]></content>
-      <tags>
-        <tag>技术</tag>
-        <tag>周边服务</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>利用计算机解决抛硬币问题</title>
-    <url>/2018/08/20/toss-coins/</url>
-    <content><![CDATA[<p>之前在知乎上看到一个问题（<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzI5NjgzNzk0">一枚硬币，扔了一亿次都是正面朝上，再扔一次反面朝上的概率是多少？</span>）：</p>
-<blockquote>
-<p>一枚硬币，扔了 3 次都是正面朝上，再扔一次反面朝上的概率是多少？</p>
-<p>一枚硬币，扔了 10 次都是正面朝上，再扔一次反面朝上的概率是多少？</p>
-<p>一枚硬币，扔了 100 次都是正面朝上，再扔一次反面朝上的概率是多少？</p>
-<p>一枚硬币，扔了 10000 次都是正面朝上，再扔一次反面朝上的概率是多少？</p>
-<p>如果扔一亿次就有理由相信这是一枚两面都是正面的硬币，那么扔 2 次有理由吗？扔 10 次有理由吗？</p>
-<p>具体从第几次开始我们就可以有理由相信这是一枚两面都是正面的硬币？</p>
-<p>如果第一亿零一次投出反面，那么第一亿零二次投出正反面的概率各为多少？</p>
-</blockquote>
-<p><a id="more"></a></p>
-<h1><span id="初步解答"> 初步解答</span></h1>
-<p>问题看似复杂，实际上解答十分简单。</p>
-<p>因为每扔一次硬币，可能出现的情况数量都是上一次的 2 倍（硬币共 2 面），所以扔 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 次可能出现 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><msup><mn>2</mn><mi>n</mi></msup></mrow><annotation encoding="application/x-tex">2^n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.664392em;vertical-align:0em;"></span><span class="mord"><span class="mord">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span> 种等可能结果。</p>
-<p>如果这是一枚两面都是正面的硬币，那么无论扔多少次连续正面朝上的概率都是 1，即扔 n 次连续正面朝上有 2^n 种情况。</p>
-<p>如果这是一枚普通硬币，那么我们可以知道扔 n 次连续正面朝上只有 1 种情况。</p>
-<p>假设一枚硬币连续扔 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 次硬币都是正面朝上，那么这是一枚两面都是正面的硬币的概率为 $ \frac<ruby>2<rp>(</rp><rt>n</rt><rp>)</rp></ruby><ruby>2<rp>(</rp><rt>n+1</rt><rp>)</rp></ruby> $，这是一枚普通硬币的概率为 $ \frac<ruby>1}{2<rp>(</rp><rt>n+1</rt><rp>)</rp></ruby> $。</p>
-<p>因为扔一枚普通硬币反面朝上的概率为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mn>2</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>，所以一枚硬币连续扔 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 次都是正面朝上，那么第 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow><annotation encoding="application/x-tex">n+1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.66666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 次是反面朝上的概率为 $ \frac<ruby>1}{2<rp>(</rp><rt>n+1</rt><rp>)</rp></ruby>\times\frac<ruby>1}{2}=\frac{1}{2<rp>(</rp><rt>{n+1</rt><rp>)</rp></ruby>+2} $。</p>
-<p>通过上面的公式，我们可以计算出连续抛 n 次都是正面朝上，那么这是一枚两面都是正面的硬币的概率表。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZ3Jf.jpg" alt></p>
-<p>我们可以看到，当连续扔 30 次都是正面朝上时，这是一枚两面都是正面的概率已经达到了 0.999999999，如果继续往下计算，因为小数位数的限制，计算机已经约算为 1 了。</p>
-<h1><span id="使用计算机验证"> 使用计算机验证</span></h1>
-<p>（这一段内容基本是水的…… 不想看就直接跳过吧）</p>
-<p>这时候用上我写程序的额外技能，用一个 Java 程序来模拟抛硬币。</p>
-<p>程序逻辑：从第 1 次抛硬币开始，在第 n 次抛硬币中产生一个随机布尔值（实际上是伪随机），如果这个随机布尔值为 true ，则给连续抛 n 次硬币正面朝上的次数加 1 ，并继续第 n+1 次抛硬币，直到抛出 false 结束。将这个过程循环执行指定的次数，得出普通硬币的数据。因为特殊硬币正面朝上的概率必定为 1 ，所以这里无需模拟。</p>
-<p>既然罗曼诺夫斯基也只抛了 8 万次硬币，那我先来用程序模拟抛普通硬币 10 万次。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZaes.jpg" alt></p>
-<p>可以看到，在共 100000 次的模拟中，没有一枚硬币连续 18 次抛出正面。</p>
-<p>我们继续扩大模拟数量。</p>
-<p>100 万次模拟数据：</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZwoq.jpg" alt></p>
-<p>1000 万次模拟数据：</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZBF0.jpg" alt></p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZ6lF.jpg" alt></p>
-<p>最后是 1 亿次模拟数据：</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZcy4.jpg" alt></p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZgOJ.jpg" alt></p>
-<p><img data-src="https://s2.ax1x.com/2019/04/13/ALZRm9.jpg" alt></p>
-<p>程序的运算速度非常快，1 亿次的模拟不到半分钟就算完了。</p>
-<p>从图表中我们可以看到，2 亿次模拟得到的数据已经十分接近算术值了。</p>
-<p>同时我们观察图表可知，概率呈指数上升，并且在第 10 次时已经十分接近 1。</p>
-<p>（好的终于水完了）</p>
-<hr>
-<p>因此，</p>
-<p>一枚硬币，扔了 3 次都是正面朝上，再扔一次反面朝上的概率是 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><msup><mn>2</mn><mn>3</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mn>1</mn><mn>9</mn></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2^3+1}=\frac{1}{9}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2484389999999999em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight">3</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.190108em;vertical-align:-0.345em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">9</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.345em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>一枚硬币，扔了 10 次都是正面朝上，再扔一次反面朝上的概率是 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><msup><mn>2</mn><mn>10</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2^{10}+1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2484389999999999em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>一枚硬币，扔了 100 次都是正面朝上，再扔一次反面朝上的概率是 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><msup><mn>2</mn><mn>100</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2^{100}+1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2484389999999999em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span><span class="mord mtight">0</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>一枚硬币，扔了 10000 次都是正面朝上，再扔一次反面朝上的概率是 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><msup><mn>2</mn><mn>10000</mn></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2^{10000}+1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2484389999999999em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>如果一亿零一次投出反面，那么第一亿零二次投出正面的概率为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><msup><mn>2</mn><mn>100000002</mn></msup><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{2^{100000002}+2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.2484389999999999em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>，投出反面的概率为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><msup><mn>2</mn><mn>100000002</mn></msup><mo>+</mo><mn>1</mn></mrow><mrow><msup><mn>2</mn><mn>100000002</mn></msup><mo>+</mo><mn>2</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{2^{100000002}+1}{2^{100000002}+2}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.4212509999999998em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.01792em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">2</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">1</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">0</span><span class="mord mtight">2</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>根据上面得到的结论可知，若 n+1 次抛硬币全部抛出正面，则在第 n+1 次时这是一枚特殊硬币的确定性增加 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><msup><mn>2</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mrow><msup><mn>2</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>−</mo><mfrac><msup><mn>2</mn><mi>n</mi></msup><mrow><msup><mn>2</mn><mi>n</mi></msup><mo>+</mo><mn>1</mn></mrow></mfrac><mo>=</mo><mfrac><mrow><msup><mn>2</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>−</mo><msup><mn>2</mn><mi>n</mi></msup></mrow><mrow><msup><mn>2</mn><mrow><mn>2</mn><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mn>2</mn><mrow><mi>n</mi><mo>+</mo><mn>1</mn></mrow></msup><mo>+</mo><msup><mn>2</mn><mi>n</mi></msup><mo>+</mo><mn>1</mn></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{2^{n+1}}{2^{n+1}+1}-\frac{2^{n}}{2^{n}+1}=\frac{2^{n+1}-2^n}{2^{2n+1}+2^{n+1}+2^n+1}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.4212509999999998em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.01792em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">−</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:1.314311em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.91098em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.5935428571428571em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385428571428572em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:1.4212509999999998em;vertical-align:-0.403331em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.01792em;"><span style="top:-2.655em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mord mathnormal mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7463142857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.5935428571428571em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8913142857142857em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mathnormal mtight">n</span><span class="mbin mtight">+</span><span class="mord mtight">1</span></span></span></span></span></span></span></span></span><span class="mbin mtight">−</span><span class="mord mtight"><span class="mord mtight">2</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.7385428571428572em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:2.5em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mathnormal mtight">n</span></span></span></span></span></span></span></span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.403331em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>。</p>
-<p>同理，这是一枚特殊硬币的概率只能无限逼近 1，即严格来说，从第 ∞ 次开始我们才可以有理由相信这是一枚两面都是正面的硬币。</p>
-<p>如果扔一亿次后，这是一枚特殊硬币的确定性是 1，显然这个确定性要比上面的数据要大，即扔 2 次的确定性大于 80%，扔 10 次的确定性大于 0.99902439%。</p>
-<p>至于这个 “有理由相信这是一枚两面都是正面的硬币” 的标准是什么，需要根据个人标准来判断。</p>
-<p>程序代码这里就不放了，有兴趣的到我的 GitHub 上看吧。</p>
-<p>此文章同时在知乎发布：<span class="exturl" data-url="aHR0cHM6Ly93d3cuemhpaHUuY29tL3F1ZXN0aW9uLzI5NjgzNzk0L2Fuc3dlci80NzM1OTQyMjM=">一枚硬币，扔了一亿次都是正面朝上，再扔一次反面朝上的概率是多少？ - 玄云 Fidel 的回答 - 知乎</span></p>
-]]></content>
-      <tags>
-        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -590,65 +527,8 @@ vmap &lt;C-A&gt; ggVG
 </ol>
 ]]></content>
       <tags>
+        <tag>杂记</tag>
         <tag>技术</tag>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>About Fidel&#39;s Lab</title>
-    <url>/2020/04/05/new-about/</url>
-    <content><![CDATA[<blockquote>
-<p>此 About 页面及 Fidel's Lab 为目前的第三个版本。你可以<a href="https://fidel.js.org/update-log">在这里查看详细的更新日志</a>。</p>
-</blockquote>
-<p>Hi，我是 Fidel。</p>
-<p>这里是我的博客，Fidel's Lab。</p>
-<p>和这个博客的名字一样，这里是我分享一些实验性内容的地方。</p>
-<p><a id="more"></a></p>
-<p>熟悉我的人应该知道，我是一名<s>业余</s>视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。</p>
-<p>这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。</p>
-<p>正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。</p>
-<h1><span id="自我介绍一下"> 自我介绍一下</span></h1>
-<p>可能啥都会一点，<s>然而也就会一（亿？）点</s>。</p>
-<p>现役 OIer。业余摄影师、剪辑师。</p>
-<p>半个 Minecraft 生电玩家，会用 Mine-imator 画渲染图。（上面的 Banner 好看不？我画的～）</p>
-<h1><span id="rss-订阅"> RSS 订阅</span></h1>
-<p>RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「主动推送」。</p>
-<p>在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。</p>
-<p>这是 Fidel's Lab 的 RSS 链接：<a href="https://fidel.js.org/atom.xml">https://fidel.js.org/atom.xml</a></p>
-<blockquote>
-<p>虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ</p>
-</blockquote>
-<h1><span id="哪里可以找到我"> 哪里可以找到我</span></h1>
-<ul>
-<li>Bilibili 频道：<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMzY2NjQ0ODIw">@玄云 Fidel</span></li>
-<li>YouTube 频道：<span class="exturl" data-url="aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2hRYnYxTGxhcFlIMGJBX21GS1dVdkE=">@玄云 Fidel</span></li>
-<li><s>GayHub</s> GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==">@Fidelxyz</span></li>
-</ul>
-<h1><span id="给我打钱"> 给我打钱</span></h1>
-<p>虽然说维护这个 Blog 不会有任何的资金支出，但是这的确不是一件容易的事情。</p>
-<p>所以，大佬们请我喝杯咖啡呗。</p>
-<p>您可以在 <span class="exturl" data-url="aHR0cHM6Ly9hZmRpYW4ubmV0L0BmaWRlbA==">爱发电</span> 捐助我。</p>
-<h1><span id="一些技术性信息"> 一些技术性信息</span></h1>
-<p>Fidel's Lab 现采用的主题是 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">hexo-theme-shoka</span>。</p>
-<blockquote>
-<p>Fidel's Lab 曾经采用的 Hexo 主题为基于 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXRoZW1lLWxhbmRzY2FwZQ==">landspace</span> 和 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3N0b25lMDA5MC9sYW5kc2NhcGUtcGx1cw==">landscape-plus</span> 的魔改版。</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-        <tag>公告</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>水一张渲染图</title>
-    <url>/2020/04/10/vdrias-world/</url>
-    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
-<p><a id="more"></a></p>
-<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt></p>
-<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
@@ -704,6 +584,63 @@ vmap &lt;C-A&gt; ggVG
 <p>约瑟夫是一个无聊的人！！</p>
 </blockquote>
 <p><strong>我也像是个无聊的人 &lt;_&lt;</strong></p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>About Fidel&#39;s Lab</title>
+    <url>/2020/04/05/new-about/</url>
+    <content><![CDATA[<blockquote>
+<p>此 About 页面及 Fidel's Lab 为目前的第三个版本。你可以<a href="https://fidel.js.org/update-log">在这里查看详细的更新日志</a>。</p>
+</blockquote>
+<p>Hi，我是 Fidel。</p>
+<p>这里是我的博客，Fidel's Lab。</p>
+<p>和这个博客的名字一样，这里是我分享一些实验性内容的地方。</p>
+<p><a id="more"></a></p>
+<p>熟悉我的人应该知道，我是一名<s>业余</s>视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。</p>
+<p>这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。</p>
+<p>正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。</p>
+<h1><span id="自我介绍一下"> 自我介绍一下</span></h1>
+<p>可能啥都会一点，<s>然而也就会一（亿？）点</s>。</p>
+<p>现役 OIer。业余摄影师、剪辑师。</p>
+<p>半个 Minecraft 生电玩家，会用 Mine-imator 画渲染图。（上面的 Banner 好看不？我画的～）</p>
+<h1><span id="rss-订阅"> RSS 订阅</span></h1>
+<p>RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「主动推送」。</p>
+<p>在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。</p>
+<p>这是 Fidel's Lab 的 RSS 链接：<a href="https://fidel.js.org/atom.xml">https://fidel.js.org/atom.xml</a></p>
+<blockquote>
+<p>虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ</p>
+</blockquote>
+<h1><span id="哪里可以找到我"> 哪里可以找到我</span></h1>
+<ul>
+<li>Bilibili 频道：<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMzY2NjQ0ODIw">@玄云 Fidel</span></li>
+<li>YouTube 频道：<span class="exturl" data-url="aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2hRYnYxTGxhcFlIMGJBX21GS1dVdkE=">@玄云 Fidel</span></li>
+<li><s>GayHub</s> GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==">@Fidelxyz</span></li>
+</ul>
+<h1><span id="给我打钱"> 给我打钱</span></h1>
+<p>虽然说维护这个 Blog 不会有任何的资金支出，但是这的确不是一件容易的事情。</p>
+<p>所以，大佬们请我喝杯咖啡呗。</p>
+<p>您可以在 <span class="exturl" data-url="aHR0cHM6Ly9hZmRpYW4ubmV0L0BmaWRlbA==">爱发电</span> 捐助我。</p>
+<h1><span id="一些技术性信息"> 一些技术性信息</span></h1>
+<p>Fidel's Lab 现采用的主题是 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">hexo-theme-shoka</span>。</p>
+<blockquote>
+<p>Fidel's Lab 曾经采用的 Hexo 主题为基于 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXRoZW1lLWxhbmRzY2FwZQ==">landspace</span> 和 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3N0b25lMDA5MC9sYW5kc2NhcGUtcGx1cw==">landscape-plus</span> 的魔改版。</p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>公告</tag>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水一张渲染图</title>
+    <url>/2020/04/10/vdrias-world/</url>
+    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
+<p><a id="more"></a></p>
+<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt></p>
+<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -874,8 +811,8 @@ vmap &lt;C-A&gt; ggVG
 <p>2020 CSP-S 游记 &amp; NOIP 2020 爆零记，完。</p>
 ]]></content>
       <tags>
-        <tag>技术</tag>
         <tag>杂记</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
