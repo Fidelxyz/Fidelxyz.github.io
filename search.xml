@@ -799,10 +799,10 @@ int main()
     <title>About Fidel&#39;s Lab</title>
     <url>/2020/04/05/new-about/</url>
     <content><![CDATA[<blockquote>
-<p>此 About 页面及 Fidel’s Lab 为目前的第三个版本。你可以<a href="https://fidel.js.org/update-log">在这里查看详细的更新日志</a>。</p>
+<p>此 About 页面及 Fidel's Lab 为目前的第三个版本。你可以<a href="https://fidel.js.org/update-log">在这里查看详细的更新日志</a>。</p>
 </blockquote>
 <p>Hi，我是 Fidel。</p>
-<p>这里是我的博客，Fidel’s Lab。</p>
+<p>这里是我的博客，Fidel's Lab。</p>
 <p>和这个博客的名字一样，这里是我分享一些实验性内容的地方。</p>
 <p><a id="more"></a></p>
 <p>熟悉我的人应该知道，我是一名<s>业余</s>视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。</p>
@@ -815,7 +815,7 @@ int main()
 <h1><span id="rss-订阅"> RSS 订阅</span></h1>
 <p>RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「主动推送」。</p>
 <p>在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。</p>
-<p>这是 Fidel’s Lab 的 RSS 链接：<a href="https://fidel.js.org/atom.xml">https://fidel.js.org/atom.xml</a></p>
+<p>这是 Fidel's Lab 的 RSS 链接：<a href="https://fidel.js.org/atom.xml">https://fidel.js.org/atom.xml</a></p>
 <blockquote>
 <p>虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ</p>
 </blockquote>
@@ -830,85 +830,10 @@ int main()
 <p>所以，大佬们请我喝杯咖啡呗。</p>
 <p>您可以在 <span class="exturl" data-url="aHR0cHM6Ly9hZmRpYW4ubmV0L0BmaWRlbA==">爱发电</span> 捐助我。</p>
 <h1><span id="一些技术性信息"> 一些技术性信息</span></h1>
-<p>Fidel’s Lab 采用的 Hexo 主题为基于 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXRoZW1lLWxhbmRzY2FwZQ==">landspace</span> 和 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3N0b25lMDA5MC9sYW5kc2NhcGUtcGx1cw==">landscape-plus</span> 的魔改版。</p>
-<h2><span id="fidels-lab-依赖的项目"> Fidel’s Lab 依赖的项目</span></h2>
-<table>
-<thead>
-<tr>
-<th>项目名称</th>
-<th>注释</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9oZXhvLmlvL3poLWNuLw==">Hexo</span></td>
-<td>博客系统</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9wYWdlcy5naXRodWIuY29tLw==">GtiHub Pages</span></td>
-<td>博客系统</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9pbWdjaHIuY29tLw==">Imgchr 路过图床</span></td>
-<td>图床</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9zbS5tcy8=">SM.MS</span></td>
-<td>图床</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly93d3cuanNkZWxpdnIuY29tLw==">JsDelivr</span></td>
-<td>CDN 加速</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2dpdGFsay9naXRhbGsv">Gitalk</span></td>
-<td>评论系统</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLWdlbmVyYXRvci1mZWVk">hexo-generator-feed</span></td>
-<td>Hexo 插件，生成 RSS 订阅的  <code>atom.xml</code>  文件</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3JvemJvL2hleG8tbmVhdA==">hexo-neat</span></td>
-<td>Hexo 插件，网页压缩</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2J1Ymtvby9oZXhvLXRvYw==">hexo-toc</span></td>
-<td>Hexo 插件，生成文章目录</td>
-</tr>
-</tbody>
-</table>
-<p>间接使用到的依赖：</p>
-<table>
-<thead>
-<tr>
-<th>项目名称</th>
-<th>注释</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly90eXBvcmEuaW8v">Typora</span></td>
-<td>Markdown 编辑器</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly93d3cuc3VibGltZXRleHQuY29tLw==">Sublime Text 3</span></td>
-<td>代码编辑器</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9jb2RlLnZpc3VhbHN0dWRpby5jb20v">Visual Studio Code</span></td>
-<td>代码编辑器</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9kZXNrdG9wLmdpdGh1Yi5jb20v">GitHub Desktop</span></td>
-<td>GtiHub 部署的图形界面工具</td>
-</tr>
-<tr>
-<td><span class="exturl" data-url="aHR0cHM6Ly9waWNnby5naXRodWIuaW8vUGljR28tRG9jLw==">PicGo</span></td>
-<td>自动化图床工具</td>
-</tr>
-</tbody>
-</table>
+<p>Fidel's Lab 现采用的主题是 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">hexo-theme-shoka</span>。</p>
+<blockquote>
+<p>Fidel's Lab 曾经采用的 Hexo 主题为基于 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXRoZW1lLWxhbmRzY2FwZQ==">landspace</span> 和 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3N0b25lMDA5MC9sYW5kc2NhcGUtcGx1cw==">landscape-plus</span> 的魔改版。</p>
+</blockquote>
 ]]></content>
       <tags>
         <tag>公告</tag>
