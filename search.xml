@@ -234,6 +234,53 @@
       </tags>
   </entry>
   <entry>
+    <title>失踪人口回归</title>
+    <url>/2019/04/19/i-am-back/</url>
+    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
+<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
+<p><a id="more"></a></p>
+<hr>
+<p>先列出 Rain City 改动了的地方：</p>
+<ul>
+<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
+<li>添加了几位大佬的友链。</li>
+<li>Valine-admin 评论系统及邮件回复更新。</li>
+<li>添加了文章访问量统计。</li>
+<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
+<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
+<li>访问速度略微优化。</li>
+<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
+<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
+</ul>
+<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
+<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
+<h1><span id="关于新域名"> 关于新域名</span></h1>
+<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名"></p>
+<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
+<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
+<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
+<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
+<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱"></p>
+<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
+<h1><span id="something-else"> something else</span></h1>
+<h2><span id="小麦云盘-amp-u-file"> 小麦云盘 &amp; U-File</span></h2>
+<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
+<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
+<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
+<h2><span id="yu-writer"> Yu Writer</span></h2>
+<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能"></p>
+<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
+<hr>
+<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>NOIP 比赛笔记</title>
     <url>/2019/11/15/noip-note/</url>
     <content><![CDATA[<p>一点小笔记</p>
@@ -514,53 +561,6 @@ for(vector&lt;int&gt;::iterator i = a.begin(); i != a.end(); i++) //迭代器
       </tags>
   </entry>
   <entry>
-    <title>失踪人口回归</title>
-    <url>/2019/04/19/i-am-back/</url>
-    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
-<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<p><a id="more"></a></p>
-<hr>
-<p>先列出 Rain City 改动了的地方：</p>
-<ul>
-<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
-<li>添加了几位大佬的友链。</li>
-<li>Valine-admin 评论系统及邮件回复更新。</li>
-<li>添加了文章访问量统计。</li>
-<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
-<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
-<li>访问速度略微优化。</li>
-<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
-<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
-</ul>
-<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
-<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
-<h1><span id="关于新域名"> 关于新域名</span></h1>
-<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名"></p>
-<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
-<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
-<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
-<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
-<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱"></p>
-<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
-<h1><span id="something-else"> something else</span></h1>
-<h2><span id="小麦云盘-amp-u-file"> 小麦云盘 &amp; U-File</span></h2>
-<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
-<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
-<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
-<h2><span id="yu-writer"> Yu Writer</span></h2>
-<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能"></p>
-<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
-<hr>
-<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSP-J 2019 游记 &amp; 指引</title>
     <url>/2019/12/27/CSPJ-tour/</url>
     <content><![CDATA[<p>下面那篇 NOIP 比赛笔记其实是给我自己看的……</p>
@@ -664,8 +664,8 @@ for(vector&lt;int&gt;::iterator i = a.begin(); i != a.end(); i++) //迭代器
 </ol>
 ]]></content>
       <tags>
-        <tag>技术</tag>
         <tag>杂记</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -1092,8 +1092,8 @@ int main()
 <p>2020 CSP-S 游记 &amp; NOIP 2020 爆零记，完。</p>
 ]]></content>
       <tags>
-        <tag>技术</tag>
         <tag>杂记</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
