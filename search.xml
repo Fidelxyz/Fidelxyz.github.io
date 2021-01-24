@@ -664,8 +664,8 @@ for(vector&lt;int&gt;::iterator i = a.begin(); i != a.end(); i++) //迭代器
 </ol>
 ]]></content>
       <tags>
-        <tag>杂记</tag>
         <tag>技术</tag>
+        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
@@ -1092,8 +1092,8 @@ int main()
 <p>2020 CSP-S 游记 &amp; NOIP 2020 爆零记，完。</p>
 ]]></content>
       <tags>
-        <tag>杂记</tag>
         <tag>技术</tag>
+        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
