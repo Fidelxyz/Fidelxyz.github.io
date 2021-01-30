@@ -1188,6 +1188,56 @@ vmap &amp;lt;C-A&amp;gt; ggVG
         <updated>2018-08-12T16:00:00.000Z</updated>
     </entry>
     <entry>
+        <id>https://fidel.js.org/2018/04/30/hello-raincity/</id>
+        <title>Hello, Rain City!</title>
+        <link rel="alternate" href="https://fidel.js.org/2018/04/30/hello-raincity/"/>
+        <content type="html">&lt;p&gt;Rain City 终于搭建完成啦！&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;“不是在之前就已经搭建好了吗？”&lt;br /&gt;
+ 嗯……&lt;a href=&#34;https://fidel.js.org/2018/03/11/about/&#34;&gt; 这个 blog 的第一篇文章&lt;/a&gt;在写的时候 Rain City 还没完全建好，当时 Fork 了别人的 Blog 之后还在继续优化细节。&lt;s&gt;不要问我为什么那么早写……&lt;/s&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;话说回来，写这篇文章的时候刚好是 5 月 11 日，距第一篇文章【关于 Rain City】开始动笔刚好整整 2 个月。&lt;/p&gt;
+&lt;p&gt;也就是说，经历了整整 2 个月，Rain City 从建站开始，至此终于搭建完毕。&lt;/p&gt;
+&lt;p&gt;在这个重要的日子，截几张图片作为纪念：&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFe3Q.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;不要问我为什么背景是白的，貌似是截的时候还没加载好&lt;/s&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFKun.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
+&lt;h2 id=&#34;一些也许久远的事情&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些也许久远的事情&#34;&gt;#&lt;/a&gt; 一些也许久远的事情&lt;/h2&gt;
+&lt;p&gt;令我产生建这个博客的念头是 LittleQiu 的博客&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt;。关于怎么知道 DreamCity 的，记得是在去年我还运营着一个 Minecraft 服务器的时候。当时在 NextCraft 的交流群里有人发了一张 “请填入网址：www._____.com” 的表情，然后 LittleQiu 就回复了他的博客网址，于是我就第一次接触到了他的博客。&lt;/p&gt;
+&lt;p&gt;其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型 Minecraft 服务器作为官网。可惜，网易给 Minecraft 的生态链带来极大的破坏。2017 年 7 月，在这个历来玩家活跃的夏天，Minecraft 在经历了一个春天的沉寂之后，在 Minecraft 私服界的急切期盼下，却再也没有重新醒来。&lt;/p&gt;
+&lt;p&gt;我一手建立起的梦境现实世界，终于没能撑过 2017 年的夏天。&lt;/p&gt;
+&lt;p&gt;2018 年 1 月，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLmFub2RlbGljLmNvbS8=&#34;&gt;Nextcraft 业务关停。&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkTdx.png&#34; alt=&#34;Nextcraft业务关停&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;夜幕降临，黑夜会将我们吞没。&lt;strong&gt;等到太阳再次升起的时刻，我们还会再次相遇。&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;——Angelic47&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;2018 年 4 月 25 日，Atlantis Cloud 业务关停，售前群被解散。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkLWD.png&#34; alt=&#34;Atlantis Cloud售前群解散&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;再没有了我曾经熟悉的 Minecraft，只剩这个博客，成为我们共同联络的桥梁。&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;就算世界终结，也无所谓。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;愿你有一天，能与你最重要的人重逢。&lt;/strong&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;这是 LittleQiu 的 DreamCity 的标题。&lt;/p&gt;
+&lt;p&gt;希望，读到这一段的你，也一样。&lt;/p&gt;
+&lt;h2 id=&#34;关于这个博客的搭建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于这个博客的搭建&#34;&gt;#&lt;/a&gt; 关于这个博客的搭建&lt;/h2&gt;
+&lt;p&gt;这个博客主题 forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h1ZGFpbG9uZy94dWRhaWxvbmcuZ2l0aHViLmlv&#34;&gt;xudailongxudailong.github.io&lt;/span&gt; forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dhb2hhb3lhbmcvZ2FvaGFveWFuZy5naXRodWIuaW8=&#34;&gt;Gaohaoyang/gaohaoyang.github.io&lt;/span&gt; ，仿照&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt; 的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Z0cm9pcy9rcmF0b3M=&#34;&gt; KRATOS&lt;/span&gt; 主题 Copy 了个 Banner 和右栏的个人介绍，同时对于一些小细节进行了改动。&lt;/p&gt;
+&lt;p&gt;目前写博客用的是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdGFja2VkaXQuaW8v&#34;&gt; StackEdit&lt;/span&gt;，目前我找到的唯一一个可以直接上传至 github 的在线 markdown 编辑器。目前与 Dropbox 和 Google 硬盘关联作为储存，电脑与手机同步写文章。&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBAN01.png&#34; alt=&#34;StackEdit，截取于写这篇文章的时候&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我&lt;s&gt;一时脑抽&lt;/s&gt;忘记加了，在评论提醒我一声吧。&lt;/p&gt;
+&lt;p&gt;另外打算再增加一个类似 “看板” 与 “想法” 之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是 “控制台” 页面，把关于这个博客后台工作的链接整合在一起，看起来也更 “有范”。&lt;/p&gt;
+&lt;p&gt;最后，已经申请了 DreamCity 的友链，有时间的话再提交到百度和 Google 上面。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;2018-5-18&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2018-5-18&#34;&gt;#&lt;/a&gt; 2018-5-18：&lt;/h3&gt;
+&lt;p&gt;目前发现一个很尴尬的问题：因为 StackEdit 有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章…… 目前解决方法是写文章时先把 VPN 断开，变成离线模式，写完后再开 VPN 同步到 Github 上&lt;/p&gt;
+&lt;p&gt;目前正在寻找更好的解决办法…… 也欢迎各位知道解决办法的大佬分享一下。&lt;/p&gt;
+</content>
+        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
+        <updated>2018-04-29T16:00:00.000Z</updated>
+    </entry>
+    <entry>
         <id>https://fidel.js.org/2018/04/30/samsung-TGY/</id>
         <title>三星NOTE4刷港版手记</title>
         <link rel="alternate" href="https://fidel.js.org/2018/04/30/samsung-TGY/"/>
@@ -1247,56 +1297,6 @@ vmap &amp;lt;C-A&amp;gt; ggVG
 </content>
         <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
         <category term="周边服务" scheme="https://fidel.js.org/tags/%E5%91%A8%E8%BE%B9%E6%9C%8D%E5%8A%A1/" />
-        <updated>2018-04-29T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2018/04/30/hello-raincity/</id>
-        <title>Hello, Rain City!</title>
-        <link rel="alternate" href="https://fidel.js.org/2018/04/30/hello-raincity/"/>
-        <content type="html">&lt;p&gt;Rain City 终于搭建完成啦！&lt;/p&gt;
-&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;“不是在之前就已经搭建好了吗？”&lt;br /&gt;
- 嗯……&lt;a href=&#34;https://fidel.js.org/2018/03/11/about/&#34;&gt; 这个 blog 的第一篇文章&lt;/a&gt;在写的时候 Rain City 还没完全建好，当时 Fork 了别人的 Blog 之后还在继续优化细节。&lt;s&gt;不要问我为什么那么早写……&lt;/s&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;话说回来，写这篇文章的时候刚好是 5 月 11 日，距第一篇文章【关于 Rain City】开始动笔刚好整整 2 个月。&lt;/p&gt;
-&lt;p&gt;也就是说，经历了整整 2 个月，Rain City 从建站开始，至此终于搭建完毕。&lt;/p&gt;
-&lt;p&gt;在这个重要的日子，截几张图片作为纪念：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFe3Q.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;不要问我为什么背景是白的，貌似是截的时候还没加载好&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBFKun.png&#34; alt=&#34;Rain City主页，截取于2018年5月11日&#34; /&gt;&lt;/p&gt;
-&lt;h2 id=&#34;一些也许久远的事情&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些也许久远的事情&#34;&gt;#&lt;/a&gt; 一些也许久远的事情&lt;/h2&gt;
-&lt;p&gt;令我产生建这个博客的念头是 LittleQiu 的博客&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt;。关于怎么知道 DreamCity 的，记得是在去年我还运营着一个 Minecraft 服务器的时候。当时在 NextCraft 的交流群里有人发了一张 “请填入网址：www._____.com” 的表情，然后 LittleQiu 就回复了他的博客网址，于是我就第一次接触到了他的博客。&lt;/p&gt;
-&lt;p&gt;其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型 Minecraft 服务器作为官网。可惜，网易给 Minecraft 的生态链带来极大的破坏。2017 年 7 月，在这个历来玩家活跃的夏天，Minecraft 在经历了一个春天的沉寂之后，在 Minecraft 私服界的急切期盼下，却再也没有重新醒来。&lt;/p&gt;
-&lt;p&gt;我一手建立起的梦境现实世界，终于没能撑过 2017 年的夏天。&lt;/p&gt;
-&lt;p&gt;2018 年 1 月，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pLmFub2RlbGljLmNvbS8=&#34;&gt;Nextcraft 业务关停。&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkTdx.png&#34; alt=&#34;Nextcraft业务关停&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;夜幕降临，黑夜会将我们吞没。&lt;strong&gt;等到太阳再次升起的时刻，我们还会再次相遇。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;——Angelic47&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;2018 年 4 月 25 日，Atlantis Cloud 业务关停，售前群被解散。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBkLWD.png&#34; alt=&#34;Atlantis Cloud售前群解散&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;再没有了我曾经熟悉的 Minecraft，只剩这个博客，成为我们共同联络的桥梁。&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;就算世界终结，也无所谓。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;愿你有一天，能与你最重要的人重逢。&lt;/strong&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;这是 LittleQiu 的 DreamCity 的标题。&lt;/p&gt;
-&lt;p&gt;希望，读到这一段的你，也一样。&lt;/p&gt;
-&lt;h2 id=&#34;关于这个博客的搭建&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于这个博客的搭建&#34;&gt;#&lt;/a&gt; 关于这个博客的搭建&lt;/h2&gt;
-&lt;p&gt;这个博客主题 forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3h1ZGFpbG9uZy94dWRhaWxvbmcuZ2l0aHViLmlv&#34;&gt;xudailongxudailong.github.io&lt;/span&gt; forked from &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0dhb2hhb3lhbmcvZ2FvaGFveWFuZy5naXRodWIuaW8=&#34;&gt;Gaohaoyang/gaohaoyang.github.io&lt;/span&gt; ，仿照&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA==&#34;&gt; DreamCity&lt;/span&gt; 的&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Z0cm9pcy9rcmF0b3M=&#34;&gt; KRATOS&lt;/span&gt; 主题 Copy 了个 Banner 和右栏的个人介绍，同时对于一些小细节进行了改动。&lt;/p&gt;
-&lt;p&gt;目前写博客用的是&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zdGFja2VkaXQuaW8v&#34;&gt; StackEdit&lt;/span&gt;，目前我找到的唯一一个可以直接上传至 github 的在线 markdown 编辑器。目前与 Dropbox 和 Google 硬盘关联作为储存，电脑与手机同步写文章。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/11/CBAN01.png&#34; alt=&#34;StackEdit，截取于写这篇文章的时候&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我&lt;s&gt;一时脑抽&lt;/s&gt;忘记加了，在评论提醒我一声吧。&lt;/p&gt;
-&lt;p&gt;另外打算再增加一个类似 “看板” 与 “想法” 之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是 “控制台” 页面，把关于这个博客后台工作的链接整合在一起，看起来也更 “有范”。&lt;/p&gt;
-&lt;p&gt;最后，已经申请了 DreamCity 的友链，有时间的话再提交到百度和 Google 上面。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;2018-5-18&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2018-5-18&#34;&gt;#&lt;/a&gt; 2018-5-18：&lt;/h3&gt;
-&lt;p&gt;目前发现一个很尴尬的问题：因为 StackEdit 有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章…… 目前解决方法是写文章时先把 VPN 断开，变成离线模式，写完后再开 VPN 同步到 Github 上&lt;/p&gt;
-&lt;p&gt;目前正在寻找更好的解决办法…… 也欢迎各位知道解决办法的大佬分享一下。&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <updated>2018-04-29T16:00:00.000Z</updated>
     </entry>
 </feed>
