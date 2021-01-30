@@ -113,53 +113,6 @@
       </tags>
   </entry>
   <entry>
-    <title>失踪人口回归</title>
-    <url>/2019/04/19/i-am-back/</url>
-    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
-<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<p><a id="more"></a></p>
-<hr />
-<p>先列出 Rain City 改动了的地方：</p>
-<ul>
-<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
-<li>添加了几位大佬的友链。</li>
-<li>Valine-admin 评论系统及邮件回复更新。</li>
-<li>添加了文章访问量统计。</li>
-<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
-<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
-<li>访问速度略微优化。</li>
-<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
-<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
-</ul>
-<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
-<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
-<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
-<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
-<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
-<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
-<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
-<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
-<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
-<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
-<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
-<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
-<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
-<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
-<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
-<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
-<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
-<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
-<hr />
-<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo，走起！</title>
     <url>/2018/08/13/hello-hexo/</url>
     <content><![CDATA[<p>Rain City 又搬家啦！</p>
@@ -218,110 +171,50 @@
       </tags>
   </entry>
   <entry>
-    <title>CSP-J 2019 游记 &amp; 指引</title>
-    <url>/2019/12/27/CSPJ-tour/</url>
-    <content><![CDATA[<p>下面那篇 NOIP 比赛笔记其实是给我自己看的……</p>
-<p>所以大家请看这篇：)</p>
-<blockquote>
-<p>彻底失去对 Luogu Blog 排版的信心。果然还是自己亲手搭的 Hexo 好用。</p>
-<p>啧啧啧，我的 Hexo 排版真的好看。&lt;_&lt;</p>
-</blockquote>
+    <title>失踪人口回归</title>
+    <url>/2019/04/19/i-am-back/</url>
+    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
+<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
 <p><a id="more"></a></p>
-<h1 id="比赛前干啥"><a class="anchor" href="#比赛前干啥">#</a> 比赛前干啥</h1>
-<p>睡觉。</p>
-<p>CSP-J 在下午，如果有时间，你还可以睡个中午觉。</p>
-<p><s>不然你就只能在考场上睡了。</s></p>
-<p>😃</p>
-<p>临走前记得带上这些：</p>
-<ul>
-<li>身份证</li>
-<li>准考证</li>
-<li>通讯工具</li>
-<li>2 支或以上好写的笔（可以带几支不同颜色的）</li>
-<li>纸巾</li>
-<li>一个背包</li>
-</ul>
-<p>水其实可以不用带。上车后会发一瓶，到了考场还有一瓶。当时我包里带了 3 瓶水回来，考场发的鼎湖山泉现在还放在我桌面上。</p>
-<h1 id="开考前干啥"><a class="anchor" href="#开考前干啥">#</a> 开考前干啥</h1>
-<p>进入考场之前，手机关机放背包里，不要带进去。</p>
-<p>对了，你可以带吃的进去，<strong>神奇的 NOIP 允许你在考试时吃东西。</strong></p>
-<p><s>当然你也可以试试带榴莲或者榴莲糖、榴莲蛋糕之类的进去吃，规则上没说不给，不过不保证你能活着出来。😃</s></p>
-<p>进入考场，先进入设置把屏幕分辨率从老人机模式调到<strong>原生分辨率</strong>，显示器亮度调到合适，鼠标键盘调到一个舒适的位置。检查机箱 USB 封条是否稳固。</p>
-<p>桌面上有<strong>一个加密的压缩包，所有规则须知的文件，和一个编程程序文件夹</strong>。通读须知，<strong>C 盘下建好文件夹</strong>。设置编辑器环境。</p>
-<blockquote>
-<h2 id="dev-c"><a class="anchor" href="#dev-c">#</a> Dev C++</h2>
-<h3 id="自动保存"><a class="anchor" href="#自动保存">#</a> 自动保存</h3>
-<ul>
-<li><strong>「工具 -&gt; 编辑器选项 - &gt; 自动保存 -&gt; 启动编辑器自动保存」<strong>打勾，文件名 选择</strong>「附加格式化时间戳」</strong></li>
-</ul>
-<h3 id="编译选项"><a class="anchor" href="#编译选项">#</a> 编译选项</h3>
-<ul>
-<li>
-<p><strong>「工具 -&gt; 编译选项 -&gt; 代码生成 / 优化 -&gt; 连接器 -&gt; 产生调试信息」</strong> 选择 YES</p>
-<p>快捷键：启动调试 <code>F5</code>   下一步 <code>F7</code></p>
-</li>
-<li>
-<p><strong>打开  <code>-Wall</code> </strong></p>
-</li>
-<li>
-<p><strong>选择 C++ 编译器标准：ISO C++98</strong></p>
-</li>
-</ul>
-</blockquote>
-<p>为了减少踢到<strong>电源线 / 考场停电 / 电脑死机</strong>时的损失，请打开<strong>自动保存</strong>。<strong>每做完一道题可以备份一份到 D/E/F 盘。</strong></p>
-<p>然后差不多开始做题了。</p>
-<h1 id="考试开始"><a class="anchor" href="#考试开始">#</a> 考试开始</h1>
-<p>输密码是一个会让人抓狂的环节，因为老师读给你的密码会是这样的：</p>
-<blockquote>
-<p>=zhu1YI1JIAN1cha6（大小写拼音 + 数字）</p>
-</blockquote>
-<p>实在难以想象一位有方言口音的老师读密码时的情景。</p>
-<p><strong>请先把密码打在记事本上，再复制密码解压。</strong></p>
-<p>解开压缩包之后，你就可以愉快地做题了。</p>
-<p>一些小技巧和注意事项：</p>
-<ul>
-<li><strong>分屏大法，左边敲代码，右边看题目。</strong></li>
-<li>善用草稿纸。T3 T4 写代码前<strong>列需求点，画图</strong>。</li>
-<li><strong>记得加文件读写！</strong></li>
-<li>接上一条，测试时用文件测。</li>
-</ul>
-<p>话说我当时的机子 Win 键貌似坏了…… Win+D 和 Win+Tab 用不了，难受。</p>
-<blockquote>
-<p>比赛结束前 10 分钟就放弃治疗吧，别希望能绝杀。再三检查有没有去掉调试语句、是否能通过编译，文件输入输出是否正确，文件名和建立文件夹是否正确。</p>
-</blockquote>
-<blockquote>
-<p>考场上如果没思路，建议多往厕所跑跑，厕所是一个很奇怪的地方，时常能在厕所获得灵感（雾）</p>
-</blockquote>
-<h2 id="大数据读写"><a class="anchor" href="#大数据读写">#</a> 大数据读写</h2>
-<p>电脑上装了 GVim，<strong>务必使用 GVim 打开大数据文件</strong>。（Notepad 打开会卡死）</p>
-<blockquote>
-<p>使用 Vim 打开了文件，我们发现此时我们无法对文件进行操作</p>
-<p>不要慌，Vim 默认开启时是 “命令” 模式，是需要输入指令来操作的</p>
-<p><strong>我们按下  <code>i</code>  ，切换到插入模式</strong>，就可以愉快的写代码了</p>
-<p>写完代码了，我们需要保存一下</p>
-<p>那么问题来了，怎么保存呢</p>
-<p>首先，<strong>我们按下  <code>Esc</code>  键</strong> <s>（敲 ESC 三个字母的可以关掉 blog 直接退役了）</s>，返回命令模式</p>
-<p>然后，我们在命令模式下<strong>输入  <code>:wq</code> </strong> （均为小写英文字符），就可以保存文件并直接回到终端啦</p>
-<p><strong>语句解释：  <code>:</code>  的作用是一次输入多条指令，上文中我们未使用  <code>:</code>  直接按  <code>i</code>  便是立刻执行命令，这里便会等待你一次输入全部命令回车后依次执行；  <code>w</code>  是 Vim 的保存命令 <s>（不是 s 吗）</s> ；  <code>q</code>  是退出指令</strong></p>
-</blockquote>
 <hr />
-<p>写不动了，下星期再接着写。</p>
+<p>先列出 Rain City 改动了的地方：</p>
+<ul>
+<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
+<li>添加了几位大佬的友链。</li>
+<li>Valine-admin 评论系统及邮件回复更新。</li>
+<li>添加了文章访问量统计。</li>
+<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
+<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
+<li>访问速度略微优化。</li>
+<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
+<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
+</ul>
+<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
+<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
+<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
+<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
+<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
+<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
+<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
+<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
+<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
+<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
+<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
+<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
+<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
+<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
+<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
+<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
+<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
+<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
 <hr />
-<h3 id="2020-04-06"><a class="anchor" href="#2020-04-06">#</a> 2020-04-06:</h3>
-<p>也没啥好写的了，差不多就这些。就这样吧。</p>
-<p>祝大家</p>
-<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>R</mi><mi>P</mi><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><mo>+</mo></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow><annotation encoding="application/x-tex">RP++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++} } } } } } } } } } } } } } } } } }
-</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:4.321695em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mbin">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.238365em;"><span style="top:-6.238365em;margin-right:0.05em;"><span class="pstrut" style="height:5.825365em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.4648071428571425em;"><span style="top:-7.4648071428571425em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:7.0338071428571425em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:7.047329999999999em;"><span style="top:-9.047329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:8.643329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:6.643329999999999em;"><span style="top:-8.643329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:8.239329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:6.239329999999999em;"><span style="top:-8.239329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.835329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.835329999999999em;"><span style="top:-7.835329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.431329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.431329999999999em;"><span style="top:-7.431329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.027329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.027329999999999em;"><span style="top:-7.027329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:6.623329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.623329999999999em;"><span style="top:-6.623329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:6.219329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.219329999999999em;"><span style="top:-6.219329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:5.815329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.8153299999999994em;"><span style="top:-5.815329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:5.4113299999999995em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.4113299999999995em;"><span style="top:-5.4113299999999995em;margin-right:0.1em;"><span class="pstrut" style="height:5.00733em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.0073299999999996em;"><span style="top:-5.00733em;margin-right:0.1em;"><span class="pstrut" style="height:4.60333em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:2.6033299999999997em;"><span style="top:-4.60333em;margin-right:0.1em;"><span class="pstrut" style="height:4.19933em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:2.19933em;"><span style="top:-4.19933em;margin-right:0.1em;"><span class="pstrut" style="height:3.79533em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.7953299999999999em;"><span style="top:-3.79533em;margin-right:0.1em;"><span class="pstrut" style="height:3.39133em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.39133em;"><span style="top:-3.39133em;margin-right:0.1em;"><span class="pstrut" style="height:2.98733em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.98733em;"><span style="top:-2.98733em;margin-right:0.1em;"><span class="pstrut" style="height:2.58333em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight">+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-<p>（从<span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvSmFtZXNIZS9jc3Atai15b3Utamk=">隔壁大佬</span>那抄来的 RP+++++）</p>
-<h1 id="引用的文章"><a class="anchor" href="#引用的文章">#</a> 引用的文章</h1>
-<ol>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3Uub3JnL2Jsb2cvZXhwZWN0L3lpLW1lbmctd2VpLW1hLWZvdS1mdS1zaGFvLWh1YS1jc3AyMDE5LWthby1xaWFuLXRpLXhpbmc=">以梦为马，不负韶华 ——CSP2019 考前提醒</span></li>
-<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3Uub3JnL2Jsb2cvdHdpL3poaS1jc3AtbWVuZy14aW4tZm91LWt1YWktc2hpLXlvbmctbm9pLWxpbnV4LWRpLXJlbi1xdW4=">致 CSP 萌新 / 不会使用 NOI LINUX 的人群</span></li>
-</ol>
+<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
-        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -478,6 +371,113 @@ vmap &lt;C-A&gt; ggVG
 </ol>
 ]]></content>
       <tags>
+        <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>CSP-J 2019 游记 &amp; 指引</title>
+    <url>/2019/12/27/CSPJ-tour/</url>
+    <content><![CDATA[<p>下面那篇 NOIP 比赛笔记其实是给我自己看的……</p>
+<p>所以大家请看这篇：)</p>
+<blockquote>
+<p>彻底失去对 Luogu Blog 排版的信心。果然还是自己亲手搭的 Hexo 好用。</p>
+<p>啧啧啧，我的 Hexo 排版真的好看。&lt;_&lt;</p>
+</blockquote>
+<p><a id="more"></a></p>
+<h1 id="比赛前干啥"><a class="anchor" href="#比赛前干啥">#</a> 比赛前干啥</h1>
+<p>睡觉。</p>
+<p>CSP-J 在下午，如果有时间，你还可以睡个中午觉。</p>
+<p><s>不然你就只能在考场上睡了。</s></p>
+<p>😃</p>
+<p>临走前记得带上这些：</p>
+<ul>
+<li>身份证</li>
+<li>准考证</li>
+<li>通讯工具</li>
+<li>2 支或以上好写的笔（可以带几支不同颜色的）</li>
+<li>纸巾</li>
+<li>一个背包</li>
+</ul>
+<p>水其实可以不用带。上车后会发一瓶，到了考场还有一瓶。当时我包里带了 3 瓶水回来，考场发的鼎湖山泉现在还放在我桌面上。</p>
+<h1 id="开考前干啥"><a class="anchor" href="#开考前干啥">#</a> 开考前干啥</h1>
+<p>进入考场之前，手机关机放背包里，不要带进去。</p>
+<p>对了，你可以带吃的进去，<strong>神奇的 NOIP 允许你在考试时吃东西。</strong></p>
+<p><s>当然你也可以试试带榴莲或者榴莲糖、榴莲蛋糕之类的进去吃，规则上没说不给，不过不保证你能活着出来。😃</s></p>
+<p>进入考场，先进入设置把屏幕分辨率从老人机模式调到<strong>原生分辨率</strong>，显示器亮度调到合适，鼠标键盘调到一个舒适的位置。检查机箱 USB 封条是否稳固。</p>
+<p>桌面上有<strong>一个加密的压缩包，所有规则须知的文件，和一个编程程序文件夹</strong>。通读须知，<strong>C 盘下建好文件夹</strong>。设置编辑器环境。</p>
+<blockquote>
+<h2 id="dev-c"><a class="anchor" href="#dev-c">#</a> Dev C++</h2>
+<h3 id="自动保存"><a class="anchor" href="#自动保存">#</a> 自动保存</h3>
+<ul>
+<li><strong>「工具 -&gt; 编辑器选项 - &gt; 自动保存 -&gt; 启动编辑器自动保存」<strong>打勾，文件名 选择</strong>「附加格式化时间戳」</strong></li>
+</ul>
+<h3 id="编译选项"><a class="anchor" href="#编译选项">#</a> 编译选项</h3>
+<ul>
+<li>
+<p><strong>「工具 -&gt; 编译选项 -&gt; 代码生成 / 优化 -&gt; 连接器 -&gt; 产生调试信息」</strong> 选择 YES</p>
+<p>快捷键：启动调试 <code>F5</code>   下一步 <code>F7</code></p>
+</li>
+<li>
+<p><strong>打开  <code>-Wall</code> </strong></p>
+</li>
+<li>
+<p><strong>选择 C++ 编译器标准：ISO C++98</strong></p>
+</li>
+</ul>
+</blockquote>
+<p>为了减少踢到<strong>电源线 / 考场停电 / 电脑死机</strong>时的损失，请打开<strong>自动保存</strong>。<strong>每做完一道题可以备份一份到 D/E/F 盘。</strong></p>
+<p>然后差不多开始做题了。</p>
+<h1 id="考试开始"><a class="anchor" href="#考试开始">#</a> 考试开始</h1>
+<p>输密码是一个会让人抓狂的环节，因为老师读给你的密码会是这样的：</p>
+<blockquote>
+<p>=zhu1YI1JIAN1cha6（大小写拼音 + 数字）</p>
+</blockquote>
+<p>实在难以想象一位有方言口音的老师读密码时的情景。</p>
+<p><strong>请先把密码打在记事本上，再复制密码解压。</strong></p>
+<p>解开压缩包之后，你就可以愉快地做题了。</p>
+<p>一些小技巧和注意事项：</p>
+<ul>
+<li><strong>分屏大法，左边敲代码，右边看题目。</strong></li>
+<li>善用草稿纸。T3 T4 写代码前<strong>列需求点，画图</strong>。</li>
+<li><strong>记得加文件读写！</strong></li>
+<li>接上一条，测试时用文件测。</li>
+</ul>
+<p>话说我当时的机子 Win 键貌似坏了…… Win+D 和 Win+Tab 用不了，难受。</p>
+<blockquote>
+<p>比赛结束前 10 分钟就放弃治疗吧，别希望能绝杀。再三检查有没有去掉调试语句、是否能通过编译，文件输入输出是否正确，文件名和建立文件夹是否正确。</p>
+</blockquote>
+<blockquote>
+<p>考场上如果没思路，建议多往厕所跑跑，厕所是一个很奇怪的地方，时常能在厕所获得灵感（雾）</p>
+</blockquote>
+<h2 id="大数据读写"><a class="anchor" href="#大数据读写">#</a> 大数据读写</h2>
+<p>电脑上装了 GVim，<strong>务必使用 GVim 打开大数据文件</strong>。（Notepad 打开会卡死）</p>
+<blockquote>
+<p>使用 Vim 打开了文件，我们发现此时我们无法对文件进行操作</p>
+<p>不要慌，Vim 默认开启时是 “命令” 模式，是需要输入指令来操作的</p>
+<p><strong>我们按下  <code>i</code>  ，切换到插入模式</strong>，就可以愉快的写代码了</p>
+<p>写完代码了，我们需要保存一下</p>
+<p>那么问题来了，怎么保存呢</p>
+<p>首先，<strong>我们按下  <code>Esc</code>  键</strong> <s>（敲 ESC 三个字母的可以关掉 blog 直接退役了）</s>，返回命令模式</p>
+<p>然后，我们在命令模式下<strong>输入  <code>:wq</code> </strong> （均为小写英文字符），就可以保存文件并直接回到终端啦</p>
+<p><strong>语句解释：  <code>:</code>  的作用是一次输入多条指令，上文中我们未使用  <code>:</code>  直接按  <code>i</code>  便是立刻执行命令，这里便会等待你一次输入全部命令回车后依次执行；  <code>w</code>  是 Vim 的保存命令 <s>（不是 s 吗）</s> ；  <code>q</code>  是退出指令</strong></p>
+</blockquote>
+<hr />
+<p>写不动了，下星期再接着写。</p>
+<hr />
+<h3 id="2020-04-06"><a class="anchor" href="#2020-04-06">#</a> 2020-04-06:</h3>
+<p>也没啥好写的了，差不多就这些。就这样吧。</p>
+<p>祝大家</p>
+<p><span class="katex-display"><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML" display="block"><semantics><mrow><mi>R</mi><mi>P</mi><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><msup><mo>+</mo><mrow><mo>+</mo><mo>+</mo></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow></msup></mrow><annotation encoding="application/x-tex">RP++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++^{++} } } } } } } } } } } } } } } } } }
+</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.76666em;vertical-align:-0.08333em;"></span><span class="mord mathnormal" style="margin-right:0.00773em;">R</span><span class="mord mathnormal" style="margin-right:0.13889em;">P</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">+</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:4.321695em;vertical-align:-0.08333em;"></span><span class="mord"><span class="mbin">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.238365em;"><span style="top:-6.238365em;margin-right:0.05em;"><span class="pstrut" style="height:5.825365em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.4648071428571425em;"><span style="top:-7.4648071428571425em;margin-right:0.07142857142857144em;"><span class="pstrut" style="height:7.0338071428571425em;"></span><span class="sizing reset-size3 size1 mtight"><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:7.047329999999999em;"><span style="top:-9.047329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:8.643329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:6.643329999999999em;"><span style="top:-8.643329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:8.239329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:6.239329999999999em;"><span style="top:-8.239329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.835329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.835329999999999em;"><span style="top:-7.835329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.431329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.431329999999999em;"><span style="top:-7.431329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:7.027329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:5.027329999999999em;"><span style="top:-7.027329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:6.623329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.623329999999999em;"><span style="top:-6.623329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:6.219329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:4.219329999999999em;"><span style="top:-6.219329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:5.815329999999999em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.8153299999999994em;"><span style="top:-5.815329999999999em;margin-right:0.1em;"><span class="pstrut" style="height:5.4113299999999995em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.4113299999999995em;"><span style="top:-5.4113299999999995em;margin-right:0.1em;"><span class="pstrut" style="height:5.00733em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:3.0073299999999996em;"><span style="top:-5.00733em;margin-right:0.1em;"><span class="pstrut" style="height:4.60333em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:2.6033299999999997em;"><span style="top:-4.60333em;margin-right:0.1em;"><span class="pstrut" style="height:4.19933em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:2.19933em;"><span style="top:-4.19933em;margin-right:0.1em;"><span class="pstrut" style="height:3.79533em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.7953299999999999em;"><span style="top:-3.79533em;margin-right:0.1em;"><span class="pstrut" style="height:3.39133em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:1.39133em;"><span style="top:-3.39133em;margin-right:0.1em;"><span class="pstrut" style="height:2.98733em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight"><span class="mbin mtight">+</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.98733em;"><span style="top:-2.98733em;margin-right:0.1em;"><span class="pstrut" style="height:2.58333em;"></span><span class="mord mtight"><span class="mord mtight">+</span><span class="mord mtight">+</span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>（从<span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvSmFtZXNIZS9jc3Atai15b3Utamk=">隔壁大佬</span>那抄来的 RP+++++）</p>
+<h1 id="引用的文章"><a class="anchor" href="#引用的文章">#</a> 引用的文章</h1>
+<ol>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3Uub3JnL2Jsb2cvZXhwZWN0L3lpLW1lbmctd2VpLW1hLWZvdS1mdS1zaGFvLWh1YS1jc3AyMDE5LWthby1xaWFuLXRpLXhpbmc=">以梦为马，不负韶华 ——CSP2019 考前提醒</span></li>
+<li><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3Uub3JnL2Jsb2cvdHdpL3poaS1jc3AtbWVuZy14aW4tZm91LWt1YWktc2hpLXlvbmctbm9pLWxpbnV4LWRpLXJlbi1xdW4=">致 CSP 萌新 / 不会使用 NOI LINUX 的人群</span></li>
+</ol>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
         <tag>技术</tag>
       </tags>
   </entry>
