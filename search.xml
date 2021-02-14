@@ -1312,7 +1312,7 @@ vmap &lt;C-A&gt; ggVG
 <li>文章中的某些错误引起的争论。</li>
 </ol>
 </blockquote>
-<h1 id="一-gcc-系列"><a class="anchor" href="#一-gcc-系列">#</a> 一、GCC 系列</h1>
+<h1 id="gcc-系列"><a class="anchor" href="#gcc-系列">#</a> GCC 系列</h1>
 <p>关于 GCC 的黑科技想必大家也就知道这几句吧：</p>
 <figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span></span></span></pre></td></tr></table></figure><p>俗称 “吸氧”。</p>
 <p>在这里小编就简单地讲一下 O1, O2, O3, Os（怎么还有个 Os）。</p>
@@ -1787,7 +1787,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 <p>答案是 9。没错，逗号运算符的返回值就是最后一个的值。</p>
 <p>现在可以解释上一小节留下总结了吧。</p>
 <p><code>A&amp;&amp;(B,1)||C</code> ：当  <code>A</code>  为  <code>true</code>  时会执行  <code>(B,1)</code> ，返回值为  <code>true</code> ，因此  <code>A&amp;&amp;(B,1)</code>  的返回值为  <code>true</code> ，因此不会执行  <code>C</code> ，当  <code>A</code>  为  <code>false</code>  时，不会执行  <code>(B,1)</code> ，且  <code>A&amp;&amp;(B,1)</code>  的值为  <code>false</code> ，因此会执行  <code>C</code></p>
-<h2 id="5-standard-template-library"><a class="anchor" href="#5-standard-template-library">#</a> (5) Standard Template Library</h2>
+<h2 id="standard-template-library"><a class="anchor" href="#standard-template-library">#</a> Standard Template Library</h2>
 <p>如果能熟练使用 STL，则可以大大减小代码复杂度，提高对于部分人的可读性（前提是那个人也会 STL）。但在很多 OI 比赛中，STL 会成为性能瓶颈（不仅仅是常数瓶颈），而且要明白：对于 STL 来说，O2 的开与否带来的不仅仅是几毫秒的差，而是一种蜕变！</p>
 <h3 id="容器"><a class="anchor" href="#容器">#</a> 容器</h3>
 <h4 id="完全连续容器"><a class="anchor" href="#完全连续容器">#</a> 完全连续容器</h4>
