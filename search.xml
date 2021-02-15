@@ -1,56 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Hello, Rain City!</title>
-    <url>/2018/04/30/hello-raincity/</url>
-    <content><![CDATA[<p>Rain City 终于搭建完成啦！</p>
-<p><a id="more"></a></p>
-<blockquote>
-<p>“不是在之前就已经搭建好了吗？”<br />
- 嗯……<a href="https://fidel.js.org/2018/03/11/about/"> 这个 blog 的第一篇文章</a>在写的时候 Rain City 还没完全建好，当时 Fork 了别人的 Blog 之后还在继续优化细节。<s>不要问我为什么那么早写……</s></p>
-</blockquote>
-<p>话说回来，写这篇文章的时候刚好是 5 月 11 日，距第一篇文章【关于 Rain City】开始动笔刚好整整 2 个月。</p>
-<p>也就是说，经历了整整 2 个月，Rain City 从建站开始，至此终于搭建完毕。</p>
-<p>在这个重要的日子，截几张图片作为纪念：</p>
-<p><img data-src="https://s1.ax1x.com/2018/05/11/CBFe3Q.png" alt="Rain City主页，截取于2018年5月11日" /></p>
-<p><s>不要问我为什么背景是白的，貌似是截的时候还没加载好</s></p>
-<p><img data-src="https://s1.ax1x.com/2018/05/11/CBFKun.png" alt="Rain City主页，截取于2018年5月11日" /></p>
-<h2 id="一些也许久远的事情"><a class="anchor" href="#一些也许久远的事情">#</a> 一些也许久远的事情</h2>
-<p>令我产生建这个博客的念头是 LittleQiu 的博客<span class="exturl" data-url="aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA=="> DreamCity</span>。关于怎么知道 DreamCity 的，记得是在去年我还运营着一个 Minecraft 服务器的时候。当时在 NextCraft 的交流群里有人发了一张 “请填入网址：www._____.com” 的表情，然后 LittleQiu 就回复了他的博客网址，于是我就第一次接触到了他的博客。</p>
-<p>其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型 Minecraft 服务器作为官网。可惜，网易给 Minecraft 的生态链带来极大的破坏。2017 年 7 月，在这个历来玩家活跃的夏天，Minecraft 在经历了一个春天的沉寂之后，在 Minecraft 私服界的急切期盼下，却再也没有重新醒来。</p>
-<p>我一手建立起的梦境现实世界，终于没能撑过 2017 年的夏天。</p>
-<p>2018 年 1 月，<span class="exturl" data-url="aHR0cHM6Ly9pLmFub2RlbGljLmNvbS8=">Nextcraft 业务关停。</span></p>
-<p><img data-src="https://s1.ax1x.com/2018/05/11/CBkTdx.png" alt="Nextcraft业务关停" /></p>
-<blockquote>
-<p>夜幕降临，黑夜会将我们吞没。<strong>等到太阳再次升起的时刻，我们还会再次相遇。</strong></p>
-<p>——Angelic47</p>
-</blockquote>
-<p>2018 年 4 月 25 日，Atlantis Cloud 业务关停，售前群被解散。</p>
-<p><img data-src="https://s1.ax1x.com/2018/05/11/CBkLWD.png" alt="Atlantis Cloud售前群解散" /></p>
-<p>再没有了我曾经熟悉的 Minecraft，只剩这个博客，成为我们共同联络的桥梁。</p>
-<blockquote>
-<p>就算世界终结，也无所谓。</p>
-<p><strong>愿你有一天，能与你最重要的人重逢。</strong></p>
-</blockquote>
-<p>这是 LittleQiu 的 DreamCity 的标题。</p>
-<p>希望，读到这一段的你，也一样。</p>
-<h2 id="关于这个博客的搭建"><a class="anchor" href="#关于这个博客的搭建">#</a> 关于这个博客的搭建</h2>
-<p>这个博客主题 forked from <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3h1ZGFpbG9uZy94dWRhaWxvbmcuZ2l0aHViLmlv">xudailongxudailong.github.io</span> forked from <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0dhb2hhb3lhbmcvZ2FvaGFveWFuZy5naXRodWIuaW8=">Gaohaoyang/gaohaoyang.github.io</span> ，仿照<span class="exturl" data-url="aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA=="> DreamCity</span> 的<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3Z0cm9pcy9rcmF0b3M="> KRATOS</span> 主题 Copy 了个 Banner 和右栏的个人介绍，同时对于一些小细节进行了改动。</p>
-<p>目前写博客用的是<span class="exturl" data-url="aHR0cHM6Ly9zdGFja2VkaXQuaW8v"> StackEdit</span>，目前我找到的唯一一个可以直接上传至 github 的在线 markdown 编辑器。目前与 Dropbox 和 Google 硬盘关联作为储存，电脑与手机同步写文章。</p>
-<p><img data-src="https://s1.ax1x.com/2018/05/11/CBAN01.png" alt="StackEdit，截取于写这篇文章的时候" /></p>
-<p>目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我<s>一时脑抽</s>忘记加了，在评论提醒我一声吧。</p>
-<p>另外打算再增加一个类似 “看板” 与 “想法” 之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是 “控制台” 页面，把关于这个博客后台工作的链接整合在一起，看起来也更 “有范”。</p>
-<p>最后，已经申请了 DreamCity 的友链，有时间的话再提交到百度和 Google 上面。</p>
-<hr />
-<h3 id="2018-5-18"><a class="anchor" href="#2018-5-18">#</a> 2018-5-18：</h3>
-<p>目前发现一个很尴尬的问题：因为 StackEdit 有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章…… 目前解决方法是写文章时先把 VPN 断开，变成离线模式，写完后再开 VPN 同步到 Github 上</p>
-<p>目前正在寻找更好的解决办法…… 也欢迎各位知道解决办法的大佬分享一下。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>三星NOTE4刷港版手记</title>
     <url>/2018/04/30/samsung-TGY/</url>
     <content><![CDATA[<div class="note info">
@@ -110,6 +60,56 @@
       <tags>
         <tag>技术</tag>
         <tag>周边服务</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello, Rain City!</title>
+    <url>/2018/04/30/hello-raincity/</url>
+    <content><![CDATA[<p>Rain City 终于搭建完成啦！</p>
+<p><a id="more"></a></p>
+<blockquote>
+<p>“不是在之前就已经搭建好了吗？”<br />
+ 嗯……<a href="https://fidel.js.org/2018/03/11/about/"> 这个 blog 的第一篇文章</a>在写的时候 Rain City 还没完全建好，当时 Fork 了别人的 Blog 之后还在继续优化细节。<s>不要问我为什么那么早写……</s></p>
+</blockquote>
+<p>话说回来，写这篇文章的时候刚好是 5 月 11 日，距第一篇文章【关于 Rain City】开始动笔刚好整整 2 个月。</p>
+<p>也就是说，经历了整整 2 个月，Rain City 从建站开始，至此终于搭建完毕。</p>
+<p>在这个重要的日子，截几张图片作为纪念：</p>
+<p><img data-src="https://s1.ax1x.com/2018/05/11/CBFe3Q.png" alt="Rain City主页，截取于2018年5月11日" /></p>
+<p><s>不要问我为什么背景是白的，貌似是截的时候还没加载好</s></p>
+<p><img data-src="https://s1.ax1x.com/2018/05/11/CBFKun.png" alt="Rain City主页，截取于2018年5月11日" /></p>
+<h2 id="一些也许久远的事情"><a class="anchor" href="#一些也许久远的事情">#</a> 一些也许久远的事情</h2>
+<p>令我产生建这个博客的念头是 LittleQiu 的博客<span class="exturl" data-url="aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA=="> DreamCity</span>。关于怎么知道 DreamCity 的，记得是在去年我还运营着一个 Minecraft 服务器的时候。当时在 NextCraft 的交流群里有人发了一张 “请填入网址：www._____.com” 的表情，然后 LittleQiu 就回复了他的博客网址，于是我就第一次接触到了他的博客。</p>
+<p>其实当时我想搭建一个博客网页完全是为了给当时计划搭建的大型 Minecraft 服务器作为官网。可惜，网易给 Minecraft 的生态链带来极大的破坏。2017 年 7 月，在这个历来玩家活跃的夏天，Minecraft 在经历了一个春天的沉寂之后，在 Minecraft 私服界的急切期盼下，却再也没有重新醒来。</p>
+<p>我一手建立起的梦境现实世界，终于没能撑过 2017 年的夏天。</p>
+<p>2018 年 1 月，<span class="exturl" data-url="aHR0cHM6Ly9pLmFub2RlbGljLmNvbS8=">Nextcraft 业务关停。</span></p>
+<p><img data-src="https://s1.ax1x.com/2018/05/11/CBkTdx.png" alt="Nextcraft业务关停" /></p>
+<blockquote>
+<p>夜幕降临，黑夜会将我们吞没。<strong>等到太阳再次升起的时刻，我们还会再次相遇。</strong></p>
+<p>——Angelic47</p>
+</blockquote>
+<p>2018 年 4 月 25 日，Atlantis Cloud 业务关停，售前群被解散。</p>
+<p><img data-src="https://s1.ax1x.com/2018/05/11/CBkLWD.png" alt="Atlantis Cloud售前群解散" /></p>
+<p>再没有了我曾经熟悉的 Minecraft，只剩这个博客，成为我们共同联络的桥梁。</p>
+<blockquote>
+<p>就算世界终结，也无所谓。</p>
+<p><strong>愿你有一天，能与你最重要的人重逢。</strong></p>
+</blockquote>
+<p>这是 LittleQiu 的 DreamCity 的标题。</p>
+<p>希望，读到这一段的你，也一样。</p>
+<h2 id="关于这个博客的搭建"><a class="anchor" href="#关于这个博客的搭建">#</a> 关于这个博客的搭建</h2>
+<p>这个博客主题 forked from <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3h1ZGFpbG9uZy94dWRhaWxvbmcuZ2l0aHViLmlv">xudailongxudailong.github.io</span> forked from <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0dhb2hhb3lhbmcvZ2FvaGFveWFuZy5naXRodWIuaW8=">Gaohaoyang/gaohaoyang.github.io</span> ，仿照<span class="exturl" data-url="aHR0cHM6Ly93d3cubGl0dGxlcWl1Lm5ldA=="> DreamCity</span> 的<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3Z0cm9pcy9rcmF0b3M="> KRATOS</span> 主题 Copy 了个 Banner 和右栏的个人介绍，同时对于一些小细节进行了改动。</p>
+<p>目前写博客用的是<span class="exturl" data-url="aHR0cHM6Ly9zdGFja2VkaXQuaW8v"> StackEdit</span>，目前我找到的唯一一个可以直接上传至 github 的在线 markdown 编辑器。目前与 Dropbox 和 Google 硬盘关联作为储存，电脑与手机同步写文章。</p>
+<p><img data-src="https://s1.ax1x.com/2018/05/11/CBAN01.png" alt="StackEdit，截取于写这篇文章的时候" /></p>
+<p>目前打算一周一更吧，有时间的话在学校也能写一些，周末再打到电脑上。通常来说每篇文章末尾都会有一个微信赞赏码，随时欢迎各位的支持哦。如果没有的话可能是我<s>一时脑抽</s>忘记加了，在评论提醒我一声吧。</p>
+<p>另外打算再增加一个类似 “看板” 与 “想法” 之类的页面，用来放一些零散的内容与目前正在进行和计划的项目列表。还有就是 “控制台” 页面，把关于这个博客后台工作的链接整合在一起，看起来也更 “有范”。</p>
+<p>最后，已经申请了 DreamCity 的友链，有时间的话再提交到百度和 Google 上面。</p>
+<hr />
+<h3 id="2018-5-18"><a class="anchor" href="#2018-5-18">#</a> 2018-5-18：</h3>
+<p>目前发现一个很尴尬的问题：因为 StackEdit 有自动同步的功能，所以每次修改我的文章的时候我的博客上面就会出现我修改到一半的文章…… 目前解决方法是写文章时先把 VPN 断开，变成离线模式，写完后再开 VPN 同步到 Github 上</p>
+<p>目前正在寻找更好的解决办法…… 也欢迎各位知道解决办法的大佬分享一下。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
@@ -534,6 +534,22 @@ vmap &lt;C-A&gt; ggVG
 <p>约瑟夫是一个无聊的人！！</p>
 </blockquote>
 <p><strong>我也像是个无聊的人 &lt;_&lt;</strong></p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>随便聊聊</title>
+    <url>/2021/02/15/talk-about-something/</url>
+    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
+<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
+<blockquote>
+<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
+<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
+</blockquote>
+<p>很喜欢这句话。</p>
+<p>当你看这个世界时，也在发现自己。</p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -1293,15 +1309,16 @@ vmap &lt;C-A&gt; ggVG
   <entry>
     <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
     <url>/2021/02/14/cpp-optimization/</url>
-    <content><![CDATA[<blockquote>
+    <content><![CDATA[<div class="note info">
 <p>转载修改内容：</p>
 <ol>
 <li>修复了原文滥用 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span> 问题。</li>
 <li>对代码进行了格式化。</li>
 <li>修改了原文汇编代码的错误注释。（汇编的注释符号是  <code>;</code>  而不是  <code>//</code> ！）</li>
 <li>修改原文符号的不规范使用。</li>
+<li>删除或修改了存在争议或错误的内容。</li>
 </ol>
-</blockquote>
+</div>
 <hr />
 <h1 id="免责声明"><a class="anchor" href="#免责声明">#</a> 免责声明</h1>
 <blockquote>
@@ -1314,10 +1331,10 @@ vmap &lt;C-A&gt; ggVG
 </blockquote>
 <h1 id="gcc-系列"><a class="anchor" href="#gcc-系列">#</a> GCC 系列</h1>
 <p>关于 GCC 的黑科技想必大家也就知道这几句吧：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span> <span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span></span></span></pre></td></tr></table></figure><p>俗称 “吸氧”。</p>
-<p>在这里小编就简单地讲一下 O1, O2, O3, Os（怎么还有个 Os）。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span><span class="token punctuation">(</span><span class="token number">3</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span><span class="token punctuation">(</span><span class="token number">2</span><span class="token punctuation">)</span></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">pragma</span> <span class="token expression">GCC <span class="token function">optimize</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">)</span></span></span></pre></td></tr></table></figure><p>俗称 “吸氧”。</p>
+<p>在这里小编就简单地讲一下  <code>-O1</code> ,  <code>-O2</code> ,  <code>-O3</code> ,  <code>-Os</code> （怎么还有个  <code>-Os</code> ）。</p>
 <h2 id="o-系列"><a class="anchor" href="#o-系列">#</a> O 系列</h2>
-<h3 id="o1"><a class="anchor" href="#o1">#</a> O1</h3>
+<h3 id="-o1"><a class="anchor" href="#-o1">#</a>  <code>-O1</code></h3>
 <p>包含下列选项：</p>
 <pre><code>-fauto-inc-dec
 -fcprop-registers
@@ -1345,13 +1362,13 @@ vmap &lt;C-A&gt; ggVG
 -funit-at-a-time
 -fomit-frame-pointer
 </code></pre>
-<h3 id="o2"><a class="anchor" href="#o2">#</a> O2</h3>
-<p>除了加载 O1 的选项外，还加载：</p>
+<h3 id="-o2"><a class="anchor" href="#-o2">#</a>  <code>-O2</code></h3>
+<p>除了加载  <code>-O1</code>  的选项外，还加载：</p>
 <pre><code>-fthread-jumps
 -falign-functions -falign-jumps
 -falign-loops -falign-labels
 -fcaller-saves
--fcrossjumping
+-fcr-Ossjumping
 -fcse-follow-jumps -fcse-skip-blocks
 -fdelete-null-pointer-checks
 -fexpensive-optimizations
@@ -1369,21 +1386,21 @@ vmap &lt;C-A&gt; ggVG
 -ftree-pre
 -ftree-vrp
 </code></pre>
-<h3 id="o3"><a class="anchor" href="#o3">#</a> O3</h3>
-<p>除了加载 O2 外，还加载：</p>
+<h3 id="-o3"><a class="anchor" href="#-o3">#</a>  <code>-O3</code></h3>
+<p>除了加载  <code>-O2</code>  外，还加载：</p>
 <pre><code>-finline-functions
 -funswitch-loops
 -fpredictive-commoning
 -fgcse-after-reload
 -ftree-vectorize
 </code></pre>
-<h3 id="os"><a class="anchor" href="#os">#</a> Os</h3>
-<p>在研究编译驱动的 makefile 的时候，发现 GCC 的命令行里面有一个 -Os 的优化选项。</p>
-<p>遍查 GCC 文档，发现了 -O0,-O1,-O2,-O3，就是没有发现 -Os。</p>
-<p>祭出 GOOGLE，搜了一下，终于发现这篇文章说明了 -Os 的作用：</p>
+<h3 id="-os"><a class="anchor" href="#-os">#</a>  <code>-Os</code></h3>
+<p>在研究编译驱动的 makefile 的时候，发现 GCC 的命令行里面有一个  <code>-Os</code>  的优化选项。</p>
+<p>遍查 GCC 文档，发现了  <code>-O0</code> ,  <code>-O1</code> ,  <code>-O2</code> ,  <code>-O3</code> ，就是没有发现  <code>-Os</code> 。</p>
+<p>祭出 GOOGLE，搜了一下，终于发现这篇文章说明了  <code>-Os</code>  的作用：</p>
 <p><span class="exturl" data-url="aHR0cDovL3d3dy5saW51eGpvdXJuYWwuY29tL2FydGljbGUvNzI2OQ==">http://www.linuxjournal.com/article/7269</span></p>
-<p>原来 -Os 相当于 -O2.5。是使用了所有 -O2 的优化选项，但又不缩减代码尺寸的方法。<br />
-除了包含 -O2 的开关外，-Os 还会使得下列开关禁用。</p>
+<p>原来  <code>-Os</code>  相当于 &quot;-O2.5&quot;。是使用了所有  <code>-O2</code>  的优化选项，但又不缩减代码尺寸的方法。<br />
+除了包含  <code>-O2</code>  的开关外， <code>-Os</code>  还会使得下列开关禁用。</p>
 <pre><code>-falign-functions 
 -falign-jumps 
 -falign-loops
@@ -1393,8 +1410,8 @@ vmap &lt;C-A&gt; ggVG
 -fprefetch-loop-arrays 
 -ftree-vect-loop-version
 </code></pre>
-<p>另外，对于多个 -O 选项的情形，最后一个加载的为有效。比如  <code>gcc –O1 –Os –O3 –o test test.c</code> ，有效的优化开关为 -O3。</p>
-<p>一般来说，用的最多的是 -O3 和 -Os，如果遇到程序运行不正常的问题，请降低优化级别，如把 -O3 改为 -O2（情况很少见）。</p>
+<p>另外，对于多个 -O 选项的情形，最后一个加载的为有效。比如  <code>gcc -O1 -Os -O3 –o test test.c</code> ，有效的优化开关为  <code>-O3</code> 。</p>
+<p>一般来说，用的最多的是  <code>-O3</code>  和  <code>-Os</code> ，如果遇到程序运行不正常的问题，请降低优化级别，如把  <code>-O3</code>  改为  <code>-O2</code> （情况很少见）。</p>
 <h2 id="针对目标机器"><a class="anchor" href="#针对目标机器">#</a> 针对目标机器</h2>
 <h3 id="-marchcpu-type"><a class="anchor" href="#-marchcpu-type">#</a>  <code>-march=cpu-type</code></h3>
 <p>为 cpu-type 所针对的机器开启需要的指令集。</p>
@@ -1407,7 +1424,7 @@ vmap &lt;C-A&gt; ggVG
 <p><code>sse</code>  为 x64 的默认值，使用  <code>sse</code>  指令集。</p>
 <p>一般你的程序如果有大量的浮点运算的话，在 P4 和 K8 以上级别的处理器上推荐开启  <code>-mfpmath=sse</code> 。</p>
 <h3 id="加载指定指令集"><a class="anchor" href="#加载指定指令集">#</a> 加载指定指令集</h3>
-<p>可以使用 -msse2 或 -msse4.1 加载指定的指令集。</p>
+<p>可以使用  <code>-msse2</code>  或  <code>-msse4.1</code>  加载指定的指令集。</p>
 <h2 id="其他比较有效的选项"><a class="anchor" href="#其他比较有效的选项">#</a> 其他比较有效的选项</h2>
 <h3 id="-ftracer"><a class="anchor" href="#-ftracer">#</a>  <code>-ftracer</code></h3>
 <p>执行尾部复制以扩大超级块的尺寸，它简化了函数控制流，从而允许其它的优化措施做的更好。单独使用没啥意义，和其他优化选项一起使用很有效。</p>
@@ -1424,18 +1441,18 @@ vmap &lt;C-A&gt; ggVG
 <h3 id="-floop-interchange"><a class="anchor" href="#-floop-interchange">#</a>  <code>-floop-interchange</code></h3>
 <p>交换循环变量。</p>
 <p>例如:</p>
-<pre><code>    DO J = 1, M
-        DO I = 1, N
-            A(J, I) = A(J, I) * C
-        ENDDO
-    ENDDO
+<pre><code>DO J = 1, M
+  DO I = 1, N
+    A(J, I) = A(J, I) * C
+  ENDDO
+ENDDO
 </code></pre>
 <p>会改变为：</p>
-<pre><code>	DO I = 1, N
-    	DO J = 1, M
-        	A(J, I) = A(J, I) * C
-    	ENDDO
-	ENDDO
+<pre><code>DO I = 1, N
+  DO J = 1, M
+    A(J, I) = A(J, I) * C
+  ENDDO
+ENDDO
 </code></pre>
 <p>改变后，如果 N 比缓冲区大的话，会更有效率。这是因为 Fortran 里数组是以列主元为排列方式的。当然这个选项并不仅仅用于 Fortran，gcc 家族的编译器都有效。</p>
 <h3 id="-fvisibilityhidden"><a class="anchor" href="#-fvisibilityhidden">#</a>  <code>-fvisibility=hidden</code></h3>
@@ -1448,13 +1465,13 @@ vmap &lt;C-A&gt; ggVG
 <h3 id="-m64"><a class="anchor" href="#-m64">#</a>  <code>-m64</code></h3>
 <p>生成专门运行于 64 位环境的代码，不能运行于 32 位环境，仅用于 x86_64 [含 EMT64] 环境。</p>
 <h3 id="-fprefetch-loop-arrays"><a class="anchor" href="#-fprefetch-loop-arrays">#</a>  <code>-fprefetch-loop-arrays</code></h3>
-<p>生成数组预读取指令，对于使用巨大数组的程序可以加快代码执行速度，适合数据库相关的大型软件等。具体效果如何取决于代码。不能和 -Os 一起使用。</p>
+<p>生成数组预读取指令，对于使用巨大数组的程序可以加快代码执行速度，适合数据库相关的大型软件等。具体效果如何取决于代码。不能和  <code>-Os</code>  一起使用。</p>
 <h3 id="-pipe"><a class="anchor" href="#-pipe">#</a>  <code>-pipe</code></h3>
 <p>在编译过程的不同阶段之间使用管道而非临时文件进行通信，可以加快编译速度。建议使用。</p>
 <h2 id="推荐选项开关"><a class="anchor" href="#推荐选项开关">#</a> 推荐选项开关</h2>
 <p>综上，比较<strong>安全</strong>的<strong>开关</strong>为</p>
 <pre><code>-pipe
--O3(-Os)
+`-O3`(`-Os`)
 -march=native
 -mfpmath=sse
 -msse2
@@ -1470,26 +1487,26 @@ vmap &lt;C-A&gt; ggVG
 <pre><code>-fvisibility=hidden
 -fvisibility-inlines-hidden
 </code></pre>
-<p><strong>注意某些比赛不能使用 O1, O2, O3, Os.</strong></p>
-<h1 id="底层优化-坑"><a class="anchor" href="#底层优化-坑">#</a> 底层优化 (坑)</h1>
+<p><strong>注意某些比赛不能使用  <code>-O1</code> ,  <code>-O2</code> ,  <code>-O3</code> ,  <code>-Os</code> .</strong></p>
+<h1 id="底层优化坑"><a class="anchor" href="#底层优化坑">#</a> 底层优化（坑）</h1>
 <h2 id="io-优化"><a class="anchor" href="#io-优化">#</a> I/O 优化</h2>
 <p>I/O 优化是卡常中最常用的技巧，当数据较大的时候，读入输出占用了很多时间。</p>
 <h3 id="读入优化"><a class="anchor" href="#读入优化">#</a> 读入优化</h3>
-<p>流输入方式很方便，不需要记忆占位符，但每次读入时，它都要检测是否和  <code>stdin</code>  的同步（是否被  <code>freopen</code>  改变 / 是否被  <code>scanf</code>  读取），因此它是可以和  <code>scanf</code>  混用的。但也导致了它每次都要从数据开始位置跳转到当前读入的位置，浪费了大量时间，可以用  <code>std::ios::sync_with_stdio(false)</code>  关闭两者的同步以加快速度，这样做之后会比  <code>scanf</code>  还快！但必须注意，调用后不能再用  <code>freopen</code> ，但是还可以用  <code>fstream</code> 。</p>
+<p>流输入方式很方便，不需要记忆占位符，但每次读入时，它都要检测是否和  <code>stdin</code>  的同步（是否被  <code>freopen</code>  改变 / 是否被  <code>scanf</code>  读取），因此它是可以和  <code>scanf</code>  混用的。但也导致了它每次都要从数据开始位置跳转到当前读入的位置，浪费了大量时间，可以用  <code>std::ios::sync_with_stdio(false);</code>  关闭两者的同步以加快速度，这样做之后会比  <code>scanf</code>  还快！但必须注意，调用后不能再用  <code>freopen</code> ，但是还可以用  <code>fstream</code> 。</p>
 <p>当然，更好的方法是用  <code>getchar</code>  自己写读入函数。</p>
 <figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">void</span> <span class="token function">read</span><span class="token punctuation">(</span><span class="token keyword">int</span> <span class="token operator">&amp;</span>sum<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token keyword">char</span> ch <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    <span class="token keyword">int</span> tf <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    sum <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">&lt;</span> <span class="token string">'0'</span> <span class="token operator">||</span> ch <span class="token operator">></span> <span class="token string">'9'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">!=</span> <span class="token string">'-'</span><span class="token punctuation">)</span><span class="token punctuation">)</span> ch <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>    tf <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">==</span> <span class="token string">'-'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>ch <span class="token operator">>=</span> <span class="token string">'0'</span> <span class="token operator">&amp;&amp;</span> ch <span class="token operator">&lt;=</span> <span class="token string">'9'</span><span class="token punctuation">)</span> sum <span class="token operator">=</span> sum <span class="token operator">*</span> <span class="token number">10</span> <span class="token operator">+</span> <span class="token punctuation">(</span>ch <span class="token operator">-</span> <span class="token number">48</span><span class="token punctuation">)</span><span class="token punctuation">,</span> ch <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token punctuation">(</span>tf<span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>sum <span class="token operator">=</span> <span class="token operator">-</span>sum<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><div class="note primary">
 <p>编者注：</p>
 <p>补充一份我自己使用的快读：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">int</span> <span class="token function">read</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>  <span class="token keyword">int</span> x <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> f <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>  <span class="token keyword">while</span> <span class="token punctuation">(</span>c <span class="token operator">&lt;</span> <span class="token string">'0'</span> <span class="token operator">||</span> c <span class="token operator">></span> <span class="token string">'9'</span><span class="token punctuation">)</span> f <span class="token operator">|=</span> c <span class="token operator">==</span> <span class="token string">'-'</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>  <span class="token keyword">while</span> <span class="token punctuation">(</span>c <span class="token operator">>=</span> <span class="token string">'0'</span> <span class="token operator">&amp;&amp;</span> c <span class="token operator">&lt;=</span> <span class="token string">'9'</span><span class="token punctuation">)</span> x <span class="token operator">=</span> x <span class="token operator">*</span> <span class="token number">10</span> <span class="token operator">+</span> c <span class="token operator">-</span> <span class="token string">'0'</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>  <span class="token keyword">return</span> f <span class="token operator">?</span> <span class="token operator">-</span>x <span class="token operator">:</span> x<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>优势：不会因为代码格式化而展开。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">int</span> <span class="token function">read</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>  <span class="token keyword">int</span> x <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">,</span> f <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>  <span class="token keyword">while</span> <span class="token punctuation">(</span>c <span class="token operator">&lt;</span> <span class="token string">'0'</span> <span class="token operator">||</span> c <span class="token operator">></span> <span class="token string">'9'</span><span class="token punctuation">)</span> f <span class="token operator">|=</span> c <span class="token operator">==</span> <span class="token string">'-'</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>  <span class="token keyword">while</span> <span class="token punctuation">(</span>c <span class="token operator">>=</span> <span class="token string">'0'</span> <span class="token operator">&amp;&amp;</span> c <span class="token operator">&lt;=</span> <span class="token string">'9'</span><span class="token punctuation">)</span> x <span class="token operator">=</span> x <span class="token operator">*</span> <span class="token number">10</span> <span class="token operator">+</span> c <span class="token operator">-</span> <span class="token string">'0'</span><span class="token punctuation">,</span> c <span class="token operator">=</span> <span class="token function">getchar</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>  <span class="token keyword">return</span> f <span class="token operator">?</span> <span class="token operator">-</span>x <span class="token operator">:</span> x<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>优势：更短，且不会因为代码格式化而展开。</p>
 </div>
 <p>这样效率有了很大的提升，而且可以和  <code>scanf</code>  混用（字符串等），第 7 行和第 10 行的代码后面会说。</p>
-<p>我们知道， <code>getchar</code>  是逐字符读取的，在  <code>stdio.h</code>  中，有一个  <code>fread</code>  函数，能整段读取，比  <code>getchar</code>  还快，并且支持  <code>freopen</code>  (完美兼容) 和  <code>fopen</code>  (需要把下面的所有  <code>stdin</code>  改成你的文件指针)</p>
+<p>我们知道， <code>getchar</code>  是逐字符读取的，在  <code>stdio.h</code>  中，有一个  <code>fread</code>  函数，能整段读取，比  <code>getchar</code>  还快，并且支持  <code>freopen</code> （完美兼容）和  <code>fopen</code> （需要把下面的所有  <code>stdin</code>  改成你的文件指针）。</p>
 <p>函数原型： <code>size_t fread(void *buffer, size_t size, size_t count, FILE *stream);</code></p>
 <p>作用：从  <code>stream</code>  中读取  <code>count</code>  个大小为  <code>size</code>  个字节的数据，放到数组  <code>buffer</code>  中，返回成功了多少个大小为 size 个字节的数据。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">char</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token keyword">static</span> <span class="token keyword">char</span> buf<span class="token punctuation">[</span><span class="token number">1000000</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token operator">*</span>p1 <span class="token operator">=</span> buf<span class="token punctuation">,</span> <span class="token operator">*</span>p2 <span class="token operator">=</span> buf<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    <span class="token keyword">return</span> p1 <span class="token operator">==</span> p2 <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>p2 <span class="token operator">=</span> <span class="token punctuation">(</span>p1 <span class="token operator">=</span> buf<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token function">fread</span><span class="token punctuation">(</span>buf<span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1000000</span><span class="token punctuation">,</span> <span class="token constant">stdin</span><span class="token punctuation">)</span><span class="token punctuation">,</span> p1 <span class="token operator">==</span> p2<span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token constant">EOF</span> <span class="token operator">:</span> <span class="token operator">*</span>p1<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token comment">//#define nc getchar</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">void</span> <span class="token function">read</span><span class="token punctuation">(</span><span class="token keyword">int</span> <span class="token operator">&amp;</span>sum<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">char</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token keyword">int</span> tf <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    sum <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">&lt;</span> <span class="token string">'0'</span> <span class="token operator">||</span> ch <span class="token operator">></span> <span class="token string">'9'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">!=</span> <span class="token string">'-'</span><span class="token punctuation">)</span><span class="token punctuation">)</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="11"></td><td><pre>    tf <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">==</span> <span class="token string">'-'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>ch <span class="token operator">>=</span> <span class="token string">'0'</span> <span class="token operator">&amp;&amp;</span> ch <span class="token operator">&lt;=</span> <span class="token string">'9'</span><span class="token punctuation">)</span> sum <span class="token operator">=</span> sum <span class="token operator">*</span> <span class="token number">10</span> <span class="token operator">+</span> <span class="token punctuation">(</span>ch <span class="token operator">-</span> <span class="token number">48</span><span class="token punctuation">)</span><span class="token punctuation">,</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    <span class="token punctuation">(</span>tf<span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>sum <span class="token operator">=</span> <span class="token operator">-</span>sum<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>但要注意，由于这种方法是整段读取的，这也造就了它两个巨大的 Bug：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">char</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token keyword">static</span> <span class="token keyword">char</span> buf<span class="token punctuation">[</span><span class="token number">1000000</span><span class="token punctuation">]</span><span class="token punctuation">,</span> <span class="token operator">*</span>p1 <span class="token operator">=</span> buf<span class="token punctuation">,</span> <span class="token operator">*</span>p2 <span class="token operator">=</span> buf<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    <span class="token keyword">return</span> p1 <span class="token operator">==</span> p2 <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>p2 <span class="token operator">=</span> <span class="token punctuation">(</span>p1 <span class="token operator">=</span> buf<span class="token punctuation">)</span> <span class="token operator">+</span> <span class="token function">fread</span><span class="token punctuation">(</span>buf<span class="token punctuation">,</span> <span class="token number">1</span><span class="token punctuation">,</span> <span class="token number">1000000</span><span class="token punctuation">,</span> <span class="token constant">stdin</span><span class="token punctuation">)</span><span class="token punctuation">,</span> p1 <span class="token operator">==</span> p2<span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token constant">EOF</span> <span class="token operator">:</span> <span class="token operator">*</span>p1<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token comment">//#define nc getchar</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token keyword">inline</span> <span class="token keyword">void</span> <span class="token function">read</span><span class="token punctuation">(</span><span class="token keyword">int</span> <span class="token operator">&amp;</span>sum<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">char</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token keyword">int</span> tf <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    sum <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">&lt;</span> <span class="token string">'0'</span> <span class="token operator">||</span> ch <span class="token operator">></span> <span class="token string">'9'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">!=</span> <span class="token string">'-'</span><span class="token punctuation">)</span><span class="token punctuation">)</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="11"></td><td><pre>    tf <span class="token operator">=</span> <span class="token punctuation">(</span><span class="token punctuation">(</span>ch <span class="token operator">==</span> <span class="token string">'-'</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>ch <span class="token operator">>=</span> <span class="token string">'0'</span> <span class="token operator">&amp;&amp;</span> ch <span class="token operator">&lt;=</span> <span class="token string">'9'</span><span class="token punctuation">)</span> sum <span class="token operator">=</span> sum <span class="token operator">*</span> <span class="token number">10</span> <span class="token operator">+</span> <span class="token punctuation">(</span>ch <span class="token operator">-</span> <span class="token number">48</span><span class="token punctuation">)</span><span class="token punctuation">,</span> ch <span class="token operator">=</span> <span class="token function">nc</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    <span class="token punctuation">(</span>tf<span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>sum <span class="token operator">=</span> <span class="token operator">-</span>sum<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>但要注意，由于这种方法是整段读取的，这也造就了它两个巨大的缺陷：</p>
 <ol>
 <li><strong>不能用键盘输入。数据还没输入，程序怎么整段读取。如果你需要在电脑上用键盘输入调试，请把第 6 行的注释取消。</strong></li>
-<li><strong>不能和  <code>scanf</code> ， <code>getchar</code>  等其他读入方法混合使用。因为 fread 是整段读取的，也就是说所有数据都被读取了，其他函数根本读取不到任何东西 (只能从你的读取大小后面开始读)，因此，所有类型的变量读入都必须自己写，上面的  <code>read</code>  函数只支持  <code>int</code>  类型。</strong></li>
+<li><strong>不能和  <code>scanf</code> ， <code>getchar</code>  等其他读入方法混合使用。因为 fread 是整段读取的，也就是说所有数据都被读取了，其他函数根本读取不到任何东西（只能从你的读取大小后面开始读），因此，所有类型的变量读入都必须自己写，上面的  <code>read</code>  函数只支持  <code>int</code>  类型。</strong></li>
 </ol>
 <p>下面是测试，摘自 LibreOJ，单位为毫秒（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>=</mo><mn>3</mn><mo>×</mo><mn>1</mn><msup><mn>0</mn><mn>6</mn></msup></mrow><annotation encoding="application/x-tex">n=3 \times 10^6</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.72777em;vertical-align:-0.08333em;"></span><span class="mord">3</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span><span class="mbin">×</span><span class="mspace" style="margin-right:0.2222222222222222em;"></span></span><span class="base"><span class="strut" style="height:0.8141079999999999em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord"><span class="mord">0</span><span class="msupsub"><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span class="pstrut" style="height:2.7em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight">6</span></span></span></span></span></span></span></span></span></span></span>）。</p>
 <table>
@@ -1507,7 +1524,7 @@ vmap &lt;C-A&gt; ggVG
 <tbody>
 <tr>
 <td><code>fread</code></td>
-<td>G++ 5.4.0 (−O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>13</td>
 <td>13</td>
 <td>39</td>
@@ -1516,7 +1533,7 @@ vmap &lt;C-A&gt; ggVG
 </tr>
 <tr>
 <td><code>getchar</code></td>
-<td>G++ 5.4.0 (−O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>58</td>
 <td>73</td>
 <td>137</td>
@@ -1525,7 +1542,7 @@ vmap &lt;C-A&gt; ggVG
 </tr>
 <tr>
 <td><code>cin</code>  （关闭同步）</td>
-<td>G++ 5.4.0 (−O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>161</td>
 <td>147</td>
 <td>205</td>
@@ -1534,7 +1551,7 @@ vmap &lt;C-A&gt; ggVG
 </tr>
 <tr>
 <td><code>scanf</code></td>
-<td>G++ 5.4.0 (−O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>182</td>
 <td>175</td>
 <td>256</td>
@@ -1543,7 +1560,7 @@ vmap &lt;C-A&gt; ggVG
 </tr>
 <tr>
 <td><code>cin</code></td>
-<td>G++ 5.4.0 (−O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>442</td>
 <td>429</td>
 <td>706</td>
@@ -1623,7 +1640,7 @@ vmap &lt;C-A&gt; ggVG
 <pre><code class="language-assembly">sall    $2, %eax
 </code></pre>
 <p>上面的代码等价于  <code>x&lt;&lt;=2</code> 。现在死心了吧。</p>
-<p>或许你还执着于  <code>x*=10</code> 。这次翻译后的汇编代码终于不一样了，下面是  <code>x*=10</code>  的汇编代码（O2 优化）：</p>
+<p>或许你还执着于  <code>x*=10</code> 。这次翻译后的汇编代码终于不一样了，下面是  <code>x*=10</code>  的汇编代码（ <code>-O2</code>  优化）：</p>
 <pre><code class="language-assembly">leal    (%eax,%eax,4), %eax
 addl    %eax, %eax
 </code></pre>
@@ -1649,7 +1666,7 @@ addl    %eax, %eax
 <p>但这种情况仅限于有符号的整数，因为有符号的整数的右移和除法不是同一个东西，编译器还需要修正一下。<br />
 如果用的是  <code>unsigned</code>  类型，那汇编代码又一样了。</p>
 <h3 id="mod-和-and-的战争"><a class="anchor" href="#mod-和-and-的战争">#</a> Mod 和 And 的战争</h3>
-<p>下面是  <code>x%2</code>  的代码（-O2）：</p>
+<p>下面是  <code>x%2</code>  的代码（ <code>-O2</code> ）：</p>
 <pre><code class="language-assembly">  movl    _x, %eax
   movl    $LC0, (%esp)
   movl    %eax, %edx   ;(del)
@@ -1660,7 +1677,7 @@ addl    %eax, %eax
   movl    %eax, 4(%esp)
   movl    %eax, _x
 </code></pre>
-<p>那  <code>x&amp;1</code>  呢？少了 4 条语句（-O2）：</p>
+<p>那  <code>x&amp;1</code>  呢？少了 4 条语句（ <code>-O2</code> ）：</p>
 <pre><code class="language-assembly">  movl    _x, %eax
   movl    $LC0, (%esp)
   andl    $1, %eax
@@ -1702,29 +1719,9 @@ addl    %eax, %eax
 <p>相信条件语句会在程序中经常出现，而且也是不可避免的，谁知道，这么死板的事情还可以再优化。</p>
 <h3 id="if-和-的故事"><a class="anchor" href="#if-和-的故事">#</a>  <code>if</code>  和  <code>?:</code>  的故事</h3>
 <div class="note warning">
-<p>编者注：<strong>此内容存在争议。</strong></p>
+<p>编者注：<strong>原文内容存在错误，已删除。</strong></p>
 </div>
-<p>在那个夜黑风高的白天……</p>
-<p><code>if</code>  遇到了  <code>?:</code> ，然后两人吵了很久很久，然而并分不出上下，没错， <code>?:</code>  运算符并不一定比  <code>if</code>  更快。为什么？它们的汇编长得一模一样，除了了唯一的不同：文件名（汇编第一行会带有文件名）（不论开没开 O2）。</p>
-<pre><code>正在比较文件 if.s 和 3.s
-FC: 找不到差异
-</code></pre>
-<p>那网上的 “ <code>?:</code>  运算符比  <code>if</code>  快” 是个什么鬼？</p>
-<p>是它们没写清楚，是 “ <code>?:</code>  运算符比  <code>if-else</code>  快”。</p>
-<p>有什么区别吗？你需要先弄清楚 if 的工作原理。</p>
-<p><code>if</code>  就像一个铁路分叉道口，在 CPU 底层这种通讯及其不好的地方，在火车开近之前，鬼知道火车要往哪边开，那怎么办？</p>
-<p>猜！</p>
-<ul>
-<li>如果猜对了，它直接通过，继续前行。</li>
-<li>如果猜错了，车头将停止，倒回去，你将铁轨扳至反方向，火车重新启动，驶过道口。</li>
-</ul>
-<p>如果是第一种情况，那很好办，那第二种呢？时间就这么浪过去了，假如你非常不走运，那你的程序就会卡在停止 - 回滚 - 热启动的过程中。</p>
-<p>上面猜的过程就是<strong>分支预测</strong>。</p>
-<p>虽然是猜，但编译器也不是随便乱猜，那怎么猜呢？答案是分析之前的运行记录。假设之前很多次都是  <code>true</code> ，那这次就猜  <code>true</code> ，如果最近连续很多次都是  <code>false</code> ，那这次就猜  <code>false</code> 。</p>
-<p>但这一切都要看你的 CPU 是不是某 CPU 了，如果你遇到了一个神经 CPU，那岂不是很 GG？因此，一般把容易成立的条件写在前面判断，把不容易成立的条件放在  <code>else</code>  那里。</p>
-<p><span class="label warning">争议</span> 但是  <code>?:</code>  消除了分支预测，因此在布尔表达式的结果近似随机的时候  <code>?:</code>  更快，否则就是  <code>if</code>  更快啦。</p>
-<div class="note warning">
-<p>编者注：</p>
+<blockquote>
 <p><strong>if-else 与  <code>?:</code>  运算符本质上相同，大多数情况下所产生的汇编代码完全相同。</strong></p>
 <blockquote>
 <p>对于下面的两段代码：</p>
@@ -1735,7 +1732,7 @@ FC: 找不到差异
 <p><strong> <code>?:</code>  运算符并不会消除分支预测。</strong></p>
 <p>分支预测的原理，是在 if 括号内部的判断语句未执行完成时，<strong>在另一线程中</strong>预测一条分支执行接下来的语句。当判断语句执行完毕时，若执行结果与预测相同，则继续执行该分支语句；若执行结果与预测不同，则重新执行另一分支语句。<strong>分支预测可以充分发挥 CPU 的多线程性能</strong>，避免多余的等待。</p>
 <p>分支预测的效率取决于 CPU 的设计。<strong>在大部分情况下，分支预测能加快运算速度</strong>，除非分支预测的准确度极低。毕竟 CPU 的设计者也不是傻子。</p>
-</div>
+</blockquote>
 <hr />
 <p>下面的内容某些 OI 比赛不支持。<strong>慎用</strong>！</p>
 <p>gcc 存在内置函数： <code>__builtin_expect(!!(x), tf)</code></p>
@@ -1743,9 +1740,9 @@ FC: 找不到差异
 <p>用法： <code>if(__builtin_expect(!!(x), tf))</code></p>
 <blockquote>
 <p>编者附：</p>
-<p>而  <code>GCC</code>  提供了一个内建函数  <code>__builtin_expect</code> ，通过分支预测提高效率，将接下来运行的可能性较大的代码放在靠前的位置，减少指令跳转，这样保证了空间局部性，可以减少 cache miss。但经过测试后发现， <code>__builtin_expect</code>  仅在开启 O2 优化下有效。</p>
+<p>而  <code>GCC</code>  提供了一个内建函数  <code>__builtin_expect</code> ，通过分支预测提高效率，将接下来运行的可能性较大的代码放在靠前的位置，减少指令跳转，这样保证了空间局部性，可以减少 cache miss。但经过测试后发现， <code>__builtin_expect</code>  仅在开启  <code>-O2</code>  优化下有效。</p>
 <p>例如下面的代码：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdlib></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    <span class="token function">srand</span> <span class="token punctuation">(</span><span class="token number">2333</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token keyword">int</span> cnt1 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> cnt2 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">1000000000</span><span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>        <span class="token keyword">int</span> t <span class="token operator">=</span> <span class="token function">rand</span> <span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>            <span class="token operator">++</span>cnt1<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="11"></td><td><pre>        <span class="token keyword">else</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>            <span class="token operator">++</span>cnt2<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>    <span class="token function">printf</span> <span class="token punctuation">(</span><span class="token string">"%d %d\n"</span><span class="token punctuation">,</span> cnt1<span class="token punctuation">,</span> cnt2<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="17"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="18"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdlib></span></span></pre></td></tr><tr><td data-num="19"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span> <span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>    <span class="token function">srand</span> <span class="token punctuation">(</span><span class="token number">2333</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>    <span class="token keyword">int</span> cnt1 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> cnt2 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre>    <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">1000000000</span><span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>        <span class="token keyword">int</span> t <span class="token operator">=</span> <span class="token function">rand</span> <span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token function">__builtin_expect</span> <span class="token punctuation">(</span>t <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="25"></td><td><pre>            <span class="token operator">++</span>cnt1<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="26"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="27"></td><td><pre>        <span class="token keyword">else</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="28"></td><td><pre>            <span class="token operator">++</span>cnt2<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="29"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="30"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="31"></td><td><pre>    <span class="token function">printf</span> <span class="token punctuation">(</span><span class="token string">"%d %d\n"</span><span class="token punctuation">,</span> cnt1<span class="token punctuation">,</span> cnt2<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="32"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>使用  <code>__builtin_expect (t &lt; 10, false)</code>  后，编译器把  <code>else</code>  后的语句放到了紧跟着前面的语句的位置，而当  <code>t &lt; 10</code>  为  <code>true</code>  时才进行跳转。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdlib></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>       <span class="token function">srand</span><span class="token punctuation">(</span><span class="token number">2333</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>       <span class="token keyword">int</span> cnt1 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> cnt2 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>       <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">1000000000</span><span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>           <span class="token keyword">int</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>           <span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="9"></td><td><pre>               <span class="token operator">++</span>cnt1<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>           <span class="token keyword">else</span></pre></td></tr><tr><td data-num="11"></td><td><pre>               <span class="token operator">++</span>cnt2<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>       <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>       <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d %d\n"</span><span class="token punctuation">,</span> cnt1<span class="token punctuation">,</span> cnt2<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>   <span class="token punctuation">&#125;</span></pre></td></tr></table></figure><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span> <span class="token string">&lt;cstdlib></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    <span class="token function">srand</span><span class="token punctuation">(</span><span class="token number">2333</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token keyword">int</span> cnt1 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">,</span> cnt2 <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>       <span class="token keyword">for</span> <span class="token punctuation">(</span><span class="token keyword">int</span> i <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span> i <span class="token operator">&lt;</span> <span class="token number">1000000000</span><span class="token punctuation">;</span> <span class="token operator">++</span>i<span class="token punctuation">)</span> <span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>           <span class="token keyword">int</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre>           <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token function">__builtin_expect</span><span class="token punctuation">(</span>t <span class="token operator">&lt;</span> <span class="token number">10</span><span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">)</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="9"></td><td><pre>               <span class="token operator">++</span>cnt1<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre>           <span class="token keyword">else</span></pre></td></tr><tr><td data-num="11"></td><td><pre>               <span class="token operator">++</span>cnt2<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>       <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>       <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d %d\n"</span><span class="token punctuation">,</span> cnt1<span class="token punctuation">,</span> cnt2<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>   <span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>使用  <code>__builtin_expect (t &lt; 10, false)</code>  后，编译器把  <code>else</code>  后的语句放到了紧跟着前面的语句的位置，而当  <code>t &lt; 10</code>  为  <code>true</code>  时才进行跳转。</p>
 <p><strong>摘自：<span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvemhhb2ppbnhpL29wdGltaXpl">浅谈底层常数优化及编译器优化 - zhaojinxi 的博客 - 洛谷博客</span></strong></p>
 </blockquote>
 <hr />
@@ -1769,8 +1766,8 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </code></pre>
 <p>为什么？详情参见下一小节。</p>
 <p>如果短路运算符只能改写  <code>if</code>  语句，那这里就不会浪费这么多篇幅来介绍这个东西。事实上，这个东西比我们想象得有用得多。看下面两段代码：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">double</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">/</span> RAND_MAX <span class="token operator">&lt;</span> <span class="token number">0.2</span> <span class="token operator">&amp;&amp;</span> t <span class="token operator">!=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> t<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">double</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">!=</span> <span class="token number">0</span> <span class="token operator">&amp;&amp;</span> t <span class="token operator">/</span> RAND_MAX <span class="token operator">&lt;</span> <span class="token number">0.2</span><span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> t<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>你认为那一份代码会更快？</p>
-<p>好像没什么区别对吧。但对于  <code>CPU</code>  来说很有区别。第一段代码中的  <code>t / RAND_MAX &lt; 0.2</code>  为  <code>true </code>  的概率约为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>20</mn><mi mathvariant="normal">%</mi></mrow><annotation encoding="application/x-tex">20\%</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.80556em;vertical-align:-0.05556em;"></span><span class="mord">2</span><span class="mord">0</span><span class="mord">%</span></span></span></span>，但  <code>t!=0</code>  为 <code> true</code>  的概率约为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><mi>R</mi><mi>A</mi><mi>N</mi><mi>D</mi><mi mathvariant="normal">_</mi><mi>M</mi><mi>A</mi><mi>X</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{RAND\_MAX}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.407108em;vertical-align:-0.5619999999999999em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.00773em;">R</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mtight" style="margin-right:0.02778em;">_</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">M</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5619999999999999em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>，明显小于 20%。<br />
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">double</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">/</span> RAND_MAX <span class="token operator">&lt;</span> <span class="token number">0.2</span> <span class="token operator">&amp;&amp;</span> t <span class="token operator">!=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> t<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">double</span> t <span class="token operator">=</span> <span class="token function">rand</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>t <span class="token operator">!=</span> <span class="token number">0</span> <span class="token operator">&amp;&amp;</span> t <span class="token operator">/</span> RAND_MAX <span class="token operator">&lt;</span> <span class="token number">0.2</span><span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d"</span><span class="token punctuation">,</span> t<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>你认为哪一份代码会更快？</p>
+<p>好像没什么区别对吧。但对于 CPU 来说很有区别。第一段代码中的  <code>t / RAND_MAX &lt; 0.2</code>  为  <code>true </code>  的概率约为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>20</mn><mi mathvariant="normal">%</mi></mrow><annotation encoding="application/x-tex">20\%</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.80556em;vertical-align:-0.05556em;"></span><span class="mord">2</span><span class="mord">0</span><span class="mord">%</span></span></span></span>，但  <code>t!=0</code>  为 <code> true</code>  的概率约为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mn>1</mn><mrow><mi>R</mi><mi>A</mi><mi>N</mi><mi>D</mi><mi mathvariant="normal">_</mi><mi>M</mi><mi>A</mi><mi>X</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{1}{RAND\_MAX}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.407108em;vertical-align:-0.5619999999999999em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.00773em;">R</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mtight" style="margin-right:0.02778em;">_</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">M</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">1</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5619999999999999em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>，明显小于 20%。<br />
 因此，如果把计算一个不含逻辑运算符布尔表达式的计算次数设为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 次，设计算了 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi></mrow><annotation encoding="application/x-tex">X</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span></span></span></span> 次，则对于第一段代码，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi></mrow><annotation encoding="application/x-tex">X</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span></span></span></span> 的数学期望为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>65</mn></mrow><annotation encoding="application/x-tex">65</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">6</span><span class="mord">5</span></span></span></span>，但对于第二段代码，<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>X</mi></mrow><annotation encoding="application/x-tex">X</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.68333em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.07847em;">X</span></span></span></span> 的数学期望为 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mfrac><mrow><mn>2</mn><mo>×</mo><mo stretchy="false">(</mo><mi>R</mi><mi>A</mi><mi>N</mi><mi>D</mi><mi mathvariant="normal">_</mi><mi>M</mi><mi>A</mi><mi>X</mi><mo>−</mo><mn>1</mn><mo stretchy="false">)</mo></mrow><mrow><mi>R</mi><mi>A</mi><mi>N</mi><mi>D</mi><mi mathvariant="normal">_</mi><mi>M</mi><mi>A</mi><mi>X</mi></mrow></mfrac></mrow><annotation encoding="application/x-tex">\frac{2\times (RAND\_MAX-1)}{RAND\_MAX}</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:1.6139999999999999em;vertical-align:-0.5619999999999999em;"></span><span class="mord"><span class="mopen nulldelimiter"></span><span class="mfrac"><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:1.0519999999999998em;"><span style="top:-2.6550000000000002em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mathnormal mtight" style="margin-right:0.00773em;">R</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mtight" style="margin-right:0.02778em;">_</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">M</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span></span></span></span><span style="top:-3.23em;"><span class="pstrut" style="height:3em;"></span><span class="frac-line" style="border-bottom-width:0.04em;"></span></span><span style="top:-3.527em;"><span class="pstrut" style="height:3em;"></span><span class="sizing reset-size6 size3 mtight"><span class="mord mtight"><span class="mord mtight">2</span><span class="mbin mtight">×</span><span class="mopen mtight">(</span><span class="mord mathnormal mtight" style="margin-right:0.00773em;">R</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">N</span><span class="mord mathnormal mtight" style="margin-right:0.02778em;">D</span><span class="mord mtight" style="margin-right:0.02778em;">_</span><span class="mord mathnormal mtight" style="margin-right:0.10903em;">M</span><span class="mord mathnormal mtight">A</span><span class="mord mathnormal mtight" style="margin-right:0.07847em;">X</span><span class="mbin mtight">−</span><span class="mord mtight">1</span><span class="mclose mtight">)</span></span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.5619999999999999em;"><span></span></span></span></span></span><span class="mclose nulldelimiter"></span></span></span></span></span>，远远大于第一段代码。</p>
 <p>总结一下，</p>
 <ul>
@@ -1786,9 +1783,9 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 <figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">int</span> x<span class="token operator">=</span><span class="token punctuation">(</span><span class="token number">1</span><span class="token punctuation">,</span><span class="token number">5</span><span class="token punctuation">,</span><span class="token number">4</span><span class="token punctuation">,</span><span class="token number">2</span><span class="token punctuation">,</span><span class="token number">6</span><span class="token punctuation">,</span><span class="token number">3</span><span class="token punctuation">,</span><span class="token number">9</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>猜一猜，上面的语句执行完后  <code>x​</code>  的值是多少？</p>
 <p>答案是 9。没错，逗号运算符的返回值就是最后一个的值。</p>
 <p>现在可以解释上一小节留下总结了吧。</p>
-<p><code>A&amp;&amp;(B,1)||C</code> ：当  <code>A</code>  为  <code>true</code>  时会执行  <code>(B,1)</code> ，返回值为  <code>true</code> ，因此  <code>A&amp;&amp;(B,1)</code>  的返回值为  <code>true</code> ，因此不会执行  <code>C</code> ，当  <code>A</code>  为  <code>false</code>  时，不会执行  <code>(B,1)</code> ，且  <code>A&amp;&amp;(B,1)</code>  的值为  <code>false</code> ，因此会执行  <code>C</code></p>
+<p><code>A&amp;&amp;(B,1)||C</code> ：当  <code>A</code>  为  <code>true</code>  时会执行  <code>(B,1)</code> ，返回值为  <code>true</code> ，因此  <code>A&amp;&amp;(B,1)</code>  的返回值为  <code>true</code> ，因此不会执行  <code>C</code> ，当  <code>A</code>  为  <code>false</code>  时，不会执行  <code>(B,1)</code> ，且  <code>A&amp;&amp;(B,1)</code>  的值为  <code>false</code> ，因此会执行  <code>C</code> 。</p>
 <h2 id="standard-template-library"><a class="anchor" href="#standard-template-library">#</a> Standard Template Library</h2>
-<p>如果能熟练使用 STL，则可以大大减小代码复杂度，提高对于部分人的可读性（前提是那个人也会 STL）。但在很多 OI 比赛中，STL 会成为性能瓶颈（不仅仅是常数瓶颈），而且要明白：对于 STL 来说，O2 的开与否带来的不仅仅是几毫秒的差，而是一种蜕变！</p>
+<p>如果能熟练使用 STL，则可以大大减小代码复杂度，提高对于部分人的可读性（前提是那个人也会 STL）。但在很多 OI 比赛中，STL 会成为性能瓶颈（不仅仅是常数瓶颈），而且要明白：对于 STL 来说， <code>-O2</code>  的开与否带来的不仅仅是几毫秒的差，而是一种蜕变！</p>
 <h3 id="容器"><a class="anchor" href="#容器">#</a> 容器</h3>
 <h4 id="完全连续容器"><a class="anchor" href="#完全连续容器">#</a> 完全连续容器</h4>
 <p>在 STL 中，唯一的真正意义上的完全连续容器应该只有  <code>vector</code>  和  <code>bitset</code>  了，其中， <code>vector</code>  中的所有元素都是连续的，但它是怎么做到的？在某些编译器中，它实现内存分配的方法是当前的容量不足时，申请一块当前容量 2 倍的新内存空间，然后将所有的老元素全部拷贝到新内存中，添加大量元素的时候的花费的惊人的大。和  <code>allocator</code>  的时间复杂度一样。</p>
@@ -1799,7 +1796,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 <p>但由于其是完全连续容器，因此在查找的时候效率和普通数组没有太大区别。</p>
 <p>邻接表有两种实用的方法，一种是前向星（有人也叫向前星，这里以百度百科为准），另一种就是用  <code>vector</code> 。</p>
 <p>尽管  <code>vector</code>  修改大小的时候会很浪费时间，但要知道， <code>vector</code>  可是一个完全连续容器，相比前向星好了不知道多少（从一个数组里跳来跳去）。</p>
-<p>在某些需要频繁访问边（例如网络流和最短路)，遇到很稠密的图的时候， <code>vector</code>  完全连续的作用就被发挥到了最大，而动态开辟空间的消耗也已被降到了最低最低，尤其是在开了 O2 优化的时候。</p>
+<p>在某些需要频繁访问边（例如网络流和最短路），遇到很稠密的图的时候， <code>vector</code>  完全连续的作用就被发挥到了最大，而动态开辟空间的消耗也已被降到了最低最低，尤其是在开了  <code>-O2</code>  优化的时候。</p>
 <p>下面分别是  <code>vector</code>  和前向星跑网络流（ISap）的用时。（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi><mo>=</mo><mn>50</mn><mi>n</mi></mrow><annotation encoding="application/x-tex">m=50n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">5</span><span class="mord">0</span><span class="mord mathnormal">n</span></span></span></span>）</p>
 <table>
 <thead>
@@ -1821,7 +1818,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td><code>vector</code></td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>365ms</td>
 <td>794ms</td>
 <td>3855ms</td>
@@ -1835,18 +1832,17 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td>前向星</td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>477ms</td>
 <td>1017ms</td>
 <td>5109ms</td>
 </tr>
 </tbody>
 </table>
-<p>十分明显地，开了 O2 优化的  <code>vector</code>  跑得飞快，而随着数据大小的上升，vector 的速度也越来越快。</p>
+<p>十分明显地，开了  <code>-O2</code>  优化的  <code>vector</code>  跑得飞快，而随着数据大小的上升，vector 的速度也越来越快。</p>
 <p><code>bitset</code>  的大小是在编译时就被固定了，因此不会出现和  <code>vector</code>  一样浪费时间的情况。它的最大作用是节约空间。那里节约空间了？要知道，C++ 的任何类型都至少占用一个字节，包括  <code>bool</code> 。因此， <code>bool</code>  会浪费七个字节的空间。但其实  <code>bitset</code>  也是可以自己实现的。</p>
-<p><span class="label warning">争议</span> 由于操作系统限制了 CPU 的能力（如果 CPU 是 64 位的，但是操作系统是 32 位的，那 CPU 就只能发挥出 32 位的能力)，因此，如果你还让 CPU 处理 8 位的  <code>char</code> ，毫无疑问，肯定会更慢，因此，在 32 位系统下，尽量用  <code>int</code> ，在 64 位系统下，尽量用  <code>long long</code> 。</p>
 <div class="note warning">
-<p>编者注：<strong>该内容存在争议</strong>。</p>
+<p>编者注：<strong>原文内容存在争议，已删除。<strong>通常情况下，</strong> <code>int</code>  运算速度比  <code>long long</code>  快不少</strong>。</p>
 </div>
 <h4 id="部分连续容器"><a class="anchor" href="#部分连续容器">#</a> 部分连续容器</h4>
 <p>如果你认为  <code>queue</code> （一种容器适配器）和  <code>deque</code>  应该在上一章出现，那你就错了。事实上，它们并不是完全连续容器。它们内部的实现有点诡谲。为什么这样说呢？因为它们在内存中是部分连续的，也就是说，当内存不够的时候，它们就会再申请一段，然后再连接过去，因此在内存中，它们是不完全连续的，是多个内存块组成的，每个块中存放的元素连续内存，而内存块又像链表一样连接起来。</p>
@@ -1869,7 +1865,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td>arr:  <code>queue</code></td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>15 ms</td>
 </tr>
 <tr>
@@ -1879,7 +1875,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td>stl:  <code>queue</code></td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>31ms</td>
 </tr>
 </tbody>
@@ -1900,7 +1896,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td>arr:  <code>deque</code></td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>4 ms</td>
 </tr>
 <tr>
@@ -1910,7 +1906,7 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 </tr>
 <tr>
 <td>stl:  <code>deque</code></td>
-<td>G++ 5.4.0 (-O2)</td>
+<td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>58 ms</td>
 </tr>
 </tbody>
@@ -1927,9 +1923,11 @@ if(A) B; else C; ⇔ A&amp;&amp;(B,1)||C
 <p>但当需要自己实现部分（不包括一些特别的功能，例如求排名）平衡树的功能时，用  <code>set</code>  和  <code>map</code>  一般会比手写更优。</p>
 <p>如果遇到了不能用  <code>set</code>  和  <code>map</code>  的情况，并不推荐用 Splay，因为它的常数太大了，这里推荐一种极好的 BST: <span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3L2FydGljbGUvZGV0YWlscy84MzM3ODE2Ng==">替罪羊树 (Scapegoat Tree)</span>，它的思想非常简单：当且仅当某棵子树的不平衡度超过 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi></mrow><annotation encoding="application/x-tex">\alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> 时，暴力重构整棵子树，从而避免了旋转的操作。</p>
 <hr />
+<div class="note info">
 <p>本文转载自：<span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3L2FydGljbGUvZGV0YWlscy84MzA4MzA1MQ==">https://blog.csdn.net/qq_40155097/article/details/83083051</span></p>
 <p>原作者：<span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3">Victor Miller</span></p>
-<hr />
+<p>版权声明：本文为 <span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3">Victor Miller</span> 原创文章，遵循 <span class="exturl" data-url="aHR0cDovL2NyZWF0aXZlY29tbW9ucy5vcmcvbGljZW5zZXMvYnktc2EvNC4wLw==">CC 4.0 BY-SA</span> 版权协议，转载请附上原文出处链接和本声明。</p>
+</div>
 <p>推荐阅读：</p>
 <p><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvZW5jb3JlL2lvLXlvdS1odWEtbmVpLXN1by1zaGk=">浅谈 C++ IO 优化 —— 读优输优方法集锦 - encore 的博客 - 洛谷博客</span></p>
 <p><span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvemhhb2ppbnhpL29wdGltaXpl">浅谈底层常数优化及编译器优化 - zhaojinxi 的博客 - 洛谷博客</span></p>
