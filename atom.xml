@@ -14,6 +14,7 @@
         <title>随便聊聊</title>
         <link rel="alternate" href="https://fidel.js.org/2021/02/15/talk-about-something/"/>
         <content type="html">&lt;p&gt;分享之前在 B 站看到的一条评论。&lt;/p&gt;
+&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。&lt;/p&gt;
@@ -39,6 +40,7 @@
 &lt;li&gt;删除或修改了存在争议或错误的内容。&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
+&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h1 id=&#34;免责声明&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#免责声明&#34;&gt;#&lt;/a&gt; 免责声明&lt;/h1&gt;
 &lt;blockquote&gt;
