@@ -8,7 +8,30 @@
     <author>
       <name>玄云Fidel</name>
     </author>
-    <updated>2021-02-14T16:00:00.000Z</updated>
+    <updated>2021-03-12T16:00:00.000Z</updated>
+    <entry>
+        <id>https://fidel.js.org/2021/03/13/send-your-name-to-mars/</id>
+        <title>Send Your Name to Mars</title>
+        <link rel="alternate" href="https://fidel.js.org/2021/03/13/send-your-name-to-mars/"/>
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;「当你一抬头，就能看到你的名字在另一个星球」&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;a id=&#34;more&#34;&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg&#34; alt=&#34;Mars 2020 Rover&#34; /&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;NASA&#39;s &amp;quot;Send Your Name to Mars&amp;quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.&lt;/p&gt;
+&lt;p&gt;摘自：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYXJzLm5hc2EuZ292L25ld3MvODg3Mi9uZWFybHktMTEtbWlsbGlvbi1uYW1lcy1vZi1lYXJ0aGxpbmdzLWFyZS1vbi1tYXJzLXBlcnNldmVyYW5jZS8=&#34;&gt;Nearly 11 Million Names of Earthlings are on Mars Perseverance (mars.nasa.gov)&lt;/span&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/03/13/XpzNH7WRm4xcdBD.jpg&#34; alt=&#34;图片摘自：&#39;Send Your Name&#39; Placard Attached to Perseverance (mars.nasa.gov)&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;这是 NASA「Send Your Name to Mars」计划的网页：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1l&#34;&gt;https://mars.nasa.gov/participate/send-your-name&lt;/span&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt;现在，NASA 启动了「Future Mars Mission」项目，参与者的名字将在 2026 年登陆火星。&lt;/p&gt;
+&lt;p&gt;参与链接：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1lL2Z1dHVyZQ==&#34;&gt;https://mars.nasa.gov/participate/send-your-name/future&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/03/13/JH3kZ5VMNSAP9RY.jpg&#34; alt=&#34;Future Mars Mission&#34; /&gt;&lt;/p&gt;
+</content>
+        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
+        <updated>2021-03-12T16:00:00.000Z</updated>
+    </entry>
     <entry>
         <id>https://fidel.js.org/2021/02/15/talk-about-something/</id>
         <title>随便聊聊</title>
@@ -30,7 +53,10 @@
         <id>https://fidel.js.org/2021/02/14/cpp-optimization/</id>
         <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
         <link rel="alternate" href="https://fidel.js.org/2021/02/14/cpp-optimization/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
+        <content type="html">&lt;blockquote&gt;
+&lt;p&gt;编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;转载修改内容：&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;修复了原文滥用 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mtext&gt;LaTeX&lt;/mtext&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\LaTeX&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.89883em;vertical-align:-0.2155em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;L&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.36em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.68333em;&#34;&gt;&lt;span style=&#34;top:-2.904999em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:2.7em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm mtight sizing reset-size6 size3&#34;&gt;A&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.15em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord text&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;T&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.1667em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;vlist-t vlist-t2&#34;&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.46782999999999997em;&#34;&gt;&lt;span style=&#34;top:-2.7845em;&#34;&gt;&lt;span class=&#34;pstrut&#34; style=&#34;height:3em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;&lt;span class=&#34;mord textrm&#34;&gt;E&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-s&#34;&gt;​&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;vlist-r&#34;&gt;&lt;span class=&#34;vlist&#34; style=&#34;height:0.2155em;&#34;&gt;&lt;span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:-0.125em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord textrm&#34;&gt;X&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 问题。&lt;/li&gt;
@@ -193,7 +219,7 @@ ENDDO
 &lt;h2 id=&#34;推荐选项开关&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#推荐选项开关&#34;&gt;#&lt;/a&gt; 推荐选项开关&lt;/h2&gt;
 &lt;p&gt;综上，比较&lt;strong&gt;安全&lt;/strong&gt;的&lt;strong&gt;开关&lt;/strong&gt;为&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;-pipe
-`-O3`(`-Os`)
+-O3 (-Os)
 -march=native
 -mfpmath=sse
 -msse2
@@ -205,7 +231,7 @@ ENDDO
 &lt;p&gt;如果不需要多高的精度，比如 GUI 框架之类，加入：&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;-ffast-math
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;如果是编译的是共享库（.dll, .a）加入&lt;/p&gt;
+&lt;p&gt;如果是编译的是共享库（ &lt;code&gt;.dll&lt;/code&gt; ,  &lt;code&gt;.a&lt;/code&gt; ）加入&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt;-fvisibility=hidden
 -fvisibility-inlines-hidden
 &lt;/code&gt;&lt;/pre&gt;

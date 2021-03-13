@@ -557,6 +557,29 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
+    <title>Send Your Name to Mars</title>
+    <url>/2021/03/13/send-your-name-to-mars/</url>
+    <content><![CDATA[<blockquote>
+<p>「当你一抬头，就能看到你的名字在另一个星球」</p>
+</blockquote>
+<p><a id="more"></a></p>
+<p><img data-src="https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg" alt="Mars 2020 Rover" /></p>
+<blockquote>
+<p>NASA's &quot;Send Your Name to Mars&quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.</p>
+<p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L25ld3MvODg3Mi9uZWFybHktMTEtbWlsbGlvbi1uYW1lcy1vZi1lYXJ0aGxpbmdzLWFyZS1vbi1tYXJzLXBlcnNldmVyYW5jZS8=">Nearly 11 Million Names of Earthlings are on Mars Perseverance (mars.nasa.gov)</span></p>
+</blockquote>
+<p><img data-src="https://i.loli.net/2021/03/13/XpzNH7WRm4xcdBD.jpg" alt="图片摘自：'Send Your Name' Placard Attached to Perseverance (mars.nasa.gov)" /></p>
+<p>这是 NASA「Send Your Name to Mars」计划的网页：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1l">https://mars.nasa.gov/participate/send-your-name</span></p>
+<hr />
+<p>现在，NASA 启动了「Future Mars Mission」项目，参与者的名字将在 2026 年登陆火星。</p>
+<p>参与链接：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1lL2Z1dHVyZQ==">https://mars.nasa.gov/participate/send-your-name/future</span></p>
+<p><img data-src="https://i.loli.net/2021/03/13/JH3kZ5VMNSAP9RY.jpg" alt="Future Mars Mission" /></p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>About Fidel&#39;s Lab</title>
     <url>/2020/04/05/new-about/</url>
     <content><![CDATA[<div class="note info">
@@ -1310,7 +1333,10 @@ vmap &lt;C-A&gt; ggVG
   <entry>
     <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
     <url>/2021/02/14/cpp-optimization/</url>
-    <content><![CDATA[<div class="note info">
+    <content><![CDATA[<blockquote>
+<p>编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。</p>
+</blockquote>
+<div class="note info">
 <p>转载修改内容：</p>
 <ol>
 <li>修复了原文滥用 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span> 问题。</li>
@@ -1473,7 +1499,7 @@ ENDDO
 <h2 id="推荐选项开关"><a class="anchor" href="#推荐选项开关">#</a> 推荐选项开关</h2>
 <p>综上，比较<strong>安全</strong>的<strong>开关</strong>为</p>
 <pre><code>-pipe
-`-O3`(`-Os`)
+-O3 (-Os)
 -march=native
 -mfpmath=sse
 -msse2
@@ -1485,7 +1511,7 @@ ENDDO
 <p>如果不需要多高的精度，比如 GUI 框架之类，加入：</p>
 <pre><code>-ffast-math
 </code></pre>
-<p>如果是编译的是共享库（.dll, .a）加入</p>
+<p>如果是编译的是共享库（ <code>.dll</code> ,  <code>.a</code> ）加入</p>
 <pre><code>-fvisibility=hidden
 -fvisibility-inlines-hidden
 </code></pre>
