@@ -56,8 +56,8 @@
             <guid isPermalink="true">https://fidel.js.org/2021/02/14/cpp-optimization/</guid>
             <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
             <link>https://fidel.js.org/2021/02/14/cpp-optimization/</link>
-            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <pubDate>Sun, 14 Feb 2021 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。&lt;/p&gt;
@@ -691,8 +691,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
             <guid isPermalink="true">https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/</guid>
             <title>CSP-S 2020 游记 &amp; NOIP 2020 爆零记</title>
             <link>https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/</link>
-            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <pubDate>Sun, 15 Nov 2020 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;&lt;s&gt;不会真有人现在才写游记吧（&lt;/s&gt;&lt;/p&gt;
@@ -1399,8 +1399,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
             <guid isPermalink="true">https://fidel.js.org/2020/04/05/new-about/</guid>
             <title>About Fidel&#39;s Lab</title>
             <link>https://fidel.js.org/2020/04/05/new-about/</link>
-            <category term="公告" scheme="https://fidel.js.org/tags/%E5%85%AC%E5%91%8A/" />
             <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
+            <category term="公告" scheme="https://fidel.js.org/tags/%E5%85%AC%E5%91%8A/" />
             <pubDate>Sun, 05 Apr 2020 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;此 About 页面及 Fidel&#39;s Lab 为目前的第三个版本。你可以&lt;a href=&#34;https://fidel.js.org/update-log&#34;&gt;在这里查看详细的更新日志&lt;/a&gt;。&lt;/p&gt;
@@ -1500,8 +1500,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
             <guid isPermalink="true">https://fidel.js.org/2019/12/27/CSPJ-tour/</guid>
             <title>CSP-J 2019 游记 &amp; 指引</title>
             <link>https://fidel.js.org/2019/12/27/CSPJ-tour/</link>
-            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+            <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <pubDate>Fri, 27 Dec 2019 00:00:00 +0800</pubDate>
             <description><![CDATA[ &lt;p&gt;下面那篇 NOIP 比赛笔记其实是给我自己看的……&lt;/p&gt;
 &lt;p&gt;所以大家请看这篇：)&lt;/p&gt;

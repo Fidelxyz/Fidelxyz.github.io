@@ -680,8 +680,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvZW5jb3JlL2lvLXlvdS1odWEtbmVpLXN1by1zaGk=&#34;&gt;浅谈 C++ IO 优化 —— 读优输优方法集锦 - encore 的博客 - 洛谷博客&lt;/span&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL2Jsb2cvemhhb2ppbnhpL29wdGltaXpl&#34;&gt;浅谈底层常数优化及编译器优化 - zhaojinxi 的博客 - 洛谷博客&lt;/span&gt;&lt;/p&gt;
 </content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <updated>2021-02-13T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -833,8 +833,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
 &lt;hr /&gt;
 &lt;p&gt;2020 CSP-S 游记 &amp;amp; NOIP 2020 爆零记，完。&lt;/p&gt;
 </content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <updated>2020-11-14T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -1431,8 +1431,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
 &lt;p&gt;Fidel&#39;s Lab 曾经采用的 Hexo 主题为基于 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2hleG9qcy9oZXhvLXRoZW1lLWxhbmRzY2FwZQ==&#34;&gt;landspace&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3N0b25lMDA5MC9sYW5kc2NhcGUtcGx1cw==&#34;&gt;landscape-plus&lt;/span&gt; 的魔改版。&lt;/p&gt;
 &lt;/div&gt;
 </content>
-        <category term="公告" scheme="https://fidel.js.org/tags/%E5%85%AC%E5%91%8A/" />
         <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
+        <category term="公告" scheme="https://fidel.js.org/tags/%E5%85%AC%E5%91%8A/" />
         <updated>2020-04-04T16:00:00.000Z</updated>
     </entry>
     <entry>
@@ -1596,8 +1596,8 @@ if(A) B; else C; ⇔ A&amp;amp;&amp;amp;(B,1)||C
 &lt;li&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3Uub3JnL2Jsb2cvdHdpL3poaS1jc3AtbWVuZy14aW4tZm91LWt1YWktc2hpLXlvbmctbm9pLWxpbnV4LWRpLXJlbi1xdW4=&#34;&gt;致 CSP 萌新 / 不会使用 NOI LINUX 的人群&lt;/span&gt;&lt;/li&gt;
 &lt;/ol&gt;
 </content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
+        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
         <updated>2019-12-26T16:00:00.000Z</updated>
     </entry>
     <entry>
