@@ -1453,7 +1453,8 @@ vmap &lt;C-A&gt; ggVG
 <p>「运行环境」：选择 「预置环境 - <strong>Node.js</strong>」。</p>
 </li>
 <li>
-<p>「代码来源」：选择 <strong>「空」</strong>。（<span class="label info">注意</span> Cloud Studio 自带的仓库同步不稳定。如果需要同步远程仓库代码，建议进入工作空间后使用 Git 手动配置。）</p>
+<p>「代码来源」：选择 <strong>「空」</strong>。</p>
+<p><span class="label info">注意</span> Cloud Studio 自带的仓库同步不稳定。如果需要同步远程仓库代码，建议进入工作空间后使用 Git 手动配置。</p>
 </li>
 </ul>
 <h2 id="源代码迁移"><a class="anchor" href="#源代码迁移">#</a> 源代码迁移</h2>

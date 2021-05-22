@@ -192,7 +192,8 @@
 &lt;p&gt;「运行环境」：选择 「预置环境 - &lt;strong&gt;Node.js&lt;/strong&gt;」。&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;「代码来源」：选择 &lt;strong&gt;「空」&lt;/strong&gt;。（&lt;span class=&#34;label info&#34;&gt;注意&lt;/span&gt; Cloud Studio 自带的仓库同步不稳定。如果需要同步远程仓库代码，建议进入工作空间后使用 Git 手动配置。）&lt;/p&gt;
+&lt;p&gt;「代码来源」：选择 &lt;strong&gt;「空」&lt;/strong&gt;。&lt;/p&gt;
+&lt;p&gt;&lt;span class=&#34;label info&#34;&gt;注意&lt;/span&gt; Cloud Studio 自带的仓库同步不稳定。如果需要同步远程仓库代码，建议进入工作空间后使用 Git 手动配置。&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;h2 id=&#34;源代码迁移&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#源代码迁移&#34;&gt;#&lt;/a&gt; 源代码迁移&lt;/h2&gt;
