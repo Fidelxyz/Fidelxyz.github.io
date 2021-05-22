@@ -1491,9 +1491,7 @@ vmap &lt;C-A&gt; ggVG
 <p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3ZpbnRhL3Bhbmd1Lmpz">https://github.com/vinta/pangu.js</span></p>
 </blockquote>
 <hr />
-<blockquote>
-<p>至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下<strong>多行引用块</strong>就知道了。</p>
-</blockquote>
+<p><em>至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下<strong>多行引用块</strong>就知道了。</em></p>
 <h1 id="coding-on-ipad"><a class="anchor" href="#coding-on-ipad">#</a> Coding on iPad?</h1>
 <p>抱着「你的下一台电脑何必是电脑」的想法，我尝试着在 iPad 上使用 Cloud Studio 写代码。毕竟，只要带一台 iPad 而不用背着<s>重如砖块的</s>电脑到处跑可太香了。</p>
 <p>测试平台：iPad 8 (iPadOS 14.5)，Microsoft Edge 浏览器。</p>
@@ -1514,6 +1512,15 @@ vmap &lt;C-A&gt; ggVG
 <p>输入  <code>df -h</code>  查看硬盘分区信息。</p>
 <p><img data-src="https://i.loli.net/2021/05/22/Wmb21nsUux6vFDk.jpg" alt="" /></p>
 <p>唔……</p>
+<h1 id="references"><a class="anchor" href="#references">#</a> References</h1>
+<ol>
+<li>
+<p><span class="exturl" data-url="aHR0cHM6Ly9jbG91ZHN0dWRpby5uZXQvZG9jcw==">Cloud Studio 文档</span></p>
+</li>
+<li>
+<p><span class="exturl" data-url="aHR0cHM6Ly93d3cucnVub29iLmNvbS9saW51eC9saW51eC1jb21tYW5kLW1hbnVhbC5odG1s">Linux 命令大全</span></p>
+</li>
+</ol>
 ]]></content>
       <tags>
         <tag>杂记</tag>
