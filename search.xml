@@ -1367,7 +1367,7 @@ vmap &lt;C-A&gt; ggVG
 </li>
 </ul>
 </div></details>
-<h3 id="设置-setting"><a class="anchor" href="#设置-setting">#</a> 设置 (Setting)</h3>
+<h3 id="设置-settinga"><a class="anchor" href="#设置-settinga">#</a> 设置 (Settinga)</h3>
 <p>在 VS Code 界面左上角选择 <strong>「文件 - 打开文件夹…」</strong>，可以设置左侧资源管理器的根目录。</p>
 <p>按下快捷键 <strong> <code>Ctrl</code>  +  <code>,</code> </strong> 或在左上角选择 <strong>「文件 - 首选项 - 设置」</strong> 进入<strong>设置界面</strong>。</p>
 <blockquote>
