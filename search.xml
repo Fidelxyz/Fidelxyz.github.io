@@ -7,7 +7,7 @@
 <p>关于 ROM 免费获取服务，请参见文末。</p>
 </div>
 <p>之前在知乎上看到一个提问<a href="https://www.zhihu.com/question/36413593"><strong>【使用全套谷歌服务是种什么样的体验？- 知乎】</strong></a>，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（<span class="exturl" data-url="aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==">【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】</span>，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。</p>
-<a id="more"></a>
+<span id="more"></span>
 <blockquote>
 <p>三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）</p>
 </blockquote>
@@ -68,7 +68,7 @@
     <url>/2018/08/13/hello-hexo/</url>
     <content><![CDATA[<p>Rain City 又搬家啦！</p>
 <p>正巧，Rain City <a href="https://fidel.js.org/2018/04/30/hello-raincity/">在 Github Pages 上正式建成</a>的 5 个月后，Rain City 转移到了 <span class="exturl" data-url="aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==">Coding Pages</span> 上。目前仅完成了全部文章和部分 Hexo 主题的转移，后续将会继续完善。</p>
-<a id="more"></a>
+<span id="more"></span>
 <h1 id="为啥-rain-city-搬家了"><a class="anchor" href="#为啥-rain-city-搬家了">#</a> 为啥 Rain City 搬家了？</h1>
 <p>最最主要的原因，就是 Github Pages 在国内的稳定性实在不敢恭维，写篇文章都要科学上网（见 Rain City 建成时写的文章：<a href="https://fidel.js.org/2018/04/30/hello-raincity/#%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA">Hello, Rain City!</a>）。于是就换到了由 <span class="exturl" data-url="aHR0cDovL0NvZGluZy5uZXQ=">Coding.net</span> 提供的 <span class="exturl" data-url="aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==">Coding Pages</span> 服务。由于 Coding 的业务主要面向国内，所以对国内的访问会友好不少，虽然主机还是在香港（国内要备案，Coding 也玩不起）。</p>
 <p><img data-src="https://s1.ax1x.com/2018/08/13/PgQqfJ.png" alt="Coding Pages 的 Ping 检测结果" /></p>
@@ -122,7 +122,7 @@
     <url>/2019/04/19/i-am-back/</url>
     <content><![CDATA[<p>总之怎么说，我又回来了。</p>
 <p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<a id="more"></a>
+<span id="more"></span>
 <hr />
 <p>先列出 Rain City 改动了的地方：</p>
 <ul>
@@ -169,7 +169,7 @@
     <url>/2019/11/15/noip-note/</url>
     <content><![CDATA[<p>一点小笔记</p>
 <p>祝大家 RP++</p>
-<a id="more"></a>
+<span id="more"></span>
 <h1 id="0x01-环境配置"><a class="anchor" href="#0x01-环境配置">#</a> 0x01 环境配置</h1>
 <h2 id="dev-c"><a class="anchor" href="#dev-c">#</a> Dev C++</h2>
 <h3 id="自动保存"><a class="anchor" href="#自动保存">#</a> 自动保存</h3>
@@ -330,7 +330,7 @@ vmap &lt;C-A&gt; ggVG
 <p>彻底失去对 Luogu Blog 排版的信心。果然还是自己亲手搭的 Hexo 好用。</p>
 <p>啧啧啧，我的 Hexo 排版真的好看。&lt;_&lt;</p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 <h1 id="比赛前干啥"><a class="anchor" href="#比赛前干啥">#</a> 比赛前干啥</h1>
 <p>睡觉。</p>
 <p>CSP-J 在下午，如果有时间，你还可以睡个中午觉。</p>
@@ -430,6 +430,23 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
+    <title>随便聊聊</title>
+    <url>/2021/02/15/talk-about-something/</url>
+    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
+<span id="more"></span>
+<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
+<blockquote>
+<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
+<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
+</blockquote>
+<p>很喜欢这句话。</p>
+<p>当你看这个世界时，也在发现自己。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>非 正 常 代 码</title>
     <url>/2020/01/16/unusual-code/</url>
     <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
@@ -439,7 +456,7 @@ vmap &lt;C-A&gt; ggVG
 <p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 个人（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>≤</mo><mn>100</mn></mrow><annotation encoding="application/x-tex">n \leq 100</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span>）围成一圈，从第一个人开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人出列，再由下一个人重新从 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。</p>
 </blockquote>
 <p>要求用链表做，但我也可以搞点事情嘛～</p>
-<a id="more"></a>
+<span id="more"></span>
 <p>十分钟后敲出一份 AC 代码：</p>
 <figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstring></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    <span class="token function">memset</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token keyword">sizeof</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre></pre></td></tr><tr><td data-num="11"></td><td><pre>    count <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    i <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>        i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>        i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="17"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="18"></td><td><pre>            jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>            <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>            a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre>            count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>            jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="25"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="26"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p><strong>不断地循环，用一个 <code>bool</code>  数组标记出列。</strong></p>
 <p>AC 是 AC 了，但是…… 中规中矩，<s>不符合我们搞事情的风格呀</s></p>
@@ -488,29 +505,12 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>随便聊聊</title>
-    <url>/2021/02/15/talk-about-something/</url>
-    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
-<a id="more"></a>
-<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
-<blockquote>
-<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
-<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
-</blockquote>
-<p>很喜欢这句话。</p>
-<p>当你看这个世界时，也在发现自己。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Send Your Name to Mars</title>
     <url>/2021/03/13/send-your-name-to-mars/</url>
     <content><![CDATA[<blockquote>
 <p>「当你一抬头，就能看到你的名字在另一个星球」</p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 <p><img data-src="https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg" alt="Mars 2020 Rover" /></p>
 <blockquote>
 <p>NASA's &quot;Send Your Name to Mars&quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.</p>
@@ -536,7 +536,7 @@ vmap &lt;C-A&gt; ggVG
 <p>Hi，我是 Fidel。</p>
 <p>这里是我的博客，Fidel's Lab。</p>
 <p>和这个博客的名字一样，这里是我分享一些实验性内容的地方。</p>
-<a id="more"></a>
+<span id="more"></span>
 <p>熟悉我的人应该知道，我是一名<s>业余</s>视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。</p>
 <p>这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。</p>
 <p>正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。</p>
@@ -574,7 +574,7 @@ vmap &lt;C-A&gt; ggVG
     <title>水一张渲染图</title>
     <url>/2020/04/10/vdrias-world/</url>
     <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
-<a id="more"></a>
+<span id="more"></span>
 <p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
 <p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
 ]]></content>
@@ -586,7 +586,7 @@ vmap &lt;C-A&gt; ggVG
     <title>短视频流行的时代，我们为什么仍需推动长内容的发展？</title>
     <url>/2020/04/11/why-we-need-long-content/</url>
     <content><![CDATA[<p>今天是周六，我想起观察者网上王骁 Albert 要更新视频了，于是我打开 B 站进入观察者网的频道，映入眼帘的却是十几条几十秒不到的短视频；我下载人民日报的 App，只是为了关注报社的专题报道，然而一眼望去尽是各路花里胡哨的「自媒体」文章。</p>
-<a id="more"></a>
+<span id="more"></span>
 <p>以上现象不仅局限于网络新闻媒体，而在网络内容平台普遍存在。用专业的话概括，这称为内容「垂直化」缺失。其根本原因，是网络信息的碎片性与传统资料的结构性之间的矛盾。</p>
 <p>我们先来了解一下网络媒介的信息推广机制：每个内容拥有对应的推荐权重，数值越大，平台会向越多用户推广该内容。推荐权重主要由两个指标决定：「浏览量」与「浏览完成度」。娱乐化内容在浏览量上有较大优势，碎片化内容在播放完成度上有较大优势。碎片化与娱乐化的优势结合，便有了如今短视频的爆火。而严谨、深入的传统长内容则与之恰好相反，导致了我们所说的「硬核内容没人看」的现象。由此持续下去，真正有深刻意义的长内容媒体将难以存活。因此，网络媒体需要通过短内容为长内容吸引流量，维持正常营收。</p>
 <p>而制作短内容的门槛相对于长内容更低，「人人皆可发声」的同时必然导致内容整体质量下降，长内容则被大量的短内容所淹没。在传统的纸媒上发布一篇报道需要经过报社层层审核取证，甚至编辑亲自执笔修改，而任何人只需要注册一个账号并实名认证，就可以成为「自媒体」在网媒上发表文章；传统纸媒上的一篇报道需要严格遵循新闻报道规范，结构完整、分析深入，而以娱乐化短视频为主要内容的网络频道便可称为「新闻媒体」。</p>
@@ -604,7 +604,7 @@ vmap &lt;C-A&gt; ggVG
     <content><![CDATA[<blockquote>
 <p><s>不会真有人现在才写游记吧（</s></p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 <h1 id="csp-s1"><a class="anchor" href="#csp-s1">#</a> CSP-S1</h1>
 <p><s>没啥好说的，莫名其妙就 72.5 分了。</s></p>
 <p>居然用高考答题卡考 CSP，<s>不愧是 €€£</s>。</p>
@@ -759,7 +759,7 @@ vmap &lt;C-A&gt; ggVG
 <p>由于原帖及目前网络上的转载贴排版普遍都很难看，因此在此转载并重新排版。</p>
 <p>夹带私货：<span class="exturl" data-url="aHR0cDovL3d3dy5kb2Npbi5jb20vcC01MDA4MTExMDAuaHRtbA==">宝 藏</span></p>
 </blockquote>
-<a id="more"></a>
+<span id="more"></span>
 <div class="note primary">
 <p>2020-12-30 更新：所有数学公式已使用 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mtext>LaTeX</mtext></mrow><annotation encoding="application/x-tex">\LaTeX</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.89883em;vertical-align:-0.2155em;"></span><span class="mord text"><span class="mord textrm">L</span><span class="mspace" style="margin-right:-0.36em;"></span><span class="vlist-t"><span class="vlist-r"><span class="vlist" style="height:0.68333em;"><span style="top:-2.904999em;"><span class="pstrut" style="height:2.7em;"></span><span class="mord"><span class="mord textrm mtight sizing reset-size6 size3">A</span></span></span></span></span></span><span class="mspace" style="margin-right:-0.15em;"></span><span class="mord text"><span class="mord textrm">T</span><span class="mspace" style="margin-right:-0.1667em;"></span><span class="vlist-t vlist-t2"><span class="vlist-r"><span class="vlist" style="height:0.46782999999999997em;"><span style="top:-2.7845em;"><span class="pstrut" style="height:3em;"></span><span class="mord"><span class="mord textrm">E</span></span></span></span><span class="vlist-s">​</span></span><span class="vlist-r"><span class="vlist" style="height:0.2155em;"><span></span></span></span></span><span class="mspace" style="margin-right:-0.125em;"></span><span class="mord textrm">X</span></span></span></span></span></span> 重写，全文已根据排版标准进行优化。</p>
 </div>
@@ -1281,7 +1281,7 @@ vmap &lt;C-A&gt; ggVG
     <title>「机房利器」、Coding on iPad? —— 记一次使用 Cloud Studio 云端开发的尝试</title>
     <url>/2021/05/22/cloudstudio/</url>
     <content><![CDATA[<p>曾经，Fidel's Lab 的部署平台在 Github Pages 和 Coding Pages 之间反复横跳。这篇文章所介绍的「Cloud Studio」（原「腾讯云开发者平台」）就是由 Coding 提供的在线 IDE。Cloud Studio <strong>基于 VS Code</strong>，只需要一个<s>现代的</s>浏览器和<s>正常的</s>网络连接即可在线使用。</p>
-<a id="more"></a>
+<span id="more"></span>
 <p>早在一年半前，我就对 Coding 当时的「腾讯云开发者平台」有所关注（当时好像不叫这个）。只不过由于极其有限的免费使用额度、需要购买云服务器才能获得良好的体验等门槛，最终并没有采用。经过一年多的升级迭代，现在的 Cloud Studio <a href="https://cloudstudio.net/docs/others/#%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4%E6%9C%89%E4%BD%95%E9%99%90%E5%88%B6%EF%BC%9F">「每个用户<strong>每日</strong>可以（免费）使用工作空间共<strong>四小时</strong>」</a>，足以承担<strong>轻度</strong>的开发任务。</p>
 <p>经过一段时间的体验，个人认为 Coding Studio 的最佳使用场景之一是 <strong>OIer 们在校内机房短时间上机练习</strong>，由于<strong>只需配置一次环境即可快速启动</strong>，堪称 <strong>「机房利器」</strong>。</p>
 <p>这篇文章主要记录我使用 Cloud Studio 进行 OI 练习和编辑维护 Hexo 博客、以及尝试使用移动端（iPad）进行开发的过程。此文章全程在 Cloud Studio 上编辑。</p>
@@ -1400,11 +1400,14 @@ vmap &lt;C-A&gt; ggVG
 <h4 id="code-runner"><a class="anchor" href="#code-runner">#</a> Code Runner</h4>
 <p>代码快捷运行工具，适用多种代码语言。</p>
 <p>进入设置界面或  <code>settings.json</code> ，修改  <code>code-runner.executorMap</code>  项，将编译程序从 gcc /g++ 改为 clang /clang++。</p>
-<figure class="highlight diff"><figcaption data-lang="diff"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "c": "cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="2"></td><td><pre></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "c": "cd $dir &amp;&amp; clang $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="3"></td><td><pre></span></span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "cpp": "cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="5"></td><td><pre></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "cpp": "cd $dir &amp;&amp; clang++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</span></span></pre></td></tr></table></figure><h2 id="compile-and-run"><a class="anchor" href="#compile-and-run">#</a> Compile and Run!</h2>
+<figure class="highlight diff"><figcaption data-lang="diff"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "c": "cd $dir &amp;&amp; gcc $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="2"></td><td><pre></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "c": "cd $dir &amp;&amp; clang $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="3"></td><td><pre></span></span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token deleted-sign deleted"><span class="token prefix deleted">-</span><span class="token line"> "cpp": "cd $dir &amp;&amp; g++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</pre></td></tr><tr><td data-num="5"></td><td><pre></span></span><span class="token inserted-sign inserted"><span class="token prefix inserted">+</span><span class="token line"> "cpp": "cd $dir &amp;&amp; clang++ $fileName -o $fileNameWithoutExt &amp;&amp; $dir$fileNameWithoutExt",</span></span></pre></td></tr></table></figure><p><span class="label info">注意</span> 默认通过 Code Runner 运行的代码无法直接从 VS Code 接收键盘输入，所以需要使用<strong>文件读入</strong>。如果需要从键盘输入，可在设置中启用  <code>code-runner.runInTerminal</code> ，代码将在 Terminal 中运行。（感谢 <span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3VzZXIvMTc1NTg2">@Zxc200611</span> 提醒）</p>
+<blockquote>
+<p>个人建议还是使用文件读写，一是方便 Debug，二是为日后竞赛养成良好习惯。</p>
+</blockquote>
+<h2 id="compile-and-run"><a class="anchor" href="#compile-and-run">#</a> Compile and Run!</h2>
 <p>编写好 C++ 程序后，在编辑器右上角点击 <strong>「运行」图标</strong>或按下快捷键 <strong> <code>Ctrl</code>  +  <code>Alt</code>  +  <code>N</code> </strong> 编译并运行代码。</p>
 <p><img data-src="https://i.loli.net/2021/05/22/jZvyHLpYz6xATKm.jpg" alt="" /></p>
 <p>按下快捷键 <strong> <code>Ctrl</code>  +  <code>Alt</code>  +  <code>M</code> </strong> 强制停止运行中的代码。</p>
-<p><span class="label info">注意</span> 通过 Code Runner 运行的代码无法直接从 VS Code 接收键盘输入，所以需要使用<strong>文件读入</strong>，也为日后竞赛养成良好习惯。</p>
 <h2 id="debug"><a class="anchor" href="#debug">#</a> Debug</h2>
 <p>在 VS Code 左侧工具栏选择第三项 <strong>「Run」图标</strong>进入调试菜单。</p>
 <p>点击 <strong>「运行和调试 (Run and Debug)」</strong>，选择 <strong>「C++ (GDB/LLDB)」</strong>-<strong>「clang++」</strong>，并保存  <code>launch.json</code> 。</p>
@@ -1491,7 +1494,9 @@ vmap &lt;C-A&gt; ggVG
 <p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3ZpbnRhL3Bhbmd1Lmpz">https://github.com/vinta/pangu.js</span></p>
 </blockquote>
 <hr />
-<p><em>至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下<strong>多行引用块</strong>就知道了。</em></p>
+<blockquote>
+<p>至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下<strong>多行引用块</strong>就知道了。</p>
+</blockquote>
 <h1 id="coding-on-ipad"><a class="anchor" href="#coding-on-ipad">#</a> Coding on iPad?</h1>
 <p>抱着「你的下一台电脑何必是电脑」的想法，我尝试着在 iPad 上使用 Cloud Studio 写代码。毕竟，只要带一台 iPad 而不用背着<s>重如砖块的</s>电脑到处跑可太香了。</p>
 <p>测试平台：iPad 8 (iPadOS 14.5)，Microsoft Edge 浏览器。</p>
@@ -1543,7 +1548,7 @@ vmap &lt;C-A&gt; ggVG
 <li>删除或修改了存在争议或错误的内容。</li>
 </ol>
 </div>
- <a id="more"></a>
+ <span id="more"></span>
 <hr />
 <h1 id="免责声明"><a class="anchor" href="#免责声明">#</a> 免责声明</h1>
 <blockquote>
