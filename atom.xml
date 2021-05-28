@@ -100,7 +100,7 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;&lt;/details&gt;
-&lt;h3 id=&#34;设置-settinga&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置-settinga&#34;&gt;#&lt;/a&gt; 设置 (Settinga)&lt;/h3&gt;
+&lt;h3 id=&#34;设置-settings&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#设置-settings&#34;&gt;#&lt;/a&gt; 设置 (Settings)&lt;/h3&gt;
 &lt;p&gt;在 VS Code 界面左上角选择 &lt;strong&gt;「文件 - 打开文件夹…」&lt;/strong&gt;，可以设置左侧资源管理器的根目录。&lt;/p&gt;
 &lt;p&gt;按下快捷键 &lt;strong&gt; &lt;code&gt;Ctrl&lt;/code&gt;  +  &lt;code&gt;,&lt;/code&gt; &lt;/strong&gt; 或在左上角选择 &lt;strong&gt;「文件 - 首选项 - 设置」&lt;/strong&gt; 进入&lt;strong&gt;设置界面&lt;/strong&gt;。&lt;/p&gt;
 &lt;blockquote&gt;
