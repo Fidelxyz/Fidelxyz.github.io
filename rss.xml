@@ -232,6 +232,8 @@
 &lt;p&gt;汉学家称这个空白字元为「盘古之白」，因为它劈开了全角符和半角符之间的混沌。另有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。&lt;/p&gt;
 &lt;p&gt;摘自：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3ZpbnRhL3Bhbmd1Lmpz&#34;&gt;https://github.com/vinta/pangu.js&lt;/span&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
+&lt;h3 id=&#34;markdown-table-format&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#markdown-table-format&#34;&gt;#&lt;/a&gt; MarkDown Table Format&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;Shift&lt;/code&gt;  +  &lt;code&gt;Alt&lt;/code&gt;  +  &lt;code&gt;F&lt;/code&gt;  对&lt;strong&gt;表格&lt;/strong&gt;进行格式化。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;blockquote&gt;
 &lt;p&gt;至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下&lt;strong&gt;多行引用块&lt;/strong&gt;就知道了。&lt;/p&gt;
@@ -885,18 +887,6 @@ addl    %eax, %eax
 &lt;td&gt;G++ 5.4.0 ( &lt;code&gt;-O2&lt;/code&gt; )&lt;/td&gt;
 &lt;td&gt;31ms&lt;/td&gt;
 &lt;/tr&gt;
-&lt;/tbody&gt;
-&lt;tbody&gt;
-&lt;tr&gt;
-&lt;td&gt;实现方法&lt;/td&gt;
-&lt;td&gt;编译器&lt;/td&gt;
-&lt;td&gt;时间&lt;/td&gt;
-&lt;/tr&gt;
-&lt;tr&gt;
-&lt;td&gt;------------&lt;/td&gt;
-&lt;td&gt;----------------&lt;/td&gt;
-&lt;td&gt;------&lt;/td&gt;
-&lt;/tr&gt;
 &lt;tr&gt;
 &lt;td&gt;arr:  &lt;code&gt;deque&lt;/code&gt;&lt;/td&gt;
 &lt;td&gt;G++ 5.4.0&lt;/td&gt;
@@ -925,8 +915,7 @@ addl    %eax, %eax
 &lt;h4 id=&#34;节点容器&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#节点容器&#34;&gt;#&lt;/a&gt; 节点容器&lt;/h4&gt;
 &lt;p&gt;节点容器就比较多了。常见的  &lt;code&gt;map&lt;/code&gt; ， &lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;list&lt;/code&gt;  都属于它的范畴。&lt;/p&gt;
 &lt;p&gt;其中， &lt;code&gt;list&lt;/code&gt;  有点像  &lt;code&gt;deque&lt;/code&gt; ，和其原理差不多，只是内存块的大小恒为 1，插入和删除都可以在常数时间内完成。唯一的缺点是不支持二分查找和随机访问。而且由于  &lt;code&gt;list&lt;/code&gt;  是不连续容器，因此它的查询会导致内存频繁地跳转，因此只有在经常需要增加或删除的时候才会考虑使用  &lt;code&gt;list&lt;/code&gt; 。&lt;/p&gt;
-&lt;p&gt;&lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;map&lt;/code&gt;  属于关联容器，关联容器支持高效的关键字查找和访问，内部是以一种叫做红黑树的 BST&lt;br /&gt;
- 实现的，但它太复杂了，它的插入有 5 种情况，删除有 6 种情况，是 “当今信息界中平均速度最快的 BST”，比我们在 OI 比赛中有能力在时间内手动实现的 BST 快得多。&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;map&lt;/code&gt;  属于关联容器，关联容器支持高效的关键字查找和访问，内部是以一种叫做红黑树的 BST 实现的，但它太复杂了，它的插入有 5 种情况，删除有 6 种情况，是 “当今信息界中平均速度最快的 BST”，比我们在 OI 比赛中有能力在时间内手动实现的 BST 快得多。&lt;/p&gt;
 &lt;p&gt;因此，  &lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;map&lt;/code&gt;  的查询时间和红黑树的时间复杂度一致，基本上所有操作都是 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;log&lt;/mi&gt;&lt;mo&gt;⁡&lt;/mo&gt;&lt;mi&gt;s&lt;/mi&gt;&lt;mi&gt;i&lt;/mi&gt;&lt;mi&gt;z&lt;/mi&gt;&lt;mi&gt;e&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\log size&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.8888799999999999em;vertical-align:-0.19444em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mop&#34;&gt;lo&lt;span style=&#34;margin-right:0.01389em;&#34;&gt;g&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.16666666666666666em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;s&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;i&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.04398em;&#34;&gt;z&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;e&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 级别的，包括迭代器的  &lt;code&gt;++&lt;/code&gt;  和  &lt;code&gt;—&lt;/code&gt;  操作，它们在 BST 中相当于求前驱和后继。而且由于它们是节点容器，因此在内存中是断续的，反复地跳转可能导致更多的开销。&lt;/p&gt;
 &lt;p&gt;但当需要自己实现部分（不包括一些特别的功能，例如求排名）平衡树的功能时，用  &lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;map&lt;/code&gt;  一般会比手写更优。&lt;/p&gt;
 &lt;p&gt;如果遇到了不能用  &lt;code&gt;set&lt;/code&gt;  和  &lt;code&gt;map&lt;/code&gt;  的情况，并不推荐用 Splay，因为它的常数太大了，这里推荐一种极好的 BST: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3L2FydGljbGUvZGV0YWlscy84MzM3ODE2Ng==&#34;&gt;替罪羊树 (Scapegoat Tree)&lt;/span&gt;，它的思想非常简单：当且仅当某棵子树的不平衡度超过 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;α&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;\alpha&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34; style=&#34;margin-right:0.0037em;&#34;&gt;α&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 时，暴力重构整棵子树，从而避免了旋转的操作。&lt;/p&gt;

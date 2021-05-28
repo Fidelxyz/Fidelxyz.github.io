@@ -1495,6 +1495,8 @@ vmap &lt;C-A&gt; ggVG
 <p>汉学家称这个空白字元为「盘古之白」，因为它劈开了全角符和半角符之间的混沌。另有研究显示，打字的时候不喜欢在中文和英文之间加空格的人，感情路都走得很辛苦，有七成的比例会在 34 岁的时候跟自己不爱的人结婚，而其余三成的人最后只能把遗产留给自己的猫。毕竟爱情跟书写都需要适时地留白。</p>
 <p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3ZpbnRhL3Bhbmd1Lmpz">https://github.com/vinta/pangu.js</span></p>
 </blockquote>
+<h3 id="markdown-table-format"><a class="anchor" href="#markdown-table-format">#</a> MarkDown Table Format</h3>
+<p><code>Shift</code>  +  <code>Alt</code>  +  <code>F</code>  对<strong>表格</strong>进行格式化。</p>
 <hr />
 <blockquote>
 <p>至于不少人推荐的 Markdown All in One：我觉得不好用。真的一点也不好用。试着输入一下<strong>多行引用块</strong>就知道了。</p>
@@ -2108,18 +2110,6 @@ addl    %eax, %eax
 <td>G++ 5.4.0 ( <code>-O2</code> )</td>
 <td>31ms</td>
 </tr>
-</tbody>
-<tbody>
-<tr>
-<td>实现方法</td>
-<td>编译器</td>
-<td>时间</td>
-</tr>
-<tr>
-<td>------------</td>
-<td>----------------</td>
-<td>------</td>
-</tr>
 <tr>
 <td>arr:  <code>deque</code></td>
 <td>G++ 5.4.0</td>
@@ -2148,8 +2138,7 @@ addl    %eax, %eax
 <h4 id="节点容器"><a class="anchor" href="#节点容器">#</a> 节点容器</h4>
 <p>节点容器就比较多了。常见的  <code>map</code> ， <code>set</code>  和  <code>list</code>  都属于它的范畴。</p>
 <p>其中， <code>list</code>  有点像  <code>deque</code> ，和其原理差不多，只是内存块的大小恒为 1，插入和删除都可以在常数时间内完成。唯一的缺点是不支持二分查找和随机访问。而且由于  <code>list</code>  是不连续容器，因此它的查询会导致内存频繁地跳转，因此只有在经常需要增加或删除的时候才会考虑使用  <code>list</code> 。</p>
-<p><code>set</code>  和  <code>map</code>  属于关联容器，关联容器支持高效的关键字查找和访问，内部是以一种叫做红黑树的 BST<br />
- 实现的，但它太复杂了，它的插入有 5 种情况，删除有 6 种情况，是 “当今信息界中平均速度最快的 BST”，比我们在 OI 比赛中有能力在时间内手动实现的 BST 快得多。</p>
+<p><code>set</code>  和  <code>map</code>  属于关联容器，关联容器支持高效的关键字查找和访问，内部是以一种叫做红黑树的 BST 实现的，但它太复杂了，它的插入有 5 种情况，删除有 6 种情况，是 “当今信息界中平均速度最快的 BST”，比我们在 OI 比赛中有能力在时间内手动实现的 BST 快得多。</p>
 <p>因此，  <code>set</code>  和  <code>map</code>  的查询时间和红黑树的时间复杂度一致，基本上所有操作都是 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>log</mi><mo>⁡</mo><mi>s</mi><mi>i</mi><mi>z</mi><mi>e</mi></mrow><annotation encoding="application/x-tex">\log size</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span class="mop">lo<span style="margin-right:0.01389em;">g</span></span><span class="mspace" style="margin-right:0.16666666666666666em;"></span><span class="mord mathnormal">s</span><span class="mord mathnormal">i</span><span class="mord mathnormal" style="margin-right:0.04398em;">z</span><span class="mord mathnormal">e</span></span></span></span> 级别的，包括迭代器的  <code>++</code>  和  <code>—</code>  操作，它们在 BST 中相当于求前驱和后继。而且由于它们是节点容器，因此在内存中是断续的，反复地跳转可能导致更多的开销。</p>
 <p>但当需要自己实现部分（不包括一些特别的功能，例如求排名）平衡树的功能时，用  <code>set</code>  和  <code>map</code>  一般会比手写更优。</p>
 <p>如果遇到了不能用  <code>set</code>  和  <code>map</code>  的情况，并不推荐用 Splay，因为它的常数太大了，这里推荐一种极好的 BST: <span class="exturl" data-url="aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3FxXzQwMTU1MDk3L2FydGljbGUvZGV0YWlscy84MzM3ODE2Ng==">替罪羊树 (Scapegoat Tree)</span>，它的思想非常简单：当且仅当某棵子树的不平衡度超过 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>α</mi></mrow><annotation encoding="application/x-tex">\alpha</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal" style="margin-right:0.0037em;">α</span></span></span></span> 时，暴力重构整棵子树，从而避免了旋转的操作。</p>
