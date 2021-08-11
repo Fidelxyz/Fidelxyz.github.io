@@ -64,53 +64,6 @@
       </tags>
   </entry>
   <entry>
-    <title>失踪人口回归</title>
-    <url>/2019/04/19/i-am-back/</url>
-    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
-<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<span id="more"></span>
-<hr />
-<p>先列出 Rain City 改动了的地方：</p>
-<ul>
-<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
-<li>添加了几位大佬的友链。</li>
-<li>Valine-admin 评论系统及邮件回复更新。</li>
-<li>添加了文章访问量统计。</li>
-<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
-<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
-<li>访问速度略微优化。</li>
-<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
-<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
-</ul>
-<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
-<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
-<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
-<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
-<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
-<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
-<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
-<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
-<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
-<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
-<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
-<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
-<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
-<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
-<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
-<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
-<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
-<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
-<hr />
-<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hexo，走起！</title>
     <url>/2018/08/13/hello-hexo/</url>
     <content><![CDATA[<p>Rain City 又搬家啦！</p>
@@ -322,58 +275,17 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>非 正 常 代 码</title>
-    <url>/2020/01/16/unusual-code/</url>
-    <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
-<p>考完试了，是时候来放 (gao) 松 (dian) 一 (shi) 下 (qing) 了</p>
-<p>进入学校的洛谷奥赛团，发现布置了一道新题目：<a href="https://www.luogu.com.cn/problemnew/show/P1996"><strong>P1996</strong> 约瑟夫问题</a></p>
-<blockquote>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 个人（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>≤</mo><mn>100</mn></mrow><annotation encoding="application/x-tex">n \leq 100</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span>）围成一圈，从第一个人开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人出列，再由下一个人重新从 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。</p>
-</blockquote>
-<p>要求用链表做，但我也可以搞点事情嘛～</p>
+    <title>随便聊聊</title>
+    <url>/2021/02/15/talk-about-something/</url>
+    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
 <span id="more"></span>
-<p>十分钟后敲出一份 AC 代码：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstring></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    <span class="token function">memset</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token keyword">sizeof</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre></pre></td></tr><tr><td data-num="11"></td><td><pre>    count <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    i <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>        i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>        i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="17"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="18"></td><td><pre>            jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>            <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>            a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre>            count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>            jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="25"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="26"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p><strong>不断地循环，用一个 <code>bool</code>  数组标记出列。</strong></p>
-<p>AC 是 AC 了，但是…… 中规中矩，<s>不符合我们搞事情的风格呀</s></p>
-<p>我们来<strong>稍微简化一下</strong> &lt;_&lt;</p>
+<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
 <blockquote>
-<p><s>简化亿下</s></p>
+<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
+<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
 </blockquote>
-<p>首先，最关键的就是中间这段 <strong>while 循环</strong>了，所以我们先从这里入手。</p>
-<h1 id="step-1"><a class="anchor" href="#step-1">#</a> Step 1</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><p>开始先是指针 <code>i</code> <strong> 累加</strong>，然后用一个<strong>求余</strong>处理溢出。</p>
-<p>合并一下，变成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-2"><a class="anchor" href="#step-2">#</a> Step 2</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>这里需要动点脑筋，我们知道 <code>a[i]</code>  是 <code>bool</code>  型数组，所以就有 <code>True</code>  和 <code>False</code>  两种情况，<strong>作加法运算时转成 <code>int</code>  就是 <code>1</code>  和 <code>0</code> </strong>。我们只需要让 <code>jump</code>  累加上 <code>a[i]</code>  的<strong>取反值</strong>就好了。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-3"><a class="anchor" href="#step-3">#</a> Step 3</h1>
-<p>现在 Step 1 和 Step 2 的 4 行代码已经<strong>缩成了 2 行</strong>。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是这还不够，我们可以再合并一下：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-4"><a class="anchor" href="#step-4">#</a> Step 4</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>接下来是一段 <strong>if 逻辑</strong>，我们这里需要用<strong>三元操作符</strong>来代替。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token operator">?</span> 条件为 True 时执行的代码 <span class="token operator">:</span> 条件为 False 时执行的代码</pre></td></tr></table></figure><p>我们把三元操作符塞进 <strong> <code>printf</code>  函数</strong>里面：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span>jump <span class="token operator">==</span> m <span class="token operator">?</span> <span class="token string">"%d"</span> <span class="token operator">:</span> <span class="token string">""</span> <span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是剩下的三行赋值怎么办？</p>
-<p>这里我们就需要用到一个很巧妙的工具了：<strong>与运算符 <code>&amp;&amp;</code> </strong></p>
-<p>我们都知道，与运算符正常的打开方式是这样子的：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token number">1</span> <span class="token operator">&amp;&amp;</span> 条件 <span class="token number">2</span></pre></td></tr></table></figure><p>只有两个条件全为  <code>True</code> ，整个表达式才为  <code>True</code> 。<strong>如果条件 1 为  <code>True</code> ，则不会判断条件 2。</strong></p>
-<p>我们稍微思考一下，** 如果条件 2 恒为  <code>True</code> ，那么整个表达式的值完全取决于条件 1。** 而 <strong> <code>&amp;&amp;</code>  运算符两边是可以塞下一个赋值表达式的！</strong></p>
-<p>这样，<strong>我们就可以把剩下的三条赋值表达式全部用连续的  <code>&amp;&amp;</code>  运算符塞进一个括号里面去！</strong></p>
-<p>赋值表达式本身的值等于最终被赋值的值，我们只需要<strong>通过取反运算符  <code>!</code>  或者直接  <code>+1</code>  让表达式的值恒为  <code>True</code> </strong> 就好了。</p>
-<p>所以就变成了这样：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span></pre></td></tr></table></figure><p>与上面的 <code>printf</code>  函数合并一下，变成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>Perfect!</p>
-<h1 id="step-5"><a class="anchor" href="#step-5">#</a> Step 5</h1>
-<p>最后我们只需要将代码整理一下即可。</p>
-<p>貌似改动的时候出了点小 bug， <code>i</code>  不能初始化为 <code>-1</code> ，要初始化为 <code>0</code> 。我也不知道是什么原因。但也好，这就更简单了。</p>
-<p><strong>所有的变量和数组都定义为全局变量，直接默认初始化为 <code>0</code> ，这样把初始化的赋值和 <code>memset</code>  都省了。</strong></p>
-<p>整理一下，大功告成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><h1 id="尾声"><a class="anchor" href="#尾声">#</a> 尾声</h1>
-<p>还是没有大佬们厉害。</p>
-<p><img data-src="https://s2.ax1x.com/2020/01/17/1Sin4H.jpg" alt="" /></p>
-<blockquote>
-<p><strong>题目背景</strong></p>
-<p>约瑟夫是一个无聊的人！！</p>
-</blockquote>
-<p>我也像是个无聊的人 &lt;_&lt;</p>
+<p>很喜欢这句话。</p>
+<p>当你看这个世界时，也在发现自己。</p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -483,7 +395,112 @@ vmap &lt;C-A&gt; ggVG
 </ol>
 ]]></content>
       <tags>
+        <tag>杂记</tag>
         <tag>技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>失踪人口回归</title>
+    <url>/2019/04/19/i-am-back/</url>
+    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
+<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
+<span id="more"></span>
+<hr />
+<p>先列出 Rain City 改动了的地方：</p>
+<ul>
+<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
+<li>添加了几位大佬的友链。</li>
+<li>Valine-admin 评论系统及邮件回复更新。</li>
+<li>添加了文章访问量统计。</li>
+<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
+<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
+<li>访问速度略微优化。</li>
+<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
+<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
+</ul>
+<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
+<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
+<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
+<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
+<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
+<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
+<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
+<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
+<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
+<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
+<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
+<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
+<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
+<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
+<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
+<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
+<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
+<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
+<hr />
+<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>非 正 常 代 码</title>
+    <url>/2020/01/16/unusual-code/</url>
+    <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
+<p>考完试了，是时候来放 (gao) 松 (dian) 一 (shi) 下 (qing) 了</p>
+<p>进入学校的洛谷奥赛团，发现布置了一道新题目：<a href="https://www.luogu.com.cn/problemnew/show/P1996"><strong>P1996</strong> 约瑟夫问题</a></p>
+<blockquote>
+<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 个人（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>≤</mo><mn>100</mn></mrow><annotation encoding="application/x-tex">n \leq 100</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span>）围成一圈，从第一个人开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人出列，再由下一个人重新从 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。</p>
+</blockquote>
+<p>要求用链表做，但我也可以搞点事情嘛～</p>
+<span id="more"></span>
+<p>十分钟后敲出一份 AC 代码：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstring></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    <span class="token function">memset</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token keyword">sizeof</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre></pre></td></tr><tr><td data-num="11"></td><td><pre>    count <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    i <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>        i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>        i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="17"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="18"></td><td><pre>            jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>            <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>            a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre>            count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>            jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="25"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="26"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p><strong>不断地循环，用一个 <code>bool</code>  数组标记出列。</strong></p>
+<p>AC 是 AC 了，但是…… 中规中矩，<s>不符合我们搞事情的风格呀</s></p>
+<p>我们来<strong>稍微简化一下</strong> &lt;_&lt;</p>
+<blockquote>
+<p><s>简化亿下</s></p>
+</blockquote>
+<p>首先，最关键的就是中间这段 <strong>while 循环</strong>了，所以我们先从这里入手。</p>
+<h1 id="step-1"><a class="anchor" href="#step-1">#</a> Step 1</h1>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><p>开始先是指针 <code>i</code> <strong> 累加</strong>，然后用一个<strong>求余</strong>处理溢出。</p>
+<p>合并一下，变成：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-2"><a class="anchor" href="#step-2">#</a> Step 2</h1>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>这里需要动点脑筋，我们知道 <code>a[i]</code>  是 <code>bool</code>  型数组，所以就有 <code>True</code>  和 <code>False</code>  两种情况，<strong>作加法运算时转成 <code>int</code>  就是 <code>1</code>  和 <code>0</code> </strong>。我们只需要让 <code>jump</code>  累加上 <code>a[i]</code>  的<strong>取反值</strong>就好了。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-3"><a class="anchor" href="#step-3">#</a> Step 3</h1>
+<p>现在 Step 1 和 Step 2 的 4 行代码已经<strong>缩成了 2 行</strong>。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是这还不够，我们可以再合并一下：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-4"><a class="anchor" href="#step-4">#</a> Step 4</h1>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>接下来是一段 <strong>if 逻辑</strong>，我们这里需要用<strong>三元操作符</strong>来代替。</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token operator">?</span> 条件为 True 时执行的代码 <span class="token operator">:</span> 条件为 False 时执行的代码</pre></td></tr></table></figure><p>我们把三元操作符塞进 <strong> <code>printf</code>  函数</strong>里面：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span>jump <span class="token operator">==</span> m <span class="token operator">?</span> <span class="token string">"%d"</span> <span class="token operator">:</span> <span class="token string">""</span> <span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是剩下的三行赋值怎么办？</p>
+<p>这里我们就需要用到一个很巧妙的工具了：<strong>与运算符 <code>&amp;&amp;</code> </strong></p>
+<p>我们都知道，与运算符正常的打开方式是这样子的：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token number">1</span> <span class="token operator">&amp;&amp;</span> 条件 <span class="token number">2</span></pre></td></tr></table></figure><p>只有两个条件全为  <code>True</code> ，整个表达式才为  <code>True</code> 。<strong>如果条件 1 为  <code>True</code> ，则不会判断条件 2。</strong></p>
+<p>我们稍微思考一下，** 如果条件 2 恒为  <code>True</code> ，那么整个表达式的值完全取决于条件 1。** 而 <strong> <code>&amp;&amp;</code>  运算符两边是可以塞下一个赋值表达式的！</strong></p>
+<p>这样，<strong>我们就可以把剩下的三条赋值表达式全部用连续的  <code>&amp;&amp;</code>  运算符塞进一个括号里面去！</strong></p>
+<p>赋值表达式本身的值等于最终被赋值的值，我们只需要<strong>通过取反运算符  <code>!</code>  或者直接  <code>+1</code>  让表达式的值恒为  <code>True</code> </strong> 就好了。</p>
+<p>所以就变成了这样：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span></pre></td></tr></table></figure><p>与上面的 <code>printf</code>  函数合并一下，变成：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>Perfect!</p>
+<h1 id="step-5"><a class="anchor" href="#step-5">#</a> Step 5</h1>
+<p>最后我们只需要将代码整理一下即可。</p>
+<p>貌似改动的时候出了点小 bug， <code>i</code>  不能初始化为 <code>-1</code> ，要初始化为 <code>0</code> 。我也不知道是什么原因。但也好，这就更简单了。</p>
+<p><strong>所有的变量和数组都定义为全局变量，直接默认初始化为 <code>0</code> ，这样把初始化的赋值和 <code>memset</code>  都省了。</strong></p>
+<p>整理一下，大功告成：</p>
+<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><h1 id="尾声"><a class="anchor" href="#尾声">#</a> 尾声</h1>
+<p>还是没有大佬们厉害。</p>
+<p><img data-src="https://s2.ax1x.com/2020/01/17/1Sin4H.jpg" alt="" /></p>
+<blockquote>
+<p><strong>题目背景</strong></p>
+<p>约瑟夫是一个无聊的人！！</p>
+</blockquote>
+<p>我也像是个无聊的人 &lt;_&lt;</p>
+]]></content>
+      <tags>
         <tag>杂记</tag>
       </tags>
   </entry>
@@ -505,23 +522,6 @@ vmap &lt;C-A&gt; ggVG
 <p>现在，NASA 启动了「Future Mars Mission」项目，参与者的名字将在 2026 年登陆火星。</p>
 <p>参与链接：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1lL2Z1dHVyZQ==">https://mars.nasa.gov/participate/send-your-name/future</span></p>
 <p><img data-src="https://i.loli.net/2021/03/13/JH3kZ5VMNSAP9RY.jpg" alt="Future Mars Mission" /></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随便聊聊</title>
-    <url>/2021/02/15/talk-about-something/</url>
-    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
-<span id="more"></span>
-<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
-<blockquote>
-<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
-<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
-</blockquote>
-<p>很喜欢这句话。</p>
-<p>当你看这个世界时，也在发现自己。</p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -568,8 +568,20 @@ vmap &lt;C-A&gt; ggVG
 </div>
 ]]></content>
       <tags>
-        <tag>杂记</tag>
         <tag>公告</tag>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水一张渲染图</title>
+    <url>/2020/04/10/vdrias-world/</url>
+    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
+<span id="more"></span>
+<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
+<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
@@ -737,20 +749,8 @@ vmap &lt;C-A&gt; ggVG
 <p>2020 CSP-S 游记 &amp; NOIP 2020 爆零记，完。</p>
 ]]></content>
       <tags>
+        <tag>杂记</tag>
         <tag>技术</tag>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>水一张渲染图</title>
-    <url>/2020/04/10/vdrias-world/</url>
-    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
-<span id="more"></span>
-<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
-<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
       </tags>
   </entry>
   <entry>
@@ -1532,8 +1532,8 @@ vmap &lt;C-A&gt; ggVG
 </ol>
 ]]></content>
       <tags>
-        <tag>技术</tag>
         <tag>杂记</tag>
+        <tag>技术</tag>
       </tags>
   </entry>
   <entry>
@@ -2154,7 +2154,6 @@ addl    %eax, %eax
 ]]></content>
       <tags>
         <tag>技术</tag>
-        <tag>杂记</tag>
       </tags>
   </entry>
 </search>
