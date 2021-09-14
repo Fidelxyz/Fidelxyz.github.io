@@ -118,6 +118,53 @@
       </tags>
   </entry>
   <entry>
+    <title>失踪人口回归</title>
+    <url>/2019/04/19/i-am-back/</url>
+    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
+<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
+<span id="more"></span>
+<hr />
+<p>先列出 Rain City 改动了的地方：</p>
+<ul>
+<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
+<li>添加了几位大佬的友链。</li>
+<li>Valine-admin 评论系统及邮件回复更新。</li>
+<li>添加了文章访问量统计。</li>
+<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
+<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
+<li>访问速度略微优化。</li>
+<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
+<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
+</ul>
+<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
+<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
+<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
+<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
+<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
+<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
+<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
+<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
+<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
+<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
+<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
+<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
+<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
+<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
+<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
+<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
+<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
+<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
+<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
+<hr />
+<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>NOIP 比赛笔记</title>
     <url>/2019/11/15/noip-note/</url>
     <content><![CDATA[<p>一点小笔记</p>
@@ -275,53 +322,6 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>失踪人口回归</title>
-    <url>/2019/04/19/i-am-back/</url>
-    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
-<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<span id="more"></span>
-<hr />
-<p>先列出 Rain City 改动了的地方：</p>
-<ul>
-<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
-<li>添加了几位大佬的友链。</li>
-<li>Valine-admin 评论系统及邮件回复更新。</li>
-<li>添加了文章访问量统计。</li>
-<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
-<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
-<li>访问速度略微优化。</li>
-<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
-<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
-</ul>
-<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
-<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
-<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
-<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
-<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
-<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
-<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
-<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
-<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
-<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
-<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
-<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
-<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
-<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
-<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
-<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
-<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
-<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
-<hr />
-<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSP-J 2019 游记 &amp; 指引</title>
     <url>/2019/12/27/CSPJ-tour/</url>
     <content><![CDATA[<p>下面那篇 NOIP 比赛笔记其实是给我自己看的……</p>
@@ -430,6 +430,23 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
+    <title>随便聊聊</title>
+    <url>/2021/02/15/talk-about-something/</url>
+    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
+<span id="more"></span>
+<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
+<blockquote>
+<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
+<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
+</blockquote>
+<p>很喜欢这句话。</p>
+<p>当你看这个世界时，也在发现自己。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>非 正 常 代 码</title>
     <url>/2020/01/16/unusual-code/</url>
     <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
@@ -488,58 +505,6 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>随便聊聊</title>
-    <url>/2021/02/15/talk-about-something/</url>
-    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
-<span id="more"></span>
-<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
-<blockquote>
-<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
-<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
-</blockquote>
-<p>很喜欢这句话。</p>
-<p>当你看这个世界时，也在发现自己。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Send Your Name to Mars</title>
-    <url>/2021/03/13/send-your-name-to-mars/</url>
-    <content><![CDATA[<blockquote>
-<p>「当你一抬头，就能看到你的名字在另一个星球」</p>
-</blockquote>
-<span id="more"></span>
-<p><img data-src="https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg" alt="Mars 2020 Rover" /></p>
-<blockquote>
-<p>NASA's &quot;Send Your Name to Mars&quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.</p>
-<p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L25ld3MvODg3Mi9uZWFybHktMTEtbWlsbGlvbi1uYW1lcy1vZi1lYXJ0aGxpbmdzLWFyZS1vbi1tYXJzLXBlcnNldmVyYW5jZS8=">Nearly 11 Million Names of Earthlings are on Mars Perseverance (mars.nasa.gov)</span></p>
-</blockquote>
-<p><img data-src="https://i.loli.net/2021/03/13/XpzNH7WRm4xcdBD.jpg" alt="图片摘自：'Send Your Name' Placard Attached to Perseverance (mars.nasa.gov)" /></p>
-<p>这是 NASA「Send Your Name to Mars」计划的网页：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1l">https://mars.nasa.gov/participate/send-your-name</span></p>
-<hr />
-<p>现在，NASA 启动了「Future Mars Mission」项目，参与者的名字将在 2026 年登陆火星。</p>
-<p>参与链接：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1lL2Z1dHVyZQ==">https://mars.nasa.gov/participate/send-your-name/future</span></p>
-<p><img data-src="https://i.loli.net/2021/03/13/JH3kZ5VMNSAP9RY.jpg" alt="Future Mars Mission" /></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>水一张渲染图</title>
-    <url>/2020/04/10/vdrias-world/</url>
-    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
-<span id="more"></span>
-<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
-<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>About Fidel&#39;s Lab</title>
     <url>/2020/04/05/new-about/</url>
     <content><![CDATA[<div class="note info">
@@ -580,7 +545,30 @@ vmap &lt;C-A&gt; ggVG
 </div>
 ]]></content>
       <tags>
+        <tag>杂记</tag>
         <tag>公告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Send Your Name to Mars</title>
+    <url>/2021/03/13/send-your-name-to-mars/</url>
+    <content><![CDATA[<blockquote>
+<p>「当你一抬头，就能看到你的名字在另一个星球」</p>
+</blockquote>
+<span id="more"></span>
+<p><img data-src="https://i.loli.net/2021/03/13/yHQsP5hMAKtU69f.jpg" alt="Mars 2020 Rover" /></p>
+<blockquote>
+<p>NASA's &quot;Send Your Name to Mars&quot; campaign invited people around the globe to submit their names to ride along on the rover. And people did – with a grand total of 10,932,295 names submitted. Those names now sit on the surface of Mars, written on three fingernail-sized chips on board the Perseverance rover.</p>
+<p>摘自：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L25ld3MvODg3Mi9uZWFybHktMTEtbWlsbGlvbi1uYW1lcy1vZi1lYXJ0aGxpbmdzLWFyZS1vbi1tYXJzLXBlcnNldmVyYW5jZS8=">Nearly 11 Million Names of Earthlings are on Mars Perseverance (mars.nasa.gov)</span></p>
+</blockquote>
+<p><img data-src="https://i.loli.net/2021/03/13/XpzNH7WRm4xcdBD.jpg" alt="图片摘自：'Send Your Name' Placard Attached to Perseverance (mars.nasa.gov)" /></p>
+<p>这是 NASA「Send Your Name to Mars」计划的网页：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1l">https://mars.nasa.gov/participate/send-your-name</span></p>
+<hr />
+<p>现在，NASA 启动了「Future Mars Mission」项目，参与者的名字将在 2026 年登陆火星。</p>
+<p>参与链接：<span class="exturl" data-url="aHR0cHM6Ly9tYXJzLm5hc2EuZ292L3BhcnRpY2lwYXRlL3NlbmQteW91ci1uYW1lL2Z1dHVyZQ==">https://mars.nasa.gov/participate/send-your-name/future</span></p>
+<p><img data-src="https://i.loli.net/2021/03/13/JH3kZ5VMNSAP9RY.jpg" alt="Future Mars Mission" /></p>
+]]></content>
+      <tags>
         <tag>杂记</tag>
       </tags>
   </entry>
@@ -595,6 +583,18 @@ vmap &lt;C-A&gt; ggVG
 <p>我认为，网媒需要多样化，但「人人皆可发声」的媒体平台必然会导致内容整体低质化；网媒需要时效性，但不代表文章发表前不需要严格审核。作为「知名」新闻媒体，媒体平台发挥着传播信息、影响社会舆论的作用，必须对内容的真实性和质量负责。</p>
 <p>现在我终于明白，美剧《新闻编辑室》中为什么新闻主持人 Will 不愿意在节目中播报娱乐信息，不愿意参加娱乐节目，甚至不愿意在节目中向观众露出一丝笑容。无论是纸媒还是网媒，「新闻媒体」就应该有「新闻媒体」的严谨与严肃。同样，我不否认短内容的价值，但如果娱乐化短内容取代长内容成为网络信息的主流，甚至是社会舆论的主流，将会影响公众及时了解真实而重要的消息并进行深度思考。</p>
 <p>除了新闻媒体，网络社交平台也应加大对长内容的推广力度。平台可以引入 AI 技术来分析内容的质量与原创度，而非仅以「浏览量」和「浏览完成度」来衡量内容的推广价值。网络媒体作为当今社会舆论的重要引导者，更应该主动承担起推动网络舆论氛围良性发展的责任。</p>
+]]></content>
+      <tags>
+        <tag>杂记</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>水一张渲染图</title>
+    <url>/2020/04/10/vdrias-world/</url>
+    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
+<span id="more"></span>
+<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
+<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
 ]]></content>
       <tags>
         <tag>杂记</tag>
@@ -1061,20 +1061,20 @@ vmap &lt;C-A&gt; ggVG
 <h1 id="目录"><a class="anchor" href="#目录">#</a> 目录</h1>
 <ul>
 <li><a href="#%E7%9B%AE%E5%BD%95">目录</a></li>
-<li>[第 1 章 绪论](# 第 1 章 - 绪论)</li>
-<li>[第 2 章 从无解出发](# 第 2 章 - 从无解出发)
+<li><a href="#%E7%AC%AC-1-%E7%AB%A0-%E7%BB%AA%E8%AE%BA">第 1 章 绪论</a></li>
+<li><a href="#%E7%AC%AC-2-%E7%AB%A0-%E4%BB%8E%E6%97%A0%E8%A7%A3%E5%87%BA%E5%8F%91">第 2 章 从无解出发</a>
 <ul>
 <li><a href="#21-%E6%97%A0%E8%A7%A3%E6%83%85%E5%86%B5">2.1 无解情况</a></li>
 <li><a href="#22-%E6%A0%B7%E4%BE%8B%E7%99%BD%E9%80%81%E7%9A%84%E5%88%86%E6%95%B0">2.2 样例 —— 白送的分数</a></li>
 </ul>
 </li>
-<li>[第 3 章 “艰苦朴素永不忘”](# 第 3 章 - 艰苦朴素永不忘)
+<li><a href="#%E7%AC%AC-3-%E7%AB%A0-%E8%89%B0%E8%8B%A6%E6%9C%B4%E7%B4%A0%E6%B0%B8%E4%B8%8D%E5%BF%98">第 3 章 “艰苦朴素永不忘”</a>
 <ul>
 <li><a href="#31-%E6%A8%A1%E6%8B%9F">3.1 模拟</a></li>
-<li>[3.2 万能钥匙 ——DFS](#32 - 万能钥匙 dfs)</li>
+<li><a href="#32-%E4%B8%87%E8%83%BD%E9%92%A5%E5%8C%99dfs">3.2 万能钥匙 ——DFS</a></li>
 </ul>
 </li>
-<li>[第 4 章 骗分的关键 —— 猜想](# 第 4 章 - 骗分的关键猜想)
+<li><a href="#%E7%AC%AC-4-%E7%AB%A0-%E9%AA%97%E5%88%86%E7%9A%84%E5%85%B3%E9%94%AE%E7%8C%9C%E6%83%B3">第 4 章 骗分的关键 —— 猜想</a>
 <ul>
 <li><a href="#41-%E5%90%AC%E5%A4%A9%E7%94%B1%E5%91%BD">4.1 听天由命</a></li>
 <li><a href="#42-%E7%8C%9C%E6%B5%8B%E7%AD%94%E6%A1%88">4.2 猜测答案</a></li>
@@ -1082,21 +1082,21 @@ vmap &lt;C-A&gt; ggVG
 <li><a href="#44-%E5%B0%8F%E6%95%B0%E6%8D%AE%E6%9D%80%E6%89%8B%E6%89%93%E8%A1%A8">4.4 小数据杀手 —— 打表</a></li>
 </ul>
 </li>
-<li>[第 5 章 做贪心的人](# 第 5 章 - 做贪心的人)
+<li><a href="#%E7%AC%AC-5-%E7%AB%A0-%E5%81%9A%E8%B4%AA%E5%BF%83%E7%9A%84%E4%BA%BA">第 5 章 做贪心的人</a>
 <ul>
 <li><a href="#51-%E8%B4%AA%E5%BF%83%E7%9A%84%E7%AE%97%E6%B3%95">5.1 贪心的算法</a></li>
 <li><a href="#52-%E8%B4%AA%E5%BF%83%E5%9C%B0%E5%BE%97%E5%88%86">5.2 贪心地得分</a></li>
 </ul>
 </li>
-<li>[第 6 章 C++ 的福利](# 第 6 章 - c 的福利)
+<li><a href="#%E7%AC%AC-6-%E7%AB%A0-c%E7%9A%84%E7%A6%8F%E5%88%A9">第 6 章 C++ 的福利</a>
 <ul>
 <li><a href="#61-%E5%BF%AB%E9%80%9F%E6%8E%92%E5%BA%8F">6.1 快速排序</a></li>
 <li><a href="#62-%E5%A6%82%E6%84%8F%E9%87%91%E7%AE%8D%E6%A3%92">6.2 “如意金箍棒”</a></li>
 </ul>
 </li>
-<li>[第 7 章 “宁为玉碎，不为瓦全”](# 第 7 章 - 宁为玉碎不为瓦全)</li>
-<li>[第 8 章 实战演练](# 第 8 章 - 实战演练)</li>
-<li>[第 9 章 结语](# 第 9 章 - 结语)</li>
+<li><a href="#%E7%AC%AC-7-%E7%AB%A0-%E5%AE%81%E4%B8%BA%E7%8E%89%E7%A2%8E%E4%B8%8D%E4%B8%BA%E7%93%A6%E5%85%A8">第 7 章 “宁为玉碎，不为瓦全”</a></li>
+<li><a href="#%E7%AC%AC-8-%E7%AB%A0-%E5%AE%9E%E6%88%98%E6%BC%94%E7%BB%83">第 8 章 实战演练</a></li>
+<li><a href="#%E7%AC%AC-9-%E7%AB%A0-%E7%BB%93%E8%AF%AD">第 9 章 结语</a></li>
 </ul>
 <h1 id="第-1-章-绪论"><a class="anchor" href="#第-1-章-绪论">#</a> 第 1 章 绪论</h1>
 <p>在 OIer 中，有一句话广为流传：</p>
