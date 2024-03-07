@@ -1,172 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>三星 NOTE4 刷港版手记</title>
-    <url>/2018/04/30/samsung-TGY/</url>
-    <content><![CDATA[<div class="note info">
-<p>关于 ROM 免费获取服务，请参见文末。</p>
-</div>
-<p>之前在知乎上看到一个提问 <a href="https://www.zhihu.com/question/36413593"><strong>【使用全套谷歌服务是种什么样的体验？- 知乎】</strong></a>，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（<span class="exturl" data-url="aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==">【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】</span>，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。</p>
-<span id="more"></span>
-<blockquote>
-<p>三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）</p>
-</blockquote>
-<p>还好，对于一个善于钻研各种设备的我来说，<s>应该不算太难…… 吧。</s></p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CG6Gn0.png" alt="仿佛刷了个假的系统" /></p>
-<p>然而一上来居然刷错系统了…… 刷了个貌似是三星 S 系列的曲面屏手机的系统，并且貌似捆绑了很多国产软件。（看见那恶心的 360 浏览器没！）不过界面够漂亮，还据说挺省电。</p>
-<p>另外这波卡刷还让我见识了三星牛逼的 Recovery 界面，其实就是用 Teamwin 定制的。（由于事发匆忙，并没有来得及拍照）</p>
-<h1 id="开始刷机"><a class="anchor" href="#开始刷机">#</a> 开始刷机</h1>
-<p>经过一番小意外，总算可以进入正题了。</p>
-<p>在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ==">ROM 中国</span> 找了一个刷机包，下载。这里推荐用更加方便的一体包。（话说还要买邀请码的哦，13 块一个账号，购买后无限下载，不过丰富并且高质量的 ROM 资源绝对值了。<strong>如果有需要免费提供 ROM 下载链接的请转到文末</strong>）</p>
-<p>顺便下载 <span class="exturl" data-url="aHR0cDovL3d3dy5jbnJvbXMuY29tL2Rvd25sb2FkLW9kaW4uaHRtbA==">Odin3</span>，三星的驱动也在链接里有。</p>
-<p>这里的连接需要注意：三星的挖煤模式跟其他手机不一样，Recovery 和 Download 模式是分开的，<strong>用【音量上】+【电源键】+【HOME 键】进入 Recovery 的图形界面以后需要点击右下角的【重启】，选择【Download 模式】才能与 Odin 连接。</strong></p>
-<p>顺便说一句，<strong>如果卡在 Teamwin 的加载界面的话，不要慌张，等个三四分钟，这段时间挺长的并且不会有任何提示。</strong> 如果实在加载不出来，拔电池再来一遍。</p>
-<p>接下来的流程就跟网上说的一样了，解压压缩包放入 Odin 的 AP 文件位中，连接手机，Start。然后再等个四五分钟就行。</p>
-<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3GeH.png" alt="Odin" /></p>
-<p><img data-src="https://s1.ax1x.com/2018/05/06/CU3Jwd.png" alt="Odin" /></p>
-<p>刷机完后手机会自动重启，进入新系统。我刷机的时候前两次都是卡在 “SAMSUNG” 的加载界面，如果出现这种情况的话拔电池重启，如果还是不行，<strong>用【音量上】+【电源键】+【HOME 键】进入 Recovery，这时候注意，刷机后的 Recovery 界面会有所改变，不再是 Teamwin 的图形界面，而是像普通手机的命令行系统。用音量键选择 Power Off，正常进入系统。</strong> 出现 “SAMSUNG” 的界面等多三四分钟即可，这段时间也会比较长。如果再次卡住，则按照上面的办法再来一遍。</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg6YD.png" alt="设置界面" /></p>
-<p>成功启动系统后，就会进入设置界面了。需要注意，因为我刷的是港版系统，所以会有一个 Google 检查网络的过程，但是因为 GFW 的封锁在国内是无法访问 Google 的服务器的。于是就会卡在 “正在检查网络连接” 这一步。</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgrTK.png" alt="正在检查网络连接" /></p>
-<p>按照百度到的方法，可以用连了 VPN 的电脑共享 WiFi 给手机，但是我试了试不太行，于是干脆关机，把 SIM 卡拔掉，重新开机，把 WiFi 关掉，完美跳过网络检查。<strong>但据说这方法只有在之前没装过 Google 框架的手机上才行，就算用这样的方法通过后再恢复出厂设置，就不能用这样的方法了。</strong></p>
-<p>设置时要登录 Google 或者三星账号的全部跳过，设置完后第一件事就是<strong>赶紧装 VPN</strong>，万一哪天又来个网络验证，……</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgcfe.png" alt="设置界面" /></p>
-<p>至此，刷机完美完成。顺便附上几张截图：</p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGg2SH.png" alt="Google 全套服务" /></p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgRld.png" alt="主屏幕截图" /></p>
-<p><img data-src="https://s1.ax1x.com/2018/04/30/CGgyFO.png" alt="Google Play" /></p>
-<h1 id="关于-vpn"><a class="anchor" href="#关于-vpn">#</a> 关于 VPN</h1>
-<p>目前我正在使用 SSR 连接 VPN，服务器在这里找：<span class="exturl" data-url="aHR0cDovLzUyc3NyLmNu">52ssr.cn</span></p>
-<p>SSR 下载点这里：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3NoYWRvd3NvY2tzcnIvc2hhZG93c29ja3NyLWFuZHJvaWQvcmVsZWFzZXM=">https://github.com/shadowsocksrr/shadowsocksr-android/releases</span></p>
-<div class="note info">
-<p><span class="exturl" data-url="aHR0cDovLzUyc3NyLmNu">52ssr.cn</span> 已失效，详见文末。</p>
-</div>
-<h1 id="rom-免费提供"><a class="anchor" href="#rom-免费提供">#</a> ROM 免费提供</h1>
-<p>如果有需要 ROM 的用户，<strong>请在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuY25yb21zLmNvbQ==">ROM 中国</span> 找到您的手机型号适用的 ROM，并将文章链接通过下面评论的方式留言，并填写您的邮箱地址</strong>，我会尽快将下载链接回复给您，您的邮箱也会收到通知邮件。</p>
-<hr />
-<h1 id="补充"><a class="anchor" href="#补充">#</a> 补充</h1>
-<h2 id="2018-05-26"><a class="anchor" href="#2018-05-26">#</a> 2018-05-26</h2>
-<p>昨天发现 <span class="exturl" data-url="aHR0cDovLzUyc3NyLmNu">52ssr.cn</span> 登录不上了。</p>
-<p>一个新的 ssr 提供网站：<span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span>。</p>
-<hr />
-<h2 id="some-days-later"><a class="anchor" href="#some-days-later">#</a> Some days later</h2>
-<p>貌似 <span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 也连不上了。</p>
-<p>再推荐一个：<span class="exturl" data-url="aHR0cDovL3Bvcm8uaWN1Lw==">Poro</span></p>
-<p>（Poro 貌似是有 alibaba 撑着？！细思极恐）</p>
-<hr />
-<h2 id="2019-4-13"><a class="anchor" href="#2019-4-13">#</a> 2019-4-13</h2>
-<p>最近 Poro 也不好使了。</p>
-<p><span class="exturl" data-url="aHR0cDovL2dldHNzci50aw==">getssr.tk</span> 回归？</p>
-]]></content>
-      <tags>
-        <tag>技术</tag>
-        <tag>周边服务</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hexo，走起！</title>
-    <url>/2018/08/13/hello-hexo/</url>
-    <content><![CDATA[<p>Rain City 又搬家啦！</p>
-<p>正巧，Rain City <a href="https://fidel.js.org/2018/04/30/hello-raincity/">在 Github Pages 上正式建成</a> 的 5 个月后，Rain City 转移到了 <span class="exturl" data-url="aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==">Coding Pages</span> 上。目前仅完成了全部文章和部分 Hexo 主题的转移，后续将会继续完善。</p>
-<span id="more"></span>
-<h1 id="为啥-rain-city-搬家了"><a class="anchor" href="#为啥-rain-city-搬家了">#</a> 为啥 Rain City 搬家了？</h1>
-<p>最最主要的原因，就是 Github Pages 在国内的稳定性实在不敢恭维，写篇文章都要科学上网（见 Rain City 建成时写的文章：<a href="https://fidel.js.org/2018/04/30/hello-raincity/#%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA">Hello, Rain City!</a>）。于是就换到了由 <span class="exturl" data-url="aHR0cDovL0NvZGluZy5uZXQ=">Coding.net</span> 提供的 <span class="exturl" data-url="aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==">Coding Pages</span> 服务。由于 Coding 的业务主要面向国内，所以对国内的访问会友好不少，虽然主机还是在香港（国内要备案，Coding 也玩不起）。</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgQqfJ.png" alt="Coding Pages 的 Ping 检测结果" /></p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgQbY4.png" alt="Github Pages 的 Ping 检测结果" /></p>
-<p><s>乍看之下好像差不多诶……</s></p>
-<p>然而事实上 Github Pages 一堆超时…… 毕竟 Github Pages 的服务器在美国，跨了大半个地球啊。所以说，还是用 Coding Pages 吧。</p>
-<p>（说实话我觉得 Github 最大的优点在于 GitHub Desktop，完全不需要命令行来配置 Git 啊，而且界面也十分漂亮）</p>
-<p>Rain City 的访问域名依旧是 <a href="http://fidel.js.org">fidel.js.org</a>，使用 <span class="exturl" data-url="aHR0cHM6Ly9qcy5vcmcv">JS.ORG</span> 的 CNAME DNS 解析。全站使用 https 加密，使用 <span class="exturl" data-url="aHR0cDovL0pTLk9SRw==">JS.ORG</span> 的 SSL 证书，由 CloudFlare Inc ECC CA-2 颁发。</p>
-<h1 id="hello-hexo"><a class="anchor" href="#hello-hexo">#</a> Hello, Hexo!</h1>
-<p>不仅换了 Pages 服务，这次连 Blog 系统也换了，从 Jekyll 换成了大名鼎鼎的 Hexo。</p>
-<p>其实我很早就听说过 Hexo 了，只是 Github Pages 本身就支持 Jekyll，而且也找到了一个不错的 Jekyll 博客主题，当时想着直接 Fork 下来就 OK 了（然而事实上我后面还是改了很多，<s>而且改得乱七八糟</s>……），然而发现写博客还是会比较麻烦。后来既然要换到 Coding Pages 上，就干脆换成 Hexo 试试看，其实更多是奔着 Hexo 有中文文档来的。</p>
-<p>以前没装过 Node.js 和 npm，都得全部装一遍。然后一打开 Blog 页面，WOW！</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/Pgl49H.png" alt="Rain City 的首页" /></p>
-<p>比 Jekyll 不知道漂亮到哪去了。</p>
-<p>然后我又发现 Hexo 居然内置了一键部署至 Git！</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/Pg1kUU.png" alt="Hexo 的一键部署" /></p>
-<p>Hexo 大法好！</p>
-<p>写了两个 bat 放在 Blog 的本地目录下面，直接双击就可以直接运行。</p>
-<p>附上 bat 命令：</p>
-<ul>
-<li>运行服务器：</li>
-</ul>
-<figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre>hexo server</pre></td></tr></table></figure><ul>
-<li>一键部署静态文件至 Git（需要配置）：</li>
-</ul>
-<figure class="highlight bash"><figcaption data-lang="bash"></figcaption><table><tr><td data-num="1"></td><td><pre>hexo deploy --generate</pre></td></tr></table></figure><p>考虑到其实在手机上写博客会比较麻烦，所以决定在电脑上写完文章后直接部署静态文件到 Coding 上。因此也专门找了一个支持 Windows 的 Markdown 编辑器 <span class="exturl" data-url="aHR0cHM6Ly9pdmFycHRyLmdpdGh1Yi5pby95dS13cml0ZXIuc2l0ZS8=">Yu Writer</span>，界面也非常漂亮。免安装，直接下载解压后就能使用。</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/Pg1J8H.png" alt="Yu Writer，写这篇文章的时候正好顺便截了个图" /></p>
-<p>完整版需要付费，不过免费版本对于我来说也足够用了。</p>
-<h1 id="评论系统"><a class="anchor" href="#评论系统">#</a> 评论系统</h1>
-<p>现在 Rain City 的评论系统依旧使用 <span class="exturl" data-url="aHR0cHM6Ly92YWxpbmUuanMub3JnLw==">Valine</span>。原本也想过换用 <span class="exturl" data-url="aHR0cHM6Ly9saXZlcmUuY29tLw==">来必力</span> 的，但无奈来必力在国外的服务器从国内访问依旧不稳定，于是继续使用 Valine。目前所有的评论已全部转移。</p>
-<p>同时这次使用了 Valine 的升级版 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL3Bhbmp1bndlbi9WYWxpbmUtQWRtaW4=">Valine-Admin</span>，支持评论后台管理，以及采用了新的邮件通知。</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/Pg8zgH.png" alt="Valine-Admin 的后台评论管理" /></p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgUtBj.png" alt="Valine 回复邮件通知" /></p>
-<p>因为 LeanCloud 云引擎自动休眠的原因，评论回复可能无法及时收到邮件通知，详见 <span class="exturl" data-url="aHR0cHM6Ly9wYW5qdW53ZW4uY29tL2RpeS1hLWNvbW1lbnQtc3lzdGVtLyNsZWFuYXBw">Valine-Admin 的说明</span>。</p>
-<h1 id="新功能-正在开发的功能"><a class="anchor" href="#新功能-正在开发的功能">#</a> 新功能 &amp; 正在开发的功能</h1>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgGMbq.png" alt="RSS &amp; Search" /></p>
-<p>没错，这里有两个新功能都放在右上角了。</p>
-<p>左边的按钮是 RSS 订阅。右键订阅图标，复制链接地址，输入到 RSS 订阅软件中，即可完成订阅。（RSS 订阅链接地址：<a href="https://fidel.js.org/atom.xml">https://fidel.js.org/atom.xml</a>）</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgYNH1.png" alt="Foxmail 中的 RSS 订阅" /></p>
-<p>这里以 Foxmail 的 RSS 订阅举个例子，切换到左侧标签栏的 “订阅”，点击左上角 “添加订阅” 按钮，粘贴 Rain City 的订阅链接，就可以看到 Rain City 最新的文章啦。（虽说我这里测试的时候出了点 bug，添加订阅的时候 Foxmail 会卡住，不过其他平台的操作也大同小异了）</p>
-<p>右边的站内搜索功能使用了 <span class="exturl" data-url="aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1nZW5lcmF0b3Itc2VhcmNo">hexo-generator-search</span> 和 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2JhcnJldGxlZS9oZXhvLXNlYXJjaC1wbHVnaW4tc25pcHBldHM=">hexo-search-plugin-snippets</span> 插件，但是不知道为什么没有效果，后面会继续研究一下。也请各位大佬指点一下，不尽感谢。</p>
-<p>除此之外，右侧的 sidebar 和音乐播放器也正在移植，其他的小细节也会持续优化。感谢关注 Rain City！</p>
-<p><img data-src="https://s1.ax1x.com/2018/08/13/PgUBCV.png" alt="赞赏一下呗～" /></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>失踪人口回归</title>
-    <url>/2019/04/19/i-am-back/</url>
-    <content><![CDATA[<p>总之怎么说，我又回来了。</p>
-<p>之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。</p>
-<span id="more"></span>
-<hr />
-<p>先列出 Rain City 改动了的地方：</p>
-<ul>
-<li>更换了字体  <code>Source Han Sans CN</code> 。</li>
-<li>添加了几位大佬的友链。</li>
-<li>Valine-admin 评论系统及邮件回复更新。</li>
-<li>添加了文章访问量统计。</li>
-<li>添加新访问域名 <span class="exturl" data-url="aHR0cHM6Ly9maWRlbHh5ei5tbA==">fidelxyz.ml</span>。<em>Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）</em></li>
-<li>站内搜索现在可用。<em>（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）</em></li>
-<li>访问速度略微优化。</li>
-<li>增加了网站的 favicon。<em>（从 <span class="exturl" data-url="aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=">Minecraft WIKI</span> 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）</em></li>
-<li>在 sidebar 中添加 console 栏，方便开发和写作时访问链接。</li>
-</ul>
-<p>改动的内容大概就这些。同时删掉了几篇不想公开的文章。</p>
-<p>最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。</p>
-<h1 id="关于新域名"><a class="anchor" href="#关于新域名">#</a> 关于新域名</h1>
-<p>就是在 <span class="exturl" data-url="aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo">Freenom</span> 上免费注册了一个新域名 <span class="exturl" data-url="aHR0cDovL2ZpZGVseHl6Lm1s">fidelxyz.ml</span>，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 <a href="http://fidel.js.org">fidel.js.org</a> 访问吧。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9fhcV.png" alt="Freenom 的免费域名" /></p>
-<p>目前在用 <span class="exturl" data-url="aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=">NodeCache</span> 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）</p>
-<p>Coding Pages 会自动申请 SSL 证书，一天生效，好评。</p>
-<p>目前没有开启强制 HTTPS 访问，因为开启之后通过 <a href="http://fidel.js.org">fidel.js.org</a> 这个域名访问会 “重定向次数过多”。</p>
-<p>把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）</p>
-<p>顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9f06f.png" alt="阿里免费的企业邮箱" /></p>
-<p>说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃</p>
-<h1 id="something-else"><a class="anchor" href="#something-else">#</a> something else</h1>
-<h2 id="小麦云盘-u-file"><a class="anchor" href="#小麦云盘-u-file">#</a> 小麦云盘 &amp; U-File</h2>
-<p>最近朋友推荐了 <span class="exturl" data-url="aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=">小麦网盘</span>，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）</p>
-<p>还有一个 <span class="exturl" data-url="aHR0cDovL3UtZmlsZS5jbi8=">U-File 直链云</span>，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。</p>
-<p>但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……</p>
-<h2 id="yu-writer"><a class="anchor" href="#yu-writer">#</a> Yu Writer</h2>
-<p>写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。</p>
-<p><img data-src="https://s2.ax1x.com/2019/04/19/E9h33q.png" alt="Yu Writer 的新版功能" /></p>
-<p>（你跟我说我写这一篇文章花了一个钟？我不信！）</p>
-<hr />
-<p>大概的事情也就这么多，更多的后面想起来再补充。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>NOIP 比赛笔记</title>
-    <url>/2019/11/15/noip-note/</url>
+    <url>/2019/11/14/noip-note/</url>
     <content><![CDATA[<p>一点小笔记</p>
 <p>祝大家 RP++</p>
 <span id="more"></span>
@@ -323,7 +159,7 @@ vmap &lt;C-A&gt; ggVG
   </entry>
   <entry>
     <title>CSP-J 2019 游记 &amp; 指引</title>
-    <url>/2019/12/27/CSPJ-tour/</url>
+    <url>/2019/12/26/CSPJ-tour/</url>
     <content><![CDATA[<p>下面那篇 NOIP 比赛笔记其实是给我自己看的……</p>
 <p>所以大家请看这篇 😃</p>
 <blockquote>
@@ -430,97 +266,13 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>非 正 常 代 码</title>
-    <url>/2020/01/16/unusual-code/</url>
-    <content><![CDATA[<p><strong>注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。</strong></p>
-<p>考完试了，是时候来放 (gao) 松 (dian) 一 (shi) 下 (qing) 了</p>
-<p>进入学校的洛谷奥赛团，发现布置了一道新题目：<a href="https://www.luogu.com.cn/problemnew/show/P1996"><strong>P1996</strong> 约瑟夫问题</a></p>
-<blockquote>
-<p><span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi></mrow><annotation encoding="application/x-tex">n</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">n</span></span></span></span> 个人（<span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>n</mi><mo>≤</mo><mn>100</mn></mrow><annotation encoding="application/x-tex">n \leq 100</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span class="mord mathnormal">n</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span><span class="mrel">≤</span><span class="mspace" style="margin-right:0.2777777777777778em;"></span></span><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span><span class="mord">0</span><span class="mord">0</span></span></span></span>）围成一圈，从第一个人开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人出列，再由下一个人重新从 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mn>1</mn></mrow><annotation encoding="application/x-tex">1</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.64444em;vertical-align:0em;"></span><span class="mord">1</span></span></span></span> 开始报数，数到 <span class="katex"><span class="katex-mathml"><math xmlns="http://www.w3.org/1998/Math/MathML"><semantics><mrow><mi>m</mi></mrow><annotation encoding="application/x-tex">m</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height:0.43056em;vertical-align:0em;"></span><span class="mord mathnormal">m</span></span></span></span> 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。</p>
-</blockquote>
-<p>要求用链表做，但我也可以搞点事情嘛～</p>
-<span id="more"></span>
-<p>十分钟后敲出一份 AC 代码：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstring></span></span></pre></td></tr><tr><td data-num="3"></td><td><pre></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre></pre></td></tr><tr><td data-num="7"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="8"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="9"></td><td><pre>    <span class="token function">memset</span><span class="token punctuation">(</span>a<span class="token punctuation">,</span> <span class="token boolean">false</span><span class="token punctuation">,</span> <span class="token keyword">sizeof</span><span class="token punctuation">(</span>a<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="10"></td><td><pre></pre></td></tr><tr><td data-num="11"></td><td><pre>    count <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="12"></td><td><pre>    i <span class="token operator">=</span> <span class="token operator">-</span><span class="token number">1</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="13"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="14"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="15"></td><td><pre>        i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="16"></td><td><pre>        i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="17"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="18"></td><td><pre>            jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="19"></td><td><pre>        <span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="20"></td><td><pre>            <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="21"></td><td><pre>            a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="22"></td><td><pre>            count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="23"></td><td><pre>            jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="24"></td><td><pre>        <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="25"></td><td><pre>    <span class="token punctuation">&#125;</span></pre></td></tr><tr><td data-num="26"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="27"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p><strong>不断地循环，用一个 <code>bool</code>  数组标记出列。</strong></p>
-<p>AC 是 AC 了，但是…… 中规中矩，<s>不符合我们搞事情的风格呀</s></p>
-<p>我们来<strong>稍微简化一下</strong> &lt;_&lt;</p>
-<blockquote>
-<p><s>简化亿下</s></p>
-</blockquote>
-<p>首先，最关键的就是中间这段 <strong>while 循环</strong>了，所以我们先从这里入手。</p>
-<h1 id="step-1"><a class="anchor" href="#step-1">#</a> Step 1</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>i<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><p>开始先是指针 <code>i</code> <strong> 累加</strong>，然后用一个<strong>求余</strong>处理溢出。</p>
-<p>合并一下，变成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-2"><a class="anchor" href="#step-2">#</a> Step 2</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span><span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">)</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    jump<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>这里需要动点脑筋，我们知道 <code>a[i]</code>  是 <code>bool</code>  型数组，所以就有 <code>True</code>  和 <code>False</code>  两种情况，<strong>作加法运算时转成 <code>int</code>  就是 <code>1</code>  和 <code>0</code> </strong>。我们只需要让 <code>jump</code>  累加上 <code>a[i]</code>  的<strong>取反值</strong>就好了。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-3"><a class="anchor" href="#step-3">#</a> Step 3</h1>
-<p>现在 Step 1 和 Step 2 的 4 行代码已经<strong>缩成了 2 行</strong>。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是这还不够，我们可以再合并一下：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr></table></figure><h1 id="step-4"><a class="anchor" href="#step-4">#</a> Step 4</h1>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token keyword">if</span> <span class="token punctuation">(</span>jump <span class="token operator">==</span> m<span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="2"></td><td><pre>    <span class="token function">printf</span><span class="token punctuation">(</span><span class="token string">"%d "</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre>    a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre>    count<span class="token operator">++</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><p>接下来是一段 <strong>if 逻辑</strong>，我们这里需要用<strong>三元操作符</strong>来代替。</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token operator">?</span> 条件为 True 时执行的代码 <span class="token operator">:</span> 条件为 False 时执行的代码</pre></td></tr></table></figure><p>我们把三元操作符塞进 <strong> <code>printf</code>  函数</strong>里面：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span>jump <span class="token operator">==</span> m <span class="token operator">?</span> <span class="token string">"%d"</span> <span class="token operator">:</span> <span class="token string">""</span> <span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>但是剩下的三行赋值怎么办？</p>
-<p>这里我们就需要用到一个很巧妙的工具了：<strong>与运算符 <code>&amp;&amp;</code> </strong></p>
-<p>我们都知道，与运算符正常的打开方式是这样子的：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre>条件 <span class="token number">1</span> <span class="token operator">&amp;&amp;</span> 条件 <span class="token number">2</span></pre></td></tr></table></figure><p>只有两个条件全为  <code>True</code> ，整个表达式才为  <code>True</code> 。<strong>如果条件 1 为  <code>True</code> ，则不会判断条件 2。</strong></p>
-<p>我们稍微思考一下，** 如果条件 2 恒为  <code>True</code> ，那么整个表达式的值完全取决于条件 1。** 而 <strong> <code>&amp;&amp;</code>  运算符两边是可以塞下一个赋值表达式的！</strong></p>
-<p>这样，<strong>我们就可以把剩下的三条赋值表达式全部用连续的  <code>&amp;&amp;</code>  运算符塞进一个括号里面去！</strong></p>
-<p>赋值表达式本身的值等于最终被赋值的值，我们只需要<strong>通过取反运算符  <code>!</code>  或者直接  <code>+1</code>  让表达式的值恒为  <code>True</code> </strong> 就好了。</p>
-<p>所以就变成了这样：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span></pre></td></tr></table></figure><p>与上面的 <code>printf</code>  函数合并一下，变成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr></table></figure><p>Perfect!</p>
-<h1 id="step-5"><a class="anchor" href="#step-5">#</a> Step 5</h1>
-<p>最后我们只需要将代码整理一下即可。</p>
-<p>貌似改动的时候出了点小 bug， <code>i</code>  不能初始化为 <code>-1</code> ，要初始化为 <code>0</code> 。我也不知道是什么原因。但也好，这就更简单了。</p>
-<p><strong>所有的变量和数组都定义为全局变量，直接默认初始化为 <code>0</code> ，这样把初始化的赋值和 <code>memset</code>  都省了。</strong></p>
-<p>整理一下，大功告成：</p>
-<figure class="highlight cpp"><figcaption data-lang="C++"></figcaption><table><tr><td data-num="1"></td><td><pre><span class="token macro property"><span class="token directive-hash">#</span><span class="token directive keyword">include</span><span class="token string">&lt;cstdio></span></span></pre></td></tr><tr><td data-num="2"></td><td><pre><span class="token keyword">int</span> n<span class="token punctuation">,</span> m<span class="token punctuation">,</span> i<span class="token punctuation">,</span> count<span class="token punctuation">,</span> jump<span class="token punctuation">;</span></pre></td></tr><tr><td data-num="3"></td><td><pre><span class="token keyword">bool</span> a<span class="token punctuation">[</span><span class="token number">100</span><span class="token punctuation">]</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="4"></td><td><pre><span class="token keyword">int</span> <span class="token function">main</span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">&#123;</span></pre></td></tr><tr><td data-num="5"></td><td><pre>    <span class="token function">scanf</span><span class="token punctuation">(</span><span class="token string">"%d%d"</span><span class="token punctuation">,</span> <span class="token operator">&amp;</span>n<span class="token punctuation">,</span> <span class="token operator">&amp;</span>m<span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="6"></td><td><pre>    <span class="token keyword">while</span> <span class="token punctuation">(</span>count <span class="token operator">&lt;</span> n<span class="token punctuation">)</span> <span class="token function">printf</span><span class="token punctuation">(</span><span class="token punctuation">(</span>jump <span class="token operator">+=</span> <span class="token operator">!</span>a<span class="token punctuation">[</span><span class="token operator">++</span>i <span class="token operator">%=</span> n<span class="token punctuation">]</span><span class="token punctuation">)</span> <span class="token operator">==</span> m <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>a<span class="token punctuation">[</span>i<span class="token punctuation">]</span> <span class="token operator">=</span> <span class="token boolean">true</span><span class="token punctuation">)</span> <span class="token operator">&amp;&amp;</span> <span class="token punctuation">(</span>count<span class="token operator">++</span><span class="token punctuation">)</span><span class="token operator">+</span><span class="token number">1</span> <span class="token operator">&amp;&amp;</span> <span class="token operator">!</span><span class="token punctuation">(</span>jump <span class="token operator">=</span> <span class="token number">0</span><span class="token punctuation">)</span> <span class="token operator">?</span> <span class="token string">"%d "</span> <span class="token operator">:</span> <span class="token string">""</span><span class="token punctuation">,</span> i<span class="token operator">+</span><span class="token number">1</span><span class="token punctuation">)</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="7"></td><td><pre>    <span class="token keyword">return</span> <span class="token number">0</span><span class="token punctuation">;</span></pre></td></tr><tr><td data-num="8"></td><td><pre><span class="token punctuation">&#125;</span></pre></td></tr></table></figure><h1 id="尾声"><a class="anchor" href="#尾声">#</a> 尾声</h1>
-<p>还是没有大佬们厉害。</p>
-<p><img data-src="https://s2.ax1x.com/2020/01/17/1Sin4H.jpg" alt="" /></p>
-<blockquote>
-<p><strong>题目背景</strong></p>
-<p>约瑟夫是一个无聊的人！！</p>
-</blockquote>
-<p>我也像是个无聊的人 &lt;_&lt;</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>随便聊聊</title>
-    <url>/2021/02/15/talk-about-something/</url>
-    <content><![CDATA[<p>分享之前在 B 站看到的一条评论。</p>
-<span id="more"></span>
-<p><img data-src="https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg" alt="" /></p>
-<blockquote>
-<p>如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。</p>
-<p>而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。</p>
-</blockquote>
-<p>很喜欢这句话。</p>
-<p>当你看这个世界时，也在发现自己。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>About Fidel&#39;s Lab</title>
     <url>/2020/04/05/new-about/</url>
     <content><![CDATA[<div class="note info">
 <p>此 About 页面及 Fidel's Lab 为目前的第三个版本。你可以 <a href="https://fidel.js.org/changelog">在这里查看详细的更新日志</a>。</p>
 </div>
-<p>Hi，我是 Fidel。</p>
-<p>这里是我的博客，Fidel's Lab。</p>
-<p>和这个博客的名字一样，这里是我分享一些实验性内容的地方。</p>
 <span id="more"></span>
-<p>熟悉我的人应该知道，我是一名<s>业余</s>视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。</p>
-<p>这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。</p>
-<p>正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。</p>
-<h1 id="自我介绍一下"><a class="anchor" href="#自我介绍一下">#</a> 自我介绍一下</h1>
-<p>可能啥都会一点，<s>然而也就会一（亿？）点</s>。</p>
-<p>现役 OIer。业余摄影师、剪辑师。</p>
-<p>半个 Minecraft 生电玩家，会用 Mine-imator 画渲染图。（上面的 Banner 好看不？我画的～）</p>
+<p><s>现役 OIer</s> 已退役。</p>
 <h1 id="rss-订阅"><a class="anchor" href="#rss-订阅">#</a> RSS 订阅</h1>
 <p>RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「伪主动推送」。</p>
 <p>在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。</p>
@@ -528,15 +280,9 @@ vmap &lt;C-A&gt; ggVG
 <p><s>（虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ）</s></p>
 <h1 id="哪里可以找到我"><a class="anchor" href="#哪里可以找到我">#</a> 哪里可以找到我</h1>
 <ul>
-<li>Bilibili 频道：<span class="exturl" data-url="aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMzY2NjQ0ODIw">@玄云 Fidel</span></li>
-<li>YouTube 频道：<span class="exturl" data-url="aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2hRYnYxTGxhcFlIMGJBX21GS1dVdkE=">@玄云 Fidel</span></li>
-<li><s>GayHub</s> GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==">@Fidelxyz</span></li>
+<li>GitHub：<span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==">@Fidelxyz</span></li>
 <li>洛谷 Luogu: <span class="exturl" data-url="aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3VzZXIvMTkwODMz">@Fidel</span></li>
 </ul>
-<h1 id="给我打钱"><a class="anchor" href="#给我打钱">#</a> 给我打钱</h1>
-<p>虽然说维护这个 Blog 不会有任何的资金支出，但是这的确不是一件容易的事情。</p>
-<p>所以，大佬们请我喝杯咖啡呗。</p>
-<p>您可以在 <span class="exturl" data-url="aHR0cHM6Ly9hZmRpYW4ubmV0L0BmaWRlbA==">爱发电</span> 捐助我。</p>
 <h1 id="一些技术性信息"><a class="anchor" href="#一些技术性信息">#</a> 一些技术性信息</h1>
 <p>Fidel's Lab 现采用的主题是 <span class="exturl" data-url="aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==">hexo-theme-shoka</span>。</p>
 <div class="note info">
@@ -552,36 +298,8 @@ vmap &lt;C-A&gt; ggVG
       </tags>
   </entry>
   <entry>
-    <title>水一张渲染图</title>
-    <url>/2020/04/10/vdrias-world/</url>
-    <content><![CDATA[<p>用 Mine-imator 水了一张渲染图。</p>
-<span id="more"></span>
-<p><img data-src="https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg" alt="" /></p>
-<p>顺便介绍一下 Vdrias World! 服务器：<span class="exturl" data-url="aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==">Vdrias World! 一个 Minecraft 服务器</span></p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>短视频流行的时代，我们为什么仍需推动长内容的发展？</title>
-    <url>/2020/04/11/why-we-need-long-content/</url>
-    <content><![CDATA[<p>今天是周六，我想起观察者网上王骁 Albert 要更新视频了，于是我打开 B 站进入观察者网的频道，映入眼帘的却是十几条几十秒不到的短视频；我下载人民日报的 App，只是为了关注报社的专题报道，然而一眼望去尽是各路花里胡哨的「自媒体」文章。</p>
-<span id="more"></span>
-<p>以上现象不仅局限于网络新闻媒体，而在网络内容平台普遍存在。用专业的话概括，这称为内容「垂直化」缺失。其根本原因，是网络信息的碎片性与传统资料的结构性之间的矛盾。</p>
-<p>我们先来了解一下网络媒介的信息推广机制：每个内容拥有对应的推荐权重，数值越大，平台会向越多用户推广该内容。推荐权重主要由两个指标决定：「浏览量」与「浏览完成度」。娱乐化内容在浏览量上有较大优势，碎片化内容在播放完成度上有较大优势。碎片化与娱乐化的优势结合，便有了如今短视频的爆火。而严谨、深入的传统长内容则与之恰好相反，导致了我们所说的「硬核内容没人看」的现象。由此持续下去，真正有深刻意义的长内容媒体将难以存活。因此，网络媒体需要通过短内容为长内容吸引流量，维持正常营收。</p>
-<p>而制作短内容的门槛相对于长内容更低，「人人皆可发声」的同时必然导致内容整体质量下降，长内容则被大量的短内容所淹没。在传统的纸媒上发布一篇报道需要经过报社层层审核取证，甚至编辑亲自执笔修改，而任何人只需要注册一个账号并实名认证，就可以成为「自媒体」在网媒上发表文章；传统纸媒上的一篇报道需要严格遵循新闻报道规范，结构完整、分析深入，而以娱乐化短视频为主要内容的网络频道便可称为「新闻媒体」。</p>
-<p>我认为，网媒需要多样化，但「人人皆可发声」的媒体平台必然会导致内容整体低质化；网媒需要时效性，但不代表文章发表前不需要严格审核。作为「知名」新闻媒体，媒体平台发挥着传播信息、影响社会舆论的作用，必须对内容的真实性和质量负责。</p>
-<p>现在我终于明白，美剧《新闻编辑室》中为什么新闻主持人 Will 不愿意在节目中播报娱乐信息，不愿意参加娱乐节目，甚至不愿意在节目中向观众露出一丝笑容。无论是纸媒还是网媒，「新闻媒体」就应该有「新闻媒体」的严谨与严肃。同样，我不否认短内容的价值，但如果娱乐化短内容取代长内容成为网络信息的主流，甚至是社会舆论的主流，将会影响公众及时了解真实而重要的消息并进行深度思考。</p>
-<p>除了新闻媒体，网络社交平台也应加大对长内容的推广力度。平台可以引入 AI 技术来分析内容的质量与原创度，而非仅以「浏览量」和「浏览完成度」来衡量内容的推广价值。网络媒体作为当今社会舆论的重要引导者，更应该主动承担起推动网络舆论氛围良性发展的责任。</p>
-]]></content>
-      <tags>
-        <tag>杂记</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>CSP-S 2020 游记 &amp; NOIP 2020 爆零记</title>
-    <url>/2020/11/15/2020-CSPS-NOIP/</url>
+    <url>/2020/11/14/2020-CSPS-NOIP/</url>
     <content><![CDATA[<blockquote>
 <p><s>不会真有人现在才写游记吧（</s></p>
 </blockquote>
@@ -734,7 +452,7 @@ vmap &lt;C-A&gt; ggVG
   </entry>
   <entry>
     <title>从 C++98 到 C++14 —— OIer 升级指南</title>
-    <url>/2021/09/13/cpp14-guide/</url>
+    <url>/2021/09/12/cpp14-guide/</url>
     <content><![CDATA[<p>2021 年 9 月 1 日，<span class="exturl" data-url="aHR0cHM6Ly93d3cubm9pLmNuL3h3LzIwMjEtMDktMDEvNzM1NzI5LnNodG1s">NOI 赛事终于对 C++ 语言支持了 C++14 标准</span>。</p>
 <p>由于 C++14 相比于 C++98 新增了不少内容，而大部分 OIer 此前的练习、比赛都基于 C++98 标准，为帮助大家快速上手 C++14 的重要好用的特性，这里给大家对 C++14 的新增内容作简单梳理。</p>
 <span id="more"></span>
@@ -1020,7 +738,7 @@ vmap &lt;C-A&gt; ggVG
   </entry>
   <entry>
     <title>【转载】蒟蒻的宝书 - 新版骗分导论</title>
-    <url>/2020/10/07/the-new-guide-of-cheating-in-oi/</url>
+    <url>/2020/10/06/the-new-guide-of-cheating-in-oi/</url>
     <content><![CDATA[<blockquote>
 <p>一年前打 CSP-J 时，学校的信息学老师给了我这篇《蒟蒻的宝书》。正是因为如此，最后我通过骗来的 15 分过了一等线。</p>
 <p>由于原帖及目前网络上的转载贴排版普遍都很难看，因此在此转载并重新排版。</p>
@@ -1448,7 +1166,7 @@ vmap &lt;C-A&gt; ggVG
   </entry>
   <entry>
     <title>「机房利器」、Coding on iPad? —— 记一次使用 Cloud Studio 云端开发的尝试</title>
-    <url>/2021/05/22/cloudstudio/</url>
+    <url>/2021/05/21/cloudstudio/</url>
     <content><![CDATA[<p>曾经，Fidel's Lab 的部署平台在 Github Pages 和 Coding Pages 之间反复横跳。这篇文章所介绍的「Cloud Studio」（原「腾讯云开发者平台」）就是由 Coding 提供的在线 IDE。Cloud Studio <strong>基于 VS Code</strong>，只需要一个<s>现代的</s>浏览器和<s>正常的</s>网络连接即可在线使用。</p>
 <span id="more"></span>
 <p>早在一年半前，我就对 Coding 当时的「腾讯云开发者平台」有所关注（当时好像不叫这个）。只不过由于极其有限的免费使用额度、需要购买云服务器才能获得良好的体验等门槛，最终并没有采用。经过一年多的升级迭代，现在的 Cloud Studio <a href="https://cloudstudio.net/docs/others/#%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4%E6%9C%89%E4%BD%95%E9%99%90%E5%88%B6%EF%BC%9F">「每个用户<strong>每日</strong>可以（免费）使用工作空间共<strong>四小时</strong>」</a>，足以承担<strong>轻度</strong>的开发任务。</p>
@@ -1703,7 +1421,7 @@ vmap &lt;C-A&gt; ggVG
   </entry>
   <entry>
     <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
-    <url>/2021/02/14/cpp-optimization/</url>
+    <url>/2021/02/13/cpp-optimization/</url>
     <content><![CDATA[<blockquote>
 <p>编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。</p>
 </blockquote>

@@ -2,17 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://fidel.js.org</id>
     <title>Fidel&#39;s Lab</title>
-    <subtitle>不乱于心，不困于情。不畏将来，不念过往。</subtitle>
+    <subtitle>我们有缘再见。</subtitle>
     <icon>https://fidel.js.org/images/favicon.ico</icon>
     <link href="https://fidel.js.org" />
     <author>
-      <name>玄云Fidel</name>
+      <name>Fidel</name>
     </author>
     <updated>2021-09-12T16:00:00.000Z</updated>
     <entry>
-        <id>https://fidel.js.org/2021/09/13/cpp14-guide/</id>
+        <id>https://fidel.js.org/2021/09/12/cpp14-guide/</id>
         <title>从 C++98 到 C++14 —— OIer 升级指南</title>
-        <link rel="alternate" href="https://fidel.js.org/2021/09/13/cpp14-guide/"/>
+        <link rel="alternate" href="https://fidel.js.org/2021/09/12/cpp14-guide/"/>
         <content type="html">&lt;p&gt;2021 年 9 月 1 日，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubm9pLmNuL3h3LzIwMjEtMDktMDEvNzM1NzI5LnNodG1s&#34;&gt;NOI 赛事终于对 C++ 语言支持了 C++14 标准&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;由于 C++14 相比于 C++98 新增了不少内容，而大部分 OIer 此前的练习、比赛都基于 C++98 标准，为帮助大家快速上手 C++14 的重要好用的特性，这里给大家对 C++14 的新增内容作简单梳理。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -296,9 +296,9 @@
         <updated>2021-09-12T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2021/05/22/cloudstudio/</id>
+        <id>https://fidel.js.org/2021/05/21/cloudstudio/</id>
         <title>「机房利器」、Coding on iPad? —— 记一次使用 Cloud Studio 云端开发的尝试</title>
-        <link rel="alternate" href="https://fidel.js.org/2021/05/22/cloudstudio/"/>
+        <link rel="alternate" href="https://fidel.js.org/2021/05/21/cloudstudio/"/>
         <content type="html">&lt;p&gt;曾经，Fidel&#39;s Lab 的部署平台在 Github Pages 和 Coding Pages 之间反复横跳。这篇文章所介绍的「Cloud Studio」（原「腾讯云开发者平台」）就是由 Coding 提供的在线 IDE。Cloud Studio &lt;strong&gt;基于 VS Code&lt;/strong&gt;，只需要一个&lt;s&gt;现代的&lt;/s&gt;浏览器和&lt;s&gt;正常的&lt;/s&gt;网络连接即可在线使用。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;p&gt;早在一年半前，我就对 Coding 当时的「腾讯云开发者平台」有所关注（当时好像不叫这个）。只不过由于极其有限的免费使用额度、需要购买云服务器才能获得良好的体验等门槛，最终并没有采用。经过一年多的升级迭代，现在的 Cloud Studio &lt;a href=&#34;https://cloudstudio.net/docs/others/#%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4%E6%9C%89%E4%BD%95%E9%99%90%E5%88%B6%EF%BC%9F&#34;&gt;「每个用户&lt;strong&gt;每日&lt;/strong&gt;可以（免费）使用工作空间共&lt;strong&gt;四小时&lt;/strong&gt;」&lt;/a&gt;，足以承担&lt;strong&gt;轻度&lt;/strong&gt;的开发任务。&lt;/p&gt;
@@ -551,26 +551,9 @@
         <updated>2021-05-21T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2021/02/15/talk-about-something/</id>
-        <title>随便聊聊</title>
-        <link rel="alternate" href="https://fidel.js.org/2021/02/15/talk-about-something/"/>
-        <content type="html">&lt;p&gt;分享之前在 B 站看到的一条评论。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://i.loli.net/2021/02/15/U6cACmVuFsLd7Xp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;如果你本性是善，从善良的角度看，up 表达了惋惜和沉痛。&lt;/p&gt;
-&lt;p&gt;而你如果本性是恶，以恶意的角度揣测，你就会以为 up 在蹭热度，在玩梗，在嘲讽。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;很喜欢这句话。&lt;/p&gt;
-&lt;p&gt;当你看这个世界时，也在发现自己。&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2021-02-14T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2021/02/14/cpp-optimization/</id>
+        <id>https://fidel.js.org/2021/02/13/cpp-optimization/</id>
         <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
-        <link rel="alternate" href="https://fidel.js.org/2021/02/14/cpp-optimization/"/>
+        <link rel="alternate" href="https://fidel.js.org/2021/02/13/cpp-optimization/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1096,9 +1079,9 @@ addl    %eax, %eax
         <updated>2021-02-13T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/</id>
+        <id>https://fidel.js.org/2020/11/14/2020-CSPS-NOIP/</id>
         <title>CSP-S 2020 游记 &amp; NOIP 2020 爆零记</title>
-        <link rel="alternate" href="https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/"/>
+        <link rel="alternate" href="https://fidel.js.org/2020/11/14/2020-CSPS-NOIP/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;&lt;s&gt;不会真有人现在才写游记吧（&lt;/s&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1249,9 +1232,9 @@ addl    %eax, %eax
         <updated>2020-11-14T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2020/10/07/the-new-guide-of-cheating-in-oi/</id>
+        <id>https://fidel.js.org/2020/10/06/the-new-guide-of-cheating-in-oi/</id>
         <title>【转载】蒟蒻的宝书 - 新版骗分导论</title>
-        <link rel="alternate" href="https://fidel.js.org/2020/10/07/the-new-guide-of-cheating-in-oi/"/>
+        <link rel="alternate" href="https://fidel.js.org/2020/10/06/the-new-guide-of-cheating-in-oi/"/>
         <content type="html">&lt;blockquote&gt;
 &lt;p&gt;一年前打 CSP-J 时，学校的信息学老师给了我这篇《蒟蒻的宝书》。正是因为如此，最后我通过骗来的 15 分过了一等线。&lt;/p&gt;
 &lt;p&gt;由于原帖及目前网络上的转载贴排版普遍都很难看，因此在此转载并重新排版。&lt;/p&gt;
@@ -1677,51 +1660,14 @@ addl    %eax, %eax
         <updated>2020-10-06T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2020/04/11/why-we-need-long-content/</id>
-        <title>短视频流行的时代，我们为什么仍需推动长内容的发展？</title>
-        <link rel="alternate" href="https://fidel.js.org/2020/04/11/why-we-need-long-content/"/>
-        <content type="html">&lt;p&gt;今天是周六，我想起观察者网上王骁 Albert 要更新视频了，于是我打开 B 站进入观察者网的频道，映入眼帘的却是十几条几十秒不到的短视频；我下载人民日报的 App，只是为了关注报社的专题报道，然而一眼望去尽是各路花里胡哨的「自媒体」文章。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;p&gt;以上现象不仅局限于网络新闻媒体，而在网络内容平台普遍存在。用专业的话概括，这称为内容「垂直化」缺失。其根本原因，是网络信息的碎片性与传统资料的结构性之间的矛盾。&lt;/p&gt;
-&lt;p&gt;我们先来了解一下网络媒介的信息推广机制：每个内容拥有对应的推荐权重，数值越大，平台会向越多用户推广该内容。推荐权重主要由两个指标决定：「浏览量」与「浏览完成度」。娱乐化内容在浏览量上有较大优势，碎片化内容在播放完成度上有较大优势。碎片化与娱乐化的优势结合，便有了如今短视频的爆火。而严谨、深入的传统长内容则与之恰好相反，导致了我们所说的「硬核内容没人看」的现象。由此持续下去，真正有深刻意义的长内容媒体将难以存活。因此，网络媒体需要通过短内容为长内容吸引流量，维持正常营收。&lt;/p&gt;
-&lt;p&gt;而制作短内容的门槛相对于长内容更低，「人人皆可发声」的同时必然导致内容整体质量下降，长内容则被大量的短内容所淹没。在传统的纸媒上发布一篇报道需要经过报社层层审核取证，甚至编辑亲自执笔修改，而任何人只需要注册一个账号并实名认证，就可以成为「自媒体」在网媒上发表文章；传统纸媒上的一篇报道需要严格遵循新闻报道规范，结构完整、分析深入，而以娱乐化短视频为主要内容的网络频道便可称为「新闻媒体」。&lt;/p&gt;
-&lt;p&gt;我认为，网媒需要多样化，但「人人皆可发声」的媒体平台必然会导致内容整体低质化；网媒需要时效性，但不代表文章发表前不需要严格审核。作为「知名」新闻媒体，媒体平台发挥着传播信息、影响社会舆论的作用，必须对内容的真实性和质量负责。&lt;/p&gt;
-&lt;p&gt;现在我终于明白，美剧《新闻编辑室》中为什么新闻主持人 Will 不愿意在节目中播报娱乐信息，不愿意参加娱乐节目，甚至不愿意在节目中向观众露出一丝笑容。无论是纸媒还是网媒，「新闻媒体」就应该有「新闻媒体」的严谨与严肃。同样，我不否认短内容的价值，但如果娱乐化短内容取代长内容成为网络信息的主流，甚至是社会舆论的主流，将会影响公众及时了解真实而重要的消息并进行深度思考。&lt;/p&gt;
-&lt;p&gt;除了新闻媒体，网络社交平台也应加大对长内容的推广力度。平台可以引入 AI 技术来分析内容的质量与原创度，而非仅以「浏览量」和「浏览完成度」来衡量内容的推广价值。网络媒体作为当今社会舆论的重要引导者，更应该主动承担起推动网络舆论氛围良性发展的责任。&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2020-04-10T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2020/04/10/vdrias-world/</id>
-        <title>水一张渲染图</title>
-        <link rel="alternate" href="https://fidel.js.org/2020/04/10/vdrias-world/"/>
-        <content type="html">&lt;p&gt;用 Mine-imator 水了一张渲染图。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2020/04/10/GTx6yQ.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;顺便介绍一下 Vdrias World! 服务器：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubWFzaGlybC5jbi8yMDIwLzAyLzI3L3Zkcmlhcy13b3JsZC1taW5lY3JhZnQtc2VydmVyLw==&#34;&gt;Vdrias World! 一个 Minecraft 服务器&lt;/span&gt;&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2020-04-09T16:00:00.000Z</updated>
-    </entry>
-    <entry>
         <id>https://fidel.js.org/2020/04/05/new-about/</id>
         <title>About Fidel&#39;s Lab</title>
         <link rel="alternate" href="https://fidel.js.org/2020/04/05/new-about/"/>
         <content type="html">&lt;div class=&#34;note info&#34;&gt;
 &lt;p&gt;此 About 页面及 Fidel&#39;s Lab 为目前的第三个版本。你可以 &lt;a href=&#34;https://fidel.js.org/changelog&#34;&gt;在这里查看详细的更新日志&lt;/a&gt;。&lt;/p&gt;
 &lt;/div&gt;
-&lt;p&gt;Hi，我是 Fidel。&lt;/p&gt;
-&lt;p&gt;这里是我的博客，Fidel&#39;s Lab。&lt;/p&gt;
-&lt;p&gt;和这个博客的名字一样，这里是我分享一些实验性内容的地方。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;p&gt;熟悉我的人应该知道，我是一名&lt;s&gt;业余&lt;/s&gt;视频制作者。不同于视频制作的标准化流程，这里的文字内容不需要长时间的构思、准备和创作，不会像我的视频一样精雕细琢且严谨认真。这里会记录我可能还未完成的小项目、突然冒出的好点子、对某些事件不成熟的看法，甚至是生活中遇到的一些有趣的事情。&lt;/p&gt;
-&lt;p&gt;这些内容里可能会夹带私货、带有倾向性、未经严谨求证的信息和观点。我不会以非常严谨客观的态度创作、维护这个博客。所以，如果您的观点与我不同，开心就好，切勿当真。&lt;/p&gt;
-&lt;p&gt;正因为以上的这些性质，这个博客不会被太多人知道。你可能从我的个人简介、其他大佬们的友链或者是百度、Google 搜索来到了这里，既然你来了，欢迎你在这里四处逛逛。&lt;/p&gt;
-&lt;h1 id=&#34;自我介绍一下&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#自我介绍一下&#34;&gt;#&lt;/a&gt; 自我介绍一下&lt;/h1&gt;
-&lt;p&gt;可能啥都会一点，&lt;s&gt;然而也就会一（亿？）点&lt;/s&gt;。&lt;/p&gt;
-&lt;p&gt;现役 OIer。业余摄影师、剪辑师。&lt;/p&gt;
-&lt;p&gt;半个 Minecraft 生电玩家，会用 Mine-imator 画渲染图。（上面的 Banner 好看不？我画的～）&lt;/p&gt;
+&lt;p&gt;&lt;s&gt;现役 OIer&lt;/s&gt; 已退役。&lt;/p&gt;
 &lt;h1 id=&#34;rss-订阅&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rss-订阅&#34;&gt;#&lt;/a&gt; RSS 订阅&lt;/h1&gt;
 &lt;p&gt;RSS 是个好东西。它将每个人的不同系统、不同主题、不同排版的 Blog 集合成一种统一的信息格式，将浏览独立博客这种行为从「被动浏览」变为「伪主动推送」。&lt;/p&gt;
 &lt;p&gt;在我看来，RSS 不仅是一种技术上的革命，更是一种信息获取方式的革命。&lt;/p&gt;
@@ -1729,15 +1675,9 @@ addl    %eax, %eax
 &lt;p&gt;&lt;s&gt;（虽然我知道这么写似乎不太优雅，但一下子想不到更好的措辞了 QwQ）&lt;/s&gt;&lt;/p&gt;
 &lt;h1 id=&#34;哪里可以找到我&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#哪里可以找到我&#34;&gt;#&lt;/a&gt; 哪里可以找到我&lt;/h1&gt;
 &lt;ul&gt;
-&lt;li&gt;Bilibili 频道：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9zcGFjZS5iaWxpYmlsaS5jb20vMzY2NjQ0ODIw&#34;&gt;@玄云 Fidel&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;YouTube 频道：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cueW91dHViZS5jb20vY2hhbm5lbC9VQ2hRYnYxTGxhcFlIMGJBX21GS1dVdkE=&#34;&gt;@玄云 Fidel&lt;/span&gt;&lt;/li&gt;
-&lt;li&gt;&lt;s&gt;GayHub&lt;/s&gt; GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==&#34;&gt;@Fidelxyz&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;GitHub：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL0ZpZGVseHl6Lw==&#34;&gt;@Fidelxyz&lt;/span&gt;&lt;/li&gt;
 &lt;li&gt;洛谷 Luogu: &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubHVvZ3UuY29tLmNuL3VzZXIvMTkwODMz&#34;&gt;@Fidel&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h1 id=&#34;给我打钱&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#给我打钱&#34;&gt;#&lt;/a&gt; 给我打钱&lt;/h1&gt;
-&lt;p&gt;虽然说维护这个 Blog 不会有任何的资金支出，但是这的确不是一件容易的事情。&lt;/p&gt;
-&lt;p&gt;所以，大佬们请我喝杯咖啡呗。&lt;/p&gt;
-&lt;p&gt;您可以在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9hZmRpYW4ubmV0L0BmaWRlbA==&#34;&gt;爱发电&lt;/span&gt; 捐助我。&lt;/p&gt;
 &lt;h1 id=&#34;一些技术性信息&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#一些技术性信息&#34;&gt;#&lt;/a&gt; 一些技术性信息&lt;/h1&gt;
 &lt;p&gt;Fidel&#39;s Lab 现采用的主题是 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2FtZWhpbWUvaGV4by10aGVtZS1zaG9rYQ==&#34;&gt;hexo-theme-shoka&lt;/span&gt;。&lt;/p&gt;
 &lt;div class=&#34;note info&#34;&gt;
@@ -1749,70 +1689,12 @@ addl    %eax, %eax
 </content>
         <category term="公告" scheme="https://fidel.js.org/tags/%E5%85%AC%E5%91%8A/" />
         <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2020-04-04T16:00:00.000Z</updated>
+        <updated>2020-04-05T04:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2020/01/16/unusual-code/</id>
-        <title>非 正 常 代 码</title>
-        <link rel="alternate" href="https://fidel.js.org/2020/01/16/unusual-code/"/>
-        <content type="html">&lt;p&gt;&lt;strong&gt;注：此非正常方法仅供娱乐，请勿用于比赛或需要他人 Review 的场合。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;考完试了，是时候来放 (gao) 松 (dian) 一 (shi) 下 (qing) 了&lt;/p&gt;
-&lt;p&gt;进入学校的洛谷奥赛团，发现布置了一道新题目：&lt;a href=&#34;https://www.luogu.com.cn/problemnew/show/P1996&#34;&gt;&lt;strong&gt;P1996&lt;/strong&gt; 约瑟夫问题&lt;/a&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 个人（&lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;n&lt;/mi&gt;&lt;mo&gt;≤&lt;/mo&gt;&lt;mn&gt;100&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;n \leq 100&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.7719400000000001em;vertical-align:-0.13597em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;n&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mrel&#34;&gt;≤&lt;/span&gt;&lt;span class=&#34;mspace&#34; style=&#34;margin-right:0.2777777777777778em;&#34;&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;0&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;）围成一圈，从第一个人开始报数，数到 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;m&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 的人出列，再由下一个人重新从 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mn&gt;1&lt;/mn&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;1&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.64444em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord&#34;&gt;1&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 开始报数，数到 &lt;span class=&#34;katex&#34;&gt;&lt;span class=&#34;katex-mathml&#34;&gt;&lt;math xmlns=&#34;http://www.w3.org/1998/Math/MathML&#34;&gt;&lt;semantics&gt;&lt;mrow&gt;&lt;mi&gt;m&lt;/mi&gt;&lt;/mrow&gt;&lt;annotation encoding=&#34;application/x-tex&#34;&gt;m&lt;/annotation&gt;&lt;/semantics&gt;&lt;/math&gt;&lt;/span&gt;&lt;span class=&#34;katex-html&#34; aria-hidden=&#34;true&#34;&gt;&lt;span class=&#34;base&#34;&gt;&lt;span class=&#34;strut&#34; style=&#34;height:0.43056em;vertical-align:0em;&#34;&gt;&lt;/span&gt;&lt;span class=&#34;mord mathnormal&#34;&gt;m&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/span&gt; 的人再出圈…… 以此类推，直到所有的人都出圈，请输出依次出圈人的编号。&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;要求用链表做，但我也可以搞点事情嘛～&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;p&gt;十分钟后敲出一份 AC 代码：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;cstdio&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;cstring&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; count&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; jump&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;bool&lt;/span&gt; a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;scanf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d%d&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;9&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;memset&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;false&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token keyword&#34;&gt;sizeof&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;10&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;11&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    count &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;12&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    i &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;-&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;13&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;14&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;15&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;16&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;17&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;18&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            jump&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;19&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;20&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            &lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d &#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;21&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;22&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;23&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;            jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;24&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;        &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;25&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;26&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;27&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;&lt;strong&gt;不断地循环，用一个 &lt;code&gt;bool&lt;/code&gt;  数组标记出列。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;AC 是 AC 了，但是…… 中规中矩，&lt;s&gt;不符合我们搞事情的风格呀&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;我们来&lt;strong&gt;稍微简化一下&lt;/strong&gt; &amp;lt;_&amp;lt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;s&gt;简化亿下&lt;/s&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;首先，最关键的就是中间这段 &lt;strong&gt;while 循环&lt;/strong&gt;了，所以我们先从这里入手。&lt;/p&gt;
-&lt;h1 id=&#34;step-1&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step-1&#34;&gt;#&lt;/a&gt; Step 1&lt;/h1&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;i&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;开始先是指针 &lt;code&gt;i&lt;/code&gt; &lt;strong&gt; 累加&lt;/strong&gt;，然后用一个&lt;strong&gt;求余&lt;/strong&gt;处理溢出。&lt;/p&gt;
-&lt;p&gt;合并一下，变成：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;step-2&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step-2&#34;&gt;#&lt;/a&gt; Step 2&lt;/h1&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    jump&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;这里需要动点脑筋，我们知道 &lt;code&gt;a[i]&lt;/code&gt;  是 &lt;code&gt;bool&lt;/code&gt;  型数组，所以就有 &lt;code&gt;True&lt;/code&gt;  和 &lt;code&gt;False&lt;/code&gt;  两种情况，&lt;strong&gt;作加法运算时转成 &lt;code&gt;int&lt;/code&gt;  就是 &lt;code&gt;1&lt;/code&gt;  和 &lt;code&gt;0&lt;/code&gt; &lt;/strong&gt;。我们只需要让 &lt;code&gt;jump&lt;/code&gt;  累加上 &lt;code&gt;a[i]&lt;/code&gt;  的&lt;strong&gt;取反值&lt;/strong&gt;就好了。&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;step-3&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step-3&#34;&gt;#&lt;/a&gt; Step 3&lt;/h1&gt;
-&lt;p&gt;现在 Step 1 和 Step 2 的 4 行代码已经&lt;strong&gt;缩成了 2 行&lt;/strong&gt;。&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;但是这还不够，我们可以再合并一下：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;step-4&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step-4&#34;&gt;#&lt;/a&gt; Step 4&lt;/h1&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d &#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;接下来是一段 &lt;strong&gt;if 逻辑&lt;/strong&gt;，我们这里需要用&lt;strong&gt;三元操作符&lt;/strong&gt;来代替。&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;条件 &lt;span class=&#34;token operator&#34;&gt;?&lt;/span&gt; 条件为 True 时执行的代码 &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; 条件为 False 时执行的代码&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;我们把三元操作符塞进 &lt;strong&gt; &lt;code&gt;printf&lt;/code&gt;  函数&lt;/strong&gt;里面：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m &lt;span class=&#34;token operator&#34;&gt;?&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;%d&#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;&#34;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;但是剩下的三行赋值怎么办？&lt;/p&gt;
-&lt;p&gt;这里我们就需要用到一个很巧妙的工具了：&lt;strong&gt;与运算符 &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt; &lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们都知道，与运算符正常的打开方式是这样子的：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;条件 &lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; 条件 &lt;span class=&#34;token number&#34;&gt;2&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;只有两个条件全为  &lt;code&gt;True&lt;/code&gt; ，整个表达式才为  &lt;code&gt;True&lt;/code&gt; 。&lt;strong&gt;如果条件 1 为  &lt;code&gt;True&lt;/code&gt; ，则不会判断条件 2。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;我们稍微思考一下，** 如果条件 2 恒为  &lt;code&gt;True&lt;/code&gt; ，那么整个表达式的值完全取决于条件 1。** 而 &lt;strong&gt; &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt;  运算符两边是可以塞下一个赋值表达式的！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;这样，&lt;strong&gt;我们就可以把剩下的三条赋值表达式全部用连续的  &lt;code&gt;&amp;amp;&amp;amp;&lt;/code&gt;  运算符塞进一个括号里面去！&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;赋值表达式本身的值等于最终被赋值的值，我们只需要&lt;strong&gt;通过取反运算符  &lt;code&gt;!&lt;/code&gt;  或者直接  &lt;code&gt;+1&lt;/code&gt;  让表达式的值恒为  &lt;code&gt;True&lt;/code&gt; &lt;/strong&gt; 就好了。&lt;/p&gt;
-&lt;p&gt;所以就变成了这样：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;与上面的 &lt;code&gt;printf&lt;/code&gt;  函数合并一下，变成：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;?&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;%d &#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;Perfect!&lt;/p&gt;
-&lt;h1 id=&#34;step-5&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#step-5&#34;&gt;#&lt;/a&gt; Step 5&lt;/h1&gt;
-&lt;p&gt;最后我们只需要将代码整理一下即可。&lt;/p&gt;
-&lt;p&gt;貌似改动的时候出了点小 bug， &lt;code&gt;i&lt;/code&gt;  不能初始化为 &lt;code&gt;-1&lt;/code&gt; ，要初始化为 &lt;code&gt;0&lt;/code&gt; 。我也不知道是什么原因。但也好，这就更简单了。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;所有的变量和数组都定义为全局变量，直接默认初始化为 &lt;code&gt;0&lt;/code&gt; ，这样把初始化的赋值和 &lt;code&gt;memset&lt;/code&gt;  都省了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;整理一下，大功告成：&lt;/p&gt;
-&lt;figure class=&#34;highlight cpp&#34;&gt;&lt;figcaption data-lang=&#34;C++&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token macro property&#34;&gt;&lt;span class=&#34;token directive-hash&#34;&gt;#&lt;/span&gt;&lt;span class=&#34;token directive keyword&#34;&gt;include&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&amp;lt;cstdio&gt;&lt;/span&gt;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;2&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; m&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; count&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; jump&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;3&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;bool&lt;/span&gt; a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;100&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;4&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token keyword&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#123;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;5&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token function&#34;&gt;scanf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token string&#34;&gt;&#34;%d%d&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;n&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&lt;/span&gt;m&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;6&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;while&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count &lt;span class=&#34;token operator&#34;&gt;&amp;lt;&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token function&#34;&gt;printf&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;+=&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;i &lt;span class=&#34;token operator&#34;&gt;%=&lt;/span&gt; n&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;==&lt;/span&gt; m &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;a&lt;span class=&#34;token punctuation&#34;&gt;[&lt;/span&gt;i&lt;span class=&#34;token punctuation&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token boolean&#34;&gt;true&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;count&lt;span class=&#34;token operator&#34;&gt;++&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;&amp;amp;&amp;amp;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;!&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;(&lt;/span&gt;jump &lt;span class=&#34;token operator&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;?&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;%d &#34;&lt;/span&gt; &lt;span class=&#34;token operator&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;token string&#34;&gt;&#34;&#34;&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;,&lt;/span&gt; i&lt;span class=&#34;token operator&#34;&gt;+&lt;/span&gt;&lt;span class=&#34;token number&#34;&gt;1&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;)&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;7&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;    &lt;span class=&#34;token keyword&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;token number&#34;&gt;0&lt;/span&gt;&lt;span class=&#34;token punctuation&#34;&gt;;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td data-num=&#34;8&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;&lt;span class=&#34;token punctuation&#34;&gt;&amp;#125;&lt;/span&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;h1 id=&#34;尾声&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#尾声&#34;&gt;#&lt;/a&gt; 尾声&lt;/h1&gt;
-&lt;p&gt;还是没有大佬们厉害。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.ax1x.com/2020/01/17/1Sin4H.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;题目背景&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;约瑟夫是一个无聊的人！！&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;我也像是个无聊的人 &amp;lt;_&amp;lt;&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2020-01-15T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2019/12/27/CSPJ-tour/</id>
+        <id>https://fidel.js.org/2019/12/26/CSPJ-tour/</id>
         <title>CSP-J 2019 游记 &amp; 指引</title>
-        <link rel="alternate" href="https://fidel.js.org/2019/12/27/CSPJ-tour/"/>
+        <link rel="alternate" href="https://fidel.js.org/2019/12/26/CSPJ-tour/"/>
         <content type="html">&lt;p&gt;下面那篇 NOIP 比赛笔记其实是给我自己看的……&lt;/p&gt;
 &lt;p&gt;所以大家请看这篇 😃&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1918,9 +1800,9 @@ addl    %eax, %eax
         <updated>2019-12-26T16:00:00.000Z</updated>
     </entry>
     <entry>
-        <id>https://fidel.js.org/2019/11/15/noip-note/</id>
+        <id>https://fidel.js.org/2019/11/14/noip-note/</id>
         <title>NOIP 比赛笔记</title>
-        <link rel="alternate" href="https://fidel.js.org/2019/11/15/noip-note/"/>
+        <link rel="alternate" href="https://fidel.js.org/2019/11/14/noip-note/"/>
         <content type="html">&lt;p&gt;一点小笔记&lt;/p&gt;
 &lt;p&gt;祝大家 RP++&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -2073,169 +1955,5 @@ vmap &amp;lt;C-A&amp;gt; ggVG
 </content>
         <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
         <updated>2019-11-14T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2019/04/19/i-am-back/</id>
-        <title>失踪人口回归</title>
-        <link rel="alternate" href="https://fidel.js.org/2019/04/19/i-am-back/"/>
-        <content type="html">&lt;p&gt;总之怎么说，我又回来了。&lt;/p&gt;
-&lt;p&gt;之前因为学业的原因这个博客荒废了一段时间，现在重新修理了一下这个小破站。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;hr /&gt;
-&lt;p&gt;先列出 Rain City 改动了的地方：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;更换了字体  &lt;code&gt;Source Han Sans CN&lt;/code&gt; 。&lt;/li&gt;
-&lt;li&gt;添加了几位大佬的友链。&lt;/li&gt;
-&lt;li&gt;Valine-admin 评论系统及邮件回复更新。&lt;/li&gt;
-&lt;li&gt;添加了文章访问量统计。&lt;/li&gt;
-&lt;li&gt;添加新访问域名 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9maWRlbHh5ei5tbA==&#34;&gt;fidelxyz.ml&lt;/span&gt;。&lt;em&gt;Freenom 上免费注册的。~~ 目前 SSL 证书还没申请到，先用着 HTTP 吧。~~ 目前 SSL 证书已生效。（Coding Pages 的自动申请 SSL 证书好评）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;站内搜索现在可用。&lt;em&gt;（不知道为什么我放了百度的站内搜索还是会自动跳转到 Google，有时间解决下。不过其实用 Google 的也不错）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;访问速度略微优化。&lt;/li&gt;
-&lt;li&gt;增加了网站的 favicon。&lt;em&gt;（从 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9taW5lY3JhZnQtemguZ2FtZXBlZGlhLmNvbS8=&#34;&gt;Minecraft WIKI&lt;/span&gt; 下载的的 Redstone Lamp (Active) 图标，后面想到更好的再换）&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;在 sidebar 中添加 console 栏，方便开发和写作时访问链接。&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;改动的内容大概就这些。同时删掉了几篇不想公开的文章。&lt;/p&gt;
-&lt;p&gt;最近还是发生了挺多事情的，也做了不少 Project。后面会把前段时间落下的几篇文章补一补。&lt;/p&gt;
-&lt;h1 id=&#34;关于新域名&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于新域名&#34;&gt;#&lt;/a&gt; 关于新域名&lt;/h1&gt;
-&lt;p&gt;就是在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuZnJlZW5vbS5jb20vemgvaW5kZXguaHRtbD9sYW5nPXpo&#34;&gt;Freenom&lt;/span&gt; 上免费注册了一个新域名 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2ZpZGVseHl6Lm1s&#34;&gt;fidelxyz.ml&lt;/span&gt;，1 年有效期。估计一年之后就忘了要重新注册了，主要还是用着 &lt;a href=&#34;http://fidel.js.org&#34;&gt;fidel.js.org&lt;/a&gt; 访问吧。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.ax1x.com/2019/04/19/E9fhcV.png&#34; alt=&#34;Freenom 的免费域名&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;目前在用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubm9kZWNhY2hlLmNvbS8=&#34;&gt;NodeCache&lt;/span&gt; 的 DNS 解析。（尝试过 NodeCache 的 CDN 加速大几率抽风，原因未知）&lt;/p&gt;
-&lt;p&gt;Coding Pages 会自动申请 SSL 证书，一天生效，好评。&lt;/p&gt;
-&lt;p&gt;目前没有开启强制 HTTPS 访问，因为开启之后通过 &lt;a href=&#34;http://fidel.js.org&#34;&gt;fidel.js.org&lt;/a&gt; 这个域名访问会 “重定向次数过多”。&lt;/p&gt;
-&lt;p&gt;把首页的 Banner 从 png 转到了 jpg 格式，大幅提高加载速度。（之前怎么没留意到这个坑）&lt;/p&gt;
-&lt;p&gt;顺便捣鼓了下阿里的免费企业邮箱。既然 1 年免费，5 年也免费，干脆就直接来个 5 年呗！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.ax1x.com/2019/04/19/E9f06f.png&#34; alt=&#34;阿里免费的企业邮箱&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;说实话这个域名邮箱用处也不大，毕竟评论通知收发邮件现在用了 Foxmail 就懒得再改了…… 倒是可以用学校的名字申请的域名 “假装下官方”？（逃&lt;/p&gt;
-&lt;h1 id=&#34;something-else&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#something-else&#34;&gt;#&lt;/a&gt; something else&lt;/h1&gt;
-&lt;h2 id=&#34;小麦云盘-u-file&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#小麦云盘-u-file&#34;&gt;#&lt;/a&gt; 小麦云盘 &amp;amp; U-File&lt;/h2&gt;
-&lt;p&gt;最近朋友推荐了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3dwLm93bi1jbG91ZC5jbi8=&#34;&gt;小麦网盘&lt;/span&gt;，知名度不高，貌似挺良心的。初始有 500G 的免费空间（！），外链分享要实名认证或者给 10 块钱。（可是比度盘良心多了，最近被度盘的限速烦到抓狂）&lt;/p&gt;
-&lt;p&gt;还有一个 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3UtZmlsZS5jbi8=&#34;&gt;U-File 直链云&lt;/span&gt;，使用 FTP 管理文件，储存空间不限量（！），可以绑定域名后作为直链使用。&lt;/p&gt;
-&lt;p&gt;但是直链需要有域名备案，然而我这一个海外域名 + 海外主机就没法了……&lt;/p&gt;
-&lt;h2 id=&#34;yu-writer&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#yu-writer&#34;&gt;#&lt;/a&gt; Yu Writer&lt;/h2&gt;
-&lt;p&gt;写到这段的时候发现前几天新装的 Yu Writer 加了一个统计字数和写作时间的新功能。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s2.ax1x.com/2019/04/19/E9h33q.png&#34; alt=&#34;Yu Writer 的新版功能&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;（你跟我说我写这一篇文章花了一个钟？我不信！）&lt;/p&gt;
-&lt;hr /&gt;
-&lt;p&gt;大概的事情也就这么多，更多的后面想起来再补充。&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2019-04-18T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2018/08/13/hello-hexo/</id>
-        <title>Hexo，走起！</title>
-        <link rel="alternate" href="https://fidel.js.org/2018/08/13/hello-hexo/"/>
-        <content type="html">&lt;p&gt;Rain City 又搬家啦！&lt;/p&gt;
-&lt;p&gt;正巧，Rain City &lt;a href=&#34;https://fidel.js.org/2018/04/30/hello-raincity/&#34;&gt;在 Github Pages 上正式建成&lt;/a&gt; 的 5 个月后，Rain City 转移到了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==&#34;&gt;Coding Pages&lt;/span&gt; 上。目前仅完成了全部文章和部分 Hexo 主题的转移，后续将会继续完善。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;h1 id=&#34;为啥-rain-city-搬家了&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#为啥-rain-city-搬家了&#34;&gt;#&lt;/a&gt; 为啥 Rain City 搬家了？&lt;/h1&gt;
-&lt;p&gt;最最主要的原因，就是 Github Pages 在国内的稳定性实在不敢恭维，写篇文章都要科学上网（见 Rain City 建成时写的文章：&lt;a href=&#34;https://fidel.js.org/2018/04/30/hello-raincity/#%E5%85%B3%E4%BA%8E%E8%BF%99%E4%B8%AA%E5%8D%9A%E5%AE%A2%E7%9A%84%E6%90%AD%E5%BB%BA&#34;&gt;Hello, Rain City!&lt;/a&gt;）。于是就换到了由 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0NvZGluZy5uZXQ=&#34;&gt;Coding.net&lt;/span&gt; 提供的 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9jb2RpbmcubmV0L3YyL3BhZ2VzLw==&#34;&gt;Coding Pages&lt;/span&gt; 服务。由于 Coding 的业务主要面向国内，所以对国内的访问会友好不少，虽然主机还是在香港（国内要备案，Coding 也玩不起）。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgQqfJ.png&#34; alt=&#34;Coding Pages 的 Ping 检测结果&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgQbY4.png&#34; alt=&#34;Github Pages 的 Ping 检测结果&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;s&gt;乍看之下好像差不多诶……&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;然而事实上 Github Pages 一堆超时…… 毕竟 Github Pages 的服务器在美国，跨了大半个地球啊。所以说，还是用 Coding Pages 吧。&lt;/p&gt;
-&lt;p&gt;（说实话我觉得 Github 最大的优点在于 GitHub Desktop，完全不需要命令行来配置 Git 啊，而且界面也十分漂亮）&lt;/p&gt;
-&lt;p&gt;Rain City 的访问域名依旧是 &lt;a href=&#34;http://fidel.js.org&#34;&gt;fidel.js.org&lt;/a&gt;，使用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9qcy5vcmcv&#34;&gt;JS.ORG&lt;/span&gt; 的 CNAME DNS 解析。全站使用 https 加密，使用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL0pTLk9SRw==&#34;&gt;JS.ORG&lt;/span&gt; 的 SSL 证书，由 CloudFlare Inc ECC CA-2 颁发。&lt;/p&gt;
-&lt;h1 id=&#34;hello-hexo&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#hello-hexo&#34;&gt;#&lt;/a&gt; Hello, Hexo!&lt;/h1&gt;
-&lt;p&gt;不仅换了 Pages 服务，这次连 Blog 系统也换了，从 Jekyll 换成了大名鼎鼎的 Hexo。&lt;/p&gt;
-&lt;p&gt;其实我很早就听说过 Hexo 了，只是 Github Pages 本身就支持 Jekyll，而且也找到了一个不错的 Jekyll 博客主题，当时想着直接 Fork 下来就 OK 了（然而事实上我后面还是改了很多，&lt;s&gt;而且改得乱七八糟&lt;/s&gt;……），然而发现写博客还是会比较麻烦。后来既然要换到 Coding Pages 上，就干脆换成 Hexo 试试看，其实更多是奔着 Hexo 有中文文档来的。&lt;/p&gt;
-&lt;p&gt;以前没装过 Node.js 和 npm，都得全部装一遍。然后一打开 Blog 页面，WOW！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/Pgl49H.png&#34; alt=&#34;Rain City 的首页&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;比 Jekyll 不知道漂亮到哪去了。&lt;/p&gt;
-&lt;p&gt;然后我又发现 Hexo 居然内置了一键部署至 Git！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/Pg1kUU.png&#34; alt=&#34;Hexo 的一键部署&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;Hexo 大法好！&lt;/p&gt;
-&lt;p&gt;写了两个 bat 放在 Blog 的本地目录下面，直接双击就可以直接运行。&lt;/p&gt;
-&lt;p&gt;附上 bat 命令：&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;运行服务器：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo server&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;ul&gt;
-&lt;li&gt;一键部署静态文件至 Git（需要配置）：&lt;/li&gt;
-&lt;/ul&gt;
-&lt;figure class=&#34;highlight bash&#34;&gt;&lt;figcaption data-lang=&#34;bash&#34;&gt;&lt;/figcaption&gt;&lt;table&gt;&lt;tr&gt;&lt;td data-num=&#34;1&#34;&gt;&lt;/td&gt;&lt;td&gt;&lt;pre&gt;hexo deploy --generate&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;&lt;p&gt;考虑到其实在手机上写博客会比较麻烦，所以决定在电脑上写完文章后直接部署静态文件到 Coding 上。因此也专门找了一个支持 Windows 的 Markdown 编辑器 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9pdmFycHRyLmdpdGh1Yi5pby95dS13cml0ZXIuc2l0ZS8=&#34;&gt;Yu Writer&lt;/span&gt;，界面也非常漂亮。免安装，直接下载解压后就能使用。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/Pg1J8H.png&#34; alt=&#34;Yu Writer，写这篇文章的时候正好顺便截了个图&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;完整版需要付费，不过免费版本对于我来说也足够用了。&lt;/p&gt;
-&lt;h1 id=&#34;评论系统&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#评论系统&#34;&gt;#&lt;/a&gt; 评论系统&lt;/h1&gt;
-&lt;p&gt;现在 Rain City 的评论系统依旧使用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly92YWxpbmUuanMub3JnLw==&#34;&gt;Valine&lt;/span&gt;。原本也想过换用 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9saXZlcmUuY29tLw==&#34;&gt;来必力&lt;/span&gt; 的，但无奈来必力在国外的服务器从国内访问依旧不稳定，于是继续使用 Valine。目前所有的评论已全部转移。&lt;/p&gt;
-&lt;p&gt;同时这次使用了 Valine 的升级版 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3Bhbmp1bndlbi9WYWxpbmUtQWRtaW4=&#34;&gt;Valine-Admin&lt;/span&gt;，支持评论后台管理，以及采用了新的邮件通知。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/Pg8zgH.png&#34; alt=&#34;Valine-Admin 的后台评论管理&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgUtBj.png&#34; alt=&#34;Valine 回复邮件通知&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;因为 LeanCloud 云引擎自动休眠的原因，评论回复可能无法及时收到邮件通知，详见 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9wYW5qdW53ZW4uY29tL2RpeS1hLWNvbW1lbnQtc3lzdGVtLyNsZWFuYXBw&#34;&gt;Valine-Admin 的说明&lt;/span&gt;。&lt;/p&gt;
-&lt;h1 id=&#34;新功能-正在开发的功能&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#新功能-正在开发的功能&#34;&gt;#&lt;/a&gt; 新功能 &amp;amp; 正在开发的功能&lt;/h1&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgGMbq.png&#34; alt=&#34;RSS &amp;amp; Search&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;没错，这里有两个新功能都放在右上角了。&lt;/p&gt;
-&lt;p&gt;左边的按钮是 RSS 订阅。右键订阅图标，复制链接地址，输入到 RSS 订阅软件中，即可完成订阅。（RSS 订阅链接地址：&lt;a href=&#34;https://fidel.js.org/atom.xml&#34;&gt;https://fidel.js.org/atom.xml&lt;/a&gt;）&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgYNH1.png&#34; alt=&#34;Foxmail 中的 RSS 订阅&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;这里以 Foxmail 的 RSS 订阅举个例子，切换到左侧标签栏的 “订阅”，点击左上角 “添加订阅” 按钮，粘贴 Rain City 的订阅链接，就可以看到 Rain City 最新的文章啦。（虽说我这里测试的时候出了点 bug，添加订阅的时候 Foxmail 会卡住，不过其他平台的操作也大同小异了）&lt;/p&gt;
-&lt;p&gt;右边的站内搜索功能使用了 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubnBtanMuY29tL3BhY2thZ2UvaGV4by1nZW5lcmF0b3Itc2VhcmNo&#34;&gt;hexo-generator-search&lt;/span&gt; 和 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL2JhcnJldGxlZS9oZXhvLXNlYXJjaC1wbHVnaW4tc25pcHBldHM=&#34;&gt;hexo-search-plugin-snippets&lt;/span&gt; 插件，但是不知道为什么没有效果，后面会继续研究一下。也请各位大佬指点一下，不尽感谢。&lt;/p&gt;
-&lt;p&gt;除此之外，右侧的 sidebar 和音乐播放器也正在移植，其他的小细节也会持续优化。感谢关注 Rain City！&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/08/13/PgUBCV.png&#34; alt=&#34;赞赏一下呗～&#34; /&gt;&lt;/p&gt;
-</content>
-        <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
-        <updated>2018-08-12T16:00:00.000Z</updated>
-    </entry>
-    <entry>
-        <id>https://fidel.js.org/2018/04/30/samsung-TGY/</id>
-        <title>三星 NOTE4 刷港版手记</title>
-        <link rel="alternate" href="https://fidel.js.org/2018/04/30/samsung-TGY/"/>
-        <content type="html">&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;关于 ROM 免费获取服务，请参见文末。&lt;/p&gt;
-&lt;/div&gt;
-&lt;p&gt;之前在知乎上看到一个提问 &lt;a href=&#34;https://www.zhihu.com/question/36413593&#34;&gt;&lt;strong&gt;【使用全套谷歌服务是种什么样的体验？- 知乎】&lt;/strong&gt;&lt;/a&gt;，发现我在这之前用到 Google 服务相比起来简直是凤毛麟角。在之前体验过 Google 服务是有多么好用后，决定给自己的手机安装 Google 框架（&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5pZmFuci5jb20vYXBwLzY5MzQ1Ng==&#34;&gt;【如何才能享用 Google 全套服务？| 有用功 | 爱范儿】&lt;/span&gt;，对于非三星手机的用户，也可以看看这篇文章）。但无奈我用的三星手机没办法通过 root 的方式解决，于是毅然决定刷港版。&lt;/p&gt;
-&lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
-&lt;blockquote&gt;
-&lt;p&gt;三星手机上 Root 和安装框架的服务都有些复杂。所幸，对于三星手机的刷机还算简单。（妹子们：并不简单好吗！）&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;还好，对于一个善于钻研各种设备的我来说，&lt;s&gt;应该不算太难…… 吧。&lt;/s&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CG6Gn0.png&#34; alt=&#34;仿佛刷了个假的系统&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;然而一上来居然刷错系统了…… 刷了个貌似是三星 S 系列的曲面屏手机的系统，并且貌似捆绑了很多国产软件。（看见那恶心的 360 浏览器没！）不过界面够漂亮，还据说挺省电。&lt;/p&gt;
-&lt;p&gt;另外这波卡刷还让我见识了三星牛逼的 Recovery 界面，其实就是用 Teamwin 定制的。（由于事发匆忙，并没有来得及拍照）&lt;/p&gt;
-&lt;h1 id=&#34;开始刷机&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#开始刷机&#34;&gt;#&lt;/a&gt; 开始刷机&lt;/h1&gt;
-&lt;p&gt;经过一番小意外，总算可以进入正题了。&lt;/p&gt;
-&lt;p&gt;在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25yb21zLmNvbQ==&#34;&gt;ROM 中国&lt;/span&gt; 找了一个刷机包，下载。这里推荐用更加方便的一体包。（话说还要买邀请码的哦，13 块一个账号，购买后无限下载，不过丰富并且高质量的 ROM 资源绝对值了。&lt;strong&gt;如果有需要免费提供 ROM 下载链接的请转到文末&lt;/strong&gt;）&lt;/p&gt;
-&lt;p&gt;顺便下载 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3d3dy5jbnJvbXMuY29tL2Rvd25sb2FkLW9kaW4uaHRtbA==&#34;&gt;Odin3&lt;/span&gt;，三星的驱动也在链接里有。&lt;/p&gt;
-&lt;p&gt;这里的连接需要注意：三星的挖煤模式跟其他手机不一样，Recovery 和 Download 模式是分开的，&lt;strong&gt;用【音量上】+【电源键】+【HOME 键】进入 Recovery 的图形界面以后需要点击右下角的【重启】，选择【Download 模式】才能与 Odin 连接。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;顺便说一句，&lt;strong&gt;如果卡在 Teamwin 的加载界面的话，不要慌张，等个三四分钟，这段时间挺长的并且不会有任何提示。&lt;/strong&gt; 如果实在加载不出来，拔电池再来一遍。&lt;/p&gt;
-&lt;p&gt;接下来的流程就跟网上说的一样了，解压压缩包放入 Odin 的 AP 文件位中，连接手机，Start。然后再等个四五分钟就行。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/06/CU3GeH.png&#34; alt=&#34;Odin&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/05/06/CU3Jwd.png&#34; alt=&#34;Odin&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;刷机完后手机会自动重启，进入新系统。我刷机的时候前两次都是卡在 “SAMSUNG” 的加载界面，如果出现这种情况的话拔电池重启，如果还是不行，&lt;strong&gt;用【音量上】+【电源键】+【HOME 键】进入 Recovery，这时候注意，刷机后的 Recovery 界面会有所改变，不再是 Teamwin 的图形界面，而是像普通手机的命令行系统。用音量键选择 Power Off，正常进入系统。&lt;/strong&gt; 出现 “SAMSUNG” 的界面等多三四分钟即可，这段时间也会比较长。如果再次卡住，则按照上面的办法再来一遍。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGg6YD.png&#34; alt=&#34;设置界面&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;成功启动系统后，就会进入设置界面了。需要注意，因为我刷的是港版系统，所以会有一个 Google 检查网络的过程，但是因为 GFW 的封锁在国内是无法访问 Google 的服务器的。于是就会卡在 “正在检查网络连接” 这一步。&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGgrTK.png&#34; alt=&#34;正在检查网络连接&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;按照百度到的方法，可以用连了 VPN 的电脑共享 WiFi 给手机，但是我试了试不太行，于是干脆关机，把 SIM 卡拔掉，重新开机，把 WiFi 关掉，完美跳过网络检查。&lt;strong&gt;但据说这方法只有在之前没装过 Google 框架的手机上才行，就算用这样的方法通过后再恢复出厂设置，就不能用这样的方法了。&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;设置时要登录 Google 或者三星账号的全部跳过，设置完后第一件事就是&lt;strong&gt;赶紧装 VPN&lt;/strong&gt;，万一哪天又来个网络验证，……&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGgcfe.png&#34; alt=&#34;设置界面&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;至此，刷机完美完成。顺便附上几张截图：&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGg2SH.png&#34; alt=&#34;Google 全套服务&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGgRld.png&#34; alt=&#34;主屏幕截图&#34; /&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img data-src=&#34;https://s1.ax1x.com/2018/04/30/CGgyFO.png&#34; alt=&#34;Google Play&#34; /&gt;&lt;/p&gt;
-&lt;h1 id=&#34;关于-vpn&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#关于-vpn&#34;&gt;#&lt;/a&gt; 关于 VPN&lt;/h1&gt;
-&lt;p&gt;目前我正在使用 SSR 连接 VPN，服务器在这里找：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzUyc3NyLmNu&#34;&gt;52ssr.cn&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;SSR 下载点这里：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly9naXRodWIuY29tL3NoYWRvd3NvY2tzcnIvc2hhZG93c29ja3NyLWFuZHJvaWQvcmVsZWFzZXM=&#34;&gt;https://github.com/shadowsocksrr/shadowsocksr-android/releases&lt;/span&gt;&lt;/p&gt;
-&lt;div class=&#34;note info&#34;&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzUyc3NyLmNu&#34;&gt;52ssr.cn&lt;/span&gt; 已失效，详见文末。&lt;/p&gt;
-&lt;/div&gt;
-&lt;h1 id=&#34;rom-免费提供&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#rom-免费提供&#34;&gt;#&lt;/a&gt; ROM 免费提供&lt;/h1&gt;
-&lt;p&gt;如果有需要 ROM 的用户，&lt;strong&gt;请在 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cuY25yb21zLmNvbQ==&#34;&gt;ROM 中国&lt;/span&gt; 找到您的手机型号适用的 ROM，并将文章链接通过下面评论的方式留言，并填写您的邮箱地址&lt;/strong&gt;，我会尽快将下载链接回复给您，您的邮箱也会收到通知邮件。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h1 id=&#34;补充&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#补充&#34;&gt;#&lt;/a&gt; 补充&lt;/h1&gt;
-&lt;h2 id=&#34;2018-05-26&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2018-05-26&#34;&gt;#&lt;/a&gt; 2018-05-26&lt;/h2&gt;
-&lt;p&gt;昨天发现 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovLzUyc3NyLmNu&#34;&gt;52ssr.cn&lt;/span&gt; 登录不上了。&lt;/p&gt;
-&lt;p&gt;一个新的 ssr 提供网站：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dldHNzci50aw==&#34;&gt;getssr.tk&lt;/span&gt;。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;some-days-later&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#some-days-later&#34;&gt;#&lt;/a&gt; Some days later&lt;/h2&gt;
-&lt;p&gt;貌似 &lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dldHNzci50aw==&#34;&gt;getssr.tk&lt;/span&gt; 也连不上了。&lt;/p&gt;
-&lt;p&gt;再推荐一个：&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL3Bvcm8uaWN1Lw==&#34;&gt;Poro&lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;（Poro 貌似是有 alibaba 撑着？！细思极恐）&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;2019-4-13&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#2019-4-13&#34;&gt;#&lt;/a&gt; 2019-4-13&lt;/h2&gt;
-&lt;p&gt;最近 Poro 也不好使了。&lt;/p&gt;
-&lt;p&gt;&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cDovL2dldHNzci50aw==&#34;&gt;getssr.tk&lt;/span&gt; 回归？&lt;/p&gt;
-</content>
-        <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-        <category term="周边服务" scheme="https://fidel.js.org/tags/%E5%91%A8%E8%BE%B9%E6%9C%8D%E5%8A%A1/" />
-        <updated>2018-04-29T16:00:00.000Z</updated>
     </entry>
 </feed>
