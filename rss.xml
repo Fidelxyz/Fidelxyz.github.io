@@ -10,14 +10,14 @@
         </author>
         <description></description>
         <language>en</language>
-        <pubDate>Sun, 12 Sep 2021 12:00:00 -0400</pubDate>
-        <lastBuildDate>Sun, 12 Sep 2021 12:00:00 -0400</lastBuildDate>
+        <pubDate>Mon, 13 Sep 2021 00:00:00 -0400</pubDate>
+        <lastBuildDate>Mon, 13 Sep 2021 00:00:00 -0400</lastBuildDate>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2021/09/12/cpp14-guide/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2021/09/13/cpp14-guide/</guid>
             <title>从 C++98 到 C++14 —— OIer 升级指南</title>
-            <link>https://fidel.js.org/2021/09/12/cpp14-guide/</link>
+            <link>https://fidel.js.org/2021/09/13/cpp14-guide/</link>
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Sun, 12 Sep 2021 12:00:00 -0400</pubDate>
+            <pubDate>Mon, 13 Sep 2021 00:00:00 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;2021 年 9 月 1 日，&lt;span class=&#34;exturl&#34; data-url=&#34;aHR0cHM6Ly93d3cubm9pLmNuL3h3LzIwMjEtMDktMDEvNzM1NzI5LnNodG1s&#34;&gt;NOI 赛事终于对 C++ 语言支持了 C++14 标准&lt;/span&gt;。&lt;/p&gt;
 &lt;p&gt;由于 C++14 相比于 C++98 新增了不少内容，而大部分 OIer 此前的练习、比赛都基于 C++98 标准，为帮助大家快速上手 C++14 的重要好用的特性，这里给大家对 C++14 的新增内容作简单梳理。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
@@ -299,12 +299,12 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2021/05/21/cloudstudio/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2021/05/22/cloudstudio/</guid>
             <title>「机房利器」、Coding on iPad? —— 记一次使用 Cloud Studio 云端开发的尝试</title>
-            <link>https://fidel.js.org/2021/05/21/cloudstudio/</link>
+            <link>https://fidel.js.org/2021/05/22/cloudstudio/</link>
             <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Fri, 21 May 2021 12:00:00 -0400</pubDate>
+            <pubDate>Sat, 22 May 2021 00:00:00 -0400</pubDate>
             <description><![CDATA[ &lt;p&gt;曾经，Fidel&#39;s Lab 的部署平台在 Github Pages 和 Coding Pages 之间反复横跳。这篇文章所介绍的「Cloud Studio」（原「腾讯云开发者平台」）就是由 Coding 提供的在线 IDE。Cloud Studio &lt;strong&gt;基于 VS Code&lt;/strong&gt;，只需要一个&lt;s&gt;现代的&lt;/s&gt;浏览器和&lt;s&gt;正常的&lt;/s&gt;网络连接即可在线使用。&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
 &lt;p&gt;早在一年半前，我就对 Coding 当时的「腾讯云开发者平台」有所关注（当时好像不叫这个）。只不过由于极其有限的免费使用额度、需要购买云服务器才能获得良好的体验等门槛，最终并没有采用。经过一年多的升级迭代，现在的 Cloud Studio &lt;a href=&#34;https://cloudstudio.net/docs/others/#%E5%B7%A5%E4%BD%9C%E7%A9%BA%E9%97%B4%E6%9C%89%E4%BD%95%E9%99%90%E5%88%B6%EF%BC%9F&#34;&gt;「每个用户&lt;strong&gt;每日&lt;/strong&gt;可以（免费）使用工作空间共&lt;strong&gt;四小时&lt;/strong&gt;」&lt;/a&gt;，足以承担&lt;strong&gt;轻度&lt;/strong&gt;的开发任务。&lt;/p&gt;
@@ -554,11 +554,11 @@
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2021/02/13/cpp-optimization/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2021/02/14/cpp-optimization/</guid>
             <title>【转载】还能这样玩——关于一些 OI 的黑 (sao) 科 (cao) 技 (zuo) 优化</title>
-            <link>https://fidel.js.org/2021/02/13/cpp-optimization/</link>
+            <link>https://fidel.js.org/2021/02/14/cpp-optimization/</link>
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Sat, 13 Feb 2021 11:00:00 -0500</pubDate>
+            <pubDate>Sun, 14 Feb 2021 00:00:00 -0500</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;编者注：虽然标题中提到了 OI，但个人认为本文对追求极限的代码调优的价值远大于对 OI 的价值。&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1082,12 +1082,12 @@ addl    %eax, %eax
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2020/11/14/2020-CSPS-NOIP/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/</guid>
             <title>CSP-S 2020 游记 &amp; NOIP 2020 爆零记</title>
-            <link>https://fidel.js.org/2020/11/14/2020-CSPS-NOIP/</link>
+            <link>https://fidel.js.org/2020/11/15/2020-CSPS-NOIP/</link>
             <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Sat, 14 Nov 2020 11:00:00 -0500</pubDate>
+            <pubDate>Sun, 15 Nov 2020 00:00:00 -0500</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;&lt;s&gt;不会真有人现在才写游记吧（&lt;/s&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -1235,11 +1235,11 @@ addl    %eax, %eax
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2020/10/06/the-new-guide-of-cheating-in-oi/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2020/10/07/the-new-guide-of-cheating-in-oi/</guid>
             <title>【转载】蒟蒻的宝书 - 新版骗分导论</title>
-            <link>https://fidel.js.org/2020/10/06/the-new-guide-of-cheating-in-oi/</link>
+            <link>https://fidel.js.org/2020/10/07/the-new-guide-of-cheating-in-oi/</link>
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Tue, 06 Oct 2020 12:00:00 -0400</pubDate>
+            <pubDate>Wed, 07 Oct 2020 00:00:00 -0400</pubDate>
             <description><![CDATA[ &lt;blockquote&gt;
 &lt;p&gt;一年前打 CSP-J 时，学校的信息学老师给了我这篇《蒟蒻的宝书》。正是因为如此，最后我通过骗来的 15 分过了一等线。&lt;/p&gt;
 &lt;p&gt;由于原帖及目前网络上的转载贴排版普遍都很难看，因此在此转载并重新排版。&lt;/p&gt;
@@ -1695,12 +1695,12 @@ addl    %eax, %eax
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2019/12/26/CSPJ-tour/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2019/12/27/CSPJ-tour/</guid>
             <title>CSP-J 2019 游记 &amp; 指引</title>
-            <link>https://fidel.js.org/2019/12/26/CSPJ-tour/</link>
+            <link>https://fidel.js.org/2019/12/27/CSPJ-tour/</link>
             <category term="杂记" scheme="https://fidel.js.org/tags/%E6%9D%82%E8%AE%B0/" />
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Thu, 26 Dec 2019 11:00:00 -0500</pubDate>
+            <pubDate>Fri, 27 Dec 2019 00:00:00 -0500</pubDate>
             <description><![CDATA[ &lt;p&gt;下面那篇 NOIP 比赛笔记其实是给我自己看的……&lt;/p&gt;
 &lt;p&gt;所以大家请看这篇 😃&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1803,11 +1803,11 @@ addl    %eax, %eax
  ]]></description>
         </item>
         <item>
-            <guid isPermalink="true">https://fidel.js.org/2019/11/14/noip-note/</guid>
+            <guid isPermalink="true">https://fidel.js.org/2019/11/15/noip-note/</guid>
             <title>NOIP 比赛笔记</title>
-            <link>https://fidel.js.org/2019/11/14/noip-note/</link>
+            <link>https://fidel.js.org/2019/11/15/noip-note/</link>
             <category term="技术" scheme="https://fidel.js.org/tags/%E6%8A%80%E6%9C%AF/" />
-            <pubDate>Thu, 14 Nov 2019 11:00:00 -0500</pubDate>
+            <pubDate>Fri, 15 Nov 2019 00:00:00 -0500</pubDate>
             <description><![CDATA[ &lt;p&gt;一点小笔记&lt;/p&gt;
 &lt;p&gt;祝大家 RP++&lt;/p&gt;
 &lt;span id=&#34;more&#34;&gt;&lt;/span&gt;
